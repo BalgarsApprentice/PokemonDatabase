@@ -1,0 +1,17 @@
+natu
+1      Leer
+1      Peck
+6      Night Shade
+9      Teleport
+12      Lucky Chant
+17      Miracle Eye
+20      Me First
+23      Confuse Ray
+28      Wish
+33      Psycho Shift
+36      Future Sight
+39      Stored Power
+44      Ominous Wind
+47      Guard Swap
+47      Power Swap
+50      Psychic

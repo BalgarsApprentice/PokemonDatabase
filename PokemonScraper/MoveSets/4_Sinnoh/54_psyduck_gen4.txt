@@ -1,0 +1,14 @@
+psyduck
+1      Scratch
+1      Water Sport
+5      Tail Whip
+9      Water Gun
+14      Disable
+18      Confusion
+22      Water Pulse
+27      Fury Swipes
+31      Screech
+35      Psych Up
+40      Zen Headbutt
+44      Amnesia
+48      Hydro Pump

@@ -1,0 +1,16 @@
+vulpix
+1      Ember
+4      Tail Whip
+7      Roar
+11      Quick Attack
+14      Will-O-Wisp
+17      Confuse Ray
+21      Imprison
+24      Flamethrower
+27      Safeguard
+31      Payback
+34      Fire Spin
+37      Captivate
+41      Grudge
+44      Extrasensory
+47      Fire Blast

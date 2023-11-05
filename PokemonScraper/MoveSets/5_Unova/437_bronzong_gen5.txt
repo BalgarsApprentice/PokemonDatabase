@@ -1,0 +1,20 @@
+bronzong
+1      Confusion
+1      Hypnosis
+1      Imprison
+1      Rain Dance
+1      Sunny Day
+1      Tackle
+7      Hypnosis
+12      Imprison
+14      Confuse Ray
+19      Extrasensory
+26      Iron Defense
+30      Safeguard
+33      Block
+38      Gyro Ball
+43      Future Sight
+50      Faint Attack
+61      Payback
+67      Heal Block
+72      Heavy Slam

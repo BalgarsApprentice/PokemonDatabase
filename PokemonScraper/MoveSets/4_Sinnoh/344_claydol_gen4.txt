@@ -1,0 +1,19 @@
+claydol
+1      Confusion
+1      Harden
+1      Rapid Spin
+1      Teleport
+3      Harden
+5      Rapid Spin
+7      Mud-Slap
+11      Psybeam
+15      Rock Tomb
+19      Selfdestruct
+25      AncientPower
+31      Power Trick
+36      Hyper Beam
+40      Sandstorm
+51      Cosmic Power
+62      Earth Power
+73      Heal Block
+86      Explosion

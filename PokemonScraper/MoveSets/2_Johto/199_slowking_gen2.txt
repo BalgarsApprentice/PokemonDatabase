@@ -1,0 +1,10 @@
+slowking
+1      Curse
+1      Tackle
+6      Growl
+15      Water Gun
+20      Confusion
+29      Disable
+34      Headbutt
+43      Swagger
+48      Psychic

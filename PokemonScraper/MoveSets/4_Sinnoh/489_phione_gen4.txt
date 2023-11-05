@@ -1,0 +1,12 @@
+phione
+1      Bubble
+1      Water Sport
+9      Charm
+16      Supersonic
+24      BubbleBeam
+31      Acid Armor
+39      Whirlpool
+46      Water Pulse
+54      Aqua Ring
+61      Dive
+69      Rain Dance

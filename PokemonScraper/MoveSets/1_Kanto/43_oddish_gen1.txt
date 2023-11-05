@@ -1,0 +1,19 @@
+oddish
+1      Absorb
+15      PoisonPowder
+17      Stun Spore
+19      Sleep Powder
+24      Acid
+33      Petal Dance
+46      SolarBeam
+
+
+Yellow Version
+oddish
+1      Absorb
+15      PoisonPowder
+17      Stun Spore
+19      Sleep Powder
+24      Acid
+33      Petal Dance
+46      SolarBeam

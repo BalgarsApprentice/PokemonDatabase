@@ -1,0 +1,15 @@
+hitmontop
+1      Revenge
+1      Rolling Kick
+6      Focus Energy
+10      Pursuit
+15      Quick Attack
+19      Triple Kick
+24      Rapid Spin
+28      Counter
+33      Feint
+37      Agility
+42      Gyro Ball
+46      Detect
+51      Close Combat
+55      Endeavor

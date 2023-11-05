@@ -1,0 +1,14 @@
+larvitar
+1      Bite
+1      Leer
+5      Sandstorm
+10      Screech
+14      Rock Slide
+19      Scary Face
+23      Thrash
+28      Dark Pulse
+32      Payback
+37      Crunch
+41      Earthquake
+46      Stone Edge
+50      Hyper Beam

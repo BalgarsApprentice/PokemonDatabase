@@ -1,0 +1,20 @@
+steelix
+1      Bind
+1      Fire Fang
+1      Harden
+1      Ice Fang
+1      Mud Sport
+1      Tackle
+1      Thunder Fang
+6      Screech
+9      Rock Throw
+14      Rage
+17      Rock Tomb
+22      Sandstorm
+25      Slam
+30      Rock Polish
+33      DragonBreath
+38      Iron Tail
+41      Crunch
+46      Double-Edge
+49      Stone Edge

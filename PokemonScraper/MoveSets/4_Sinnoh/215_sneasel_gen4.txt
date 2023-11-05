@@ -1,0 +1,14 @@
+sneasel
+1      Leer
+1      Scratch
+1      Taunt
+8      Quick Attack
+10      Screech
+14      Faint Attack
+21      Fury Swipes
+24      Agility
+28      Icy Wind
+35      Slash
+38      Beat Up
+42      Metal Claw
+49      Ice Shard

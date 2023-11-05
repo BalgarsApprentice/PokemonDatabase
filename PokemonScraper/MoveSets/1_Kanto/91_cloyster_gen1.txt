@@ -1,0 +1,15 @@
+cloyster
+1      Aurora Beam
+1      Clamp
+1      Supersonic
+1      Withdraw
+50      Spike Cannon
+
+
+Yellow Version
+cloyster
+1      Aurora Beam
+1      Clamp
+1      Supersonic
+1      Withdraw
+50      Spike Cannon

@@ -1,0 +1,12 @@
+meditite
+1      Bide
+4      Meditate
+9      Confusion
+12      Detect
+18      Hidden Power
+22      Mind Reader
+28      Calm Mind
+32      Hi Jump Kick
+38      Psych Up
+42      Reversal
+48      Recover

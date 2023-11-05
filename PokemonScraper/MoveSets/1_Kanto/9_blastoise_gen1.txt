@@ -1,0 +1,25 @@
+blastoise
+1      Bubble
+1      Tackle
+1      Tail Whip
+1      Water Gun
+8      Bubble
+15      Water Gun
+24      Bite
+31      Withdraw
+42      Skull Bash
+52      Hydro Pump
+
+
+Yellow Version
+blastoise
+1      Bubble
+1      Tackle
+1      Tail Whip
+1      Water Gun
+8      Bubble
+15      Water Gun
+24      Bite
+31      Withdraw
+42      Skull Bash
+52      Hydro Pump

@@ -1,0 +1,16 @@
+pansear
+1      Scratch
+4      Leer
+7      Lick
+10      Incinerate
+13      Fury Swipes
+16      Yawn
+19      Bite
+22      Flame Burst
+25      Amnesia
+28      Fling
+31      Acrobatics
+34      Fire Blast
+37      Recycle
+40      Natural Gift
+43      Crunch

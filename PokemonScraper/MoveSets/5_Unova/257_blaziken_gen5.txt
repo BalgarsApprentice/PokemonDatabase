@@ -1,0 +1,19 @@
+blaziken
+1      Ember
+1      Fire Punch
+1      Focus Energy
+1      Growl
+1      Hi Jump Kick
+1      Scratch
+7      Focus Energy
+13      Ember
+16      Double Kick
+17      Peck
+21      Sand-Attack
+28      Bulk Up
+32      Quick Attack
+36      Blaze Kick
+42      Slash
+49      Brave Bird
+59      Sky Uppercut
+66      Flare Blitz

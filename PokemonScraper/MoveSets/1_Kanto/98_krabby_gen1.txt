@@ -1,0 +1,19 @@
+krabby
+1      Bubble
+1      Leer
+20      ViceGrip
+25      Guillotine
+30      Stomp
+35      Crabhammer
+40      Harden
+
+
+Yellow Version
+krabby
+1      Bubble
+1      Leer
+20      ViceGrip
+25      Guillotine
+30      Stomp
+35      Crabhammer
+40      Harden

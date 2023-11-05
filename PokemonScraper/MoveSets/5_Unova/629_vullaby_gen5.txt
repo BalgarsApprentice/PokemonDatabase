@@ -1,0 +1,17 @@
+vullaby
+1      Gust
+1      Leer
+5      Fury Attack
+10      Pluck
+14      Nasty Plot
+19      Flatter
+23      Faint Attack
+28      Punishment
+32      Defog
+37      Tailwind
+41      Air Slash
+46      Dark Pulse
+50      Embargo
+55      Whirlwind
+59      Brave Bird
+64      Mirror Move

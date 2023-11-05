@@ -1,0 +1,17 @@
+purrloin
+1      Scratch
+3      Growl
+6      Assist
+10      Sand-Attack
+12      Fury Swipes
+15      Pursuit
+19      Torment
+21      Fake Out
+24      Hone Claws
+28      Assurance
+30      Slash
+33      Captivate
+37      Night Slash
+39      Snatch
+42      Nasty Plot
+46      Sucker Punch

@@ -1,0 +1,17 @@
+girafarig
+1      Astonish
+1      Confusion
+1      Growl
+1      Guard Swap
+1      Power Swap
+1      Tackle
+5      Odor Sleuth
+10      Stomp
+14      Agility
+19      Psybeam
+23      Baton Pass
+28      Assurance
+32      Double Hit
+37      Psychic
+41      Zen Headbutt
+46      Crunch

@@ -1,0 +1,12 @@
+mareep
+1      Tackle
+5      Growl
+10      ThunderShock
+14      Thunder Wave
+19      Cotton Spore
+23      Charge
+28      Discharge
+32      Signal Beam
+37      Light Screen
+41      Power Gem
+46      Thunder

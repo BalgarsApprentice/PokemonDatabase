@@ -1,0 +1,14 @@
+nidoran-f
+1      Growl
+1      Scratch
+7      Tail Whip
+9      Double Kick
+13      Poison Sting
+19      Fury Swipes
+21      Bite
+25      Helping Hand
+31      Toxic Spikes
+33      Flatter
+37      Crunch
+43      Captivate
+45      Poison Fang

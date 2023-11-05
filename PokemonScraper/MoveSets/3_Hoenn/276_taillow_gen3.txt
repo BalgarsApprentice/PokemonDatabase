@@ -1,0 +1,10 @@
+taillow
+1      Growl
+1      Peck
+4      Focus Energy
+8      Quick Attack
+13      Wing Attack
+19      Double Team
+26      Endeavor
+34      Aerial Ace
+43      Agility

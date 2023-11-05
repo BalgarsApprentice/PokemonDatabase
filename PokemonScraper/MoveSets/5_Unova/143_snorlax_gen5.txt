@@ -1,0 +1,17 @@
+snorlax
+1      Tackle
+4      Defense Curl
+9      Amnesia
+12      Lick
+17      Belly Drum
+20      Yawn
+25      Chip Away
+28      Rest
+28      Snore
+33      Sleep Talk
+36      Body Slam
+41      Block
+44      Rollout
+49      Crunch
+52      Heavy Slam
+57      Giga Impact

@@ -1,0 +1,19 @@
+electabuzz
+1      Leer
+1      Quick Attack
+34      ThunderShock
+37      Screech
+42      ThunderPunch
+49      Light Screen
+54      Thunder
+
+
+Yellow Version
+electabuzz
+1      Leer
+1      Quick Attack
+34      ThunderShock
+37      Screech
+42      ThunderPunch
+49      Light Screen
+54      Thunder

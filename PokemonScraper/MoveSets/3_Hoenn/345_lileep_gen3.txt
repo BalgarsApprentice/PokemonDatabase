@@ -1,0 +1,11 @@
+lileep
+1      Astonish
+8      Constrict
+15      Acid
+22      Ingrain
+29      Confuse Ray
+36      Amnesia
+43      AncientPower
+50      Spit Up
+50      Stockpile
+50      Swallow

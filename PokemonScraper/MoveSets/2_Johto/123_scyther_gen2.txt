@@ -1,0 +1,11 @@
+scyther
+1      Leer
+1      Quick Attack
+6      Focus Energy
+12      Pursuit
+18      False Swipe
+24      Agility
+30      Wing Attack
+36      Slash
+42      Swords Dance
+48      Double Team

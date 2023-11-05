@@ -1,0 +1,11 @@
+chikorita
+1      Growl
+1      Tackle
+8      Razor Leaf
+12      Reflect
+15      PoisonPowder
+22      Synthesis
+29      Body Slam
+36      Light Screen
+43      Safeguard
+50      SolarBeam

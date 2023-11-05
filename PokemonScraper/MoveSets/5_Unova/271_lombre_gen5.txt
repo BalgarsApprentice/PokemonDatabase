@@ -1,0 +1,12 @@
+lombre
+1      Astonish
+3      Growl
+5      Absorb
+7      Nature Power
+11      Fake Out
+15      Fury Swipes
+19      Water Sport
+25      BubbleBeam
+31      Zen Headbutt
+37      Uproar
+45      Hydro Pump

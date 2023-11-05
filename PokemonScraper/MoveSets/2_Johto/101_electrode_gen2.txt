@@ -1,0 +1,13 @@
+electrode
+1      Screech
+1      Selfdestruct
+1      SonicBoom
+1      Tackle
+9      Screech
+17      SonicBoom
+23      Selfdestruct
+29      Rollout
+34      Light Screen
+40      Swift
+44      Explosion
+48      Mirror Coat

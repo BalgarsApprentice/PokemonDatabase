@@ -1,0 +1,17 @@
+deino
+1      Dragon Rage
+1      Tackle
+4      Focus Energy
+9      Bite
+12      Headbutt
+17      DragonBreath
+20      Roar
+25      Crunch
+28      Slam
+32      Dragon Pulse
+38      Work Up
+42      Dragon Rush
+48      Body Slam
+52      Scary Face
+58      Hyper Voice
+62      Outrage

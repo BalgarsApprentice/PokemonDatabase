@@ -1,0 +1,13 @@
+magby
+1      Leer
+1      Smog
+7      Ember
+10      SmokeScreen
+16      Faint Attack
+19      Fire Spin
+25      Confuse Ray
+28      Fire Punch
+34      Lava Plume
+37      Flamethrower
+43      Sunny Day
+46      Fire Blast

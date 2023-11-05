@@ -1,0 +1,14 @@
+charmeleon
+1      Ember
+1      Growl
+1      Scratch
+7      Ember
+10      SmokeScreen
+17      Dragon Rage
+21      Scary Face
+28      Fire Fang
+32      Flame Burst
+39      Slash
+43      Flamethrower
+50      Fire Spin
+54      Inferno

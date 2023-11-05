@@ -1,0 +1,21 @@
+fearow
+1      Growl
+1      Leer
+1      Peck
+9      Leer
+15      Fury Attack
+25      Mirror Move
+34      Drill Peck
+43      Agility
+
+
+Yellow Version
+fearow
+1      Growl
+1      Leer
+1      Peck
+9      Leer
+15      Fury Attack
+25      Mirror Move
+34      Drill Peck
+43      Agility

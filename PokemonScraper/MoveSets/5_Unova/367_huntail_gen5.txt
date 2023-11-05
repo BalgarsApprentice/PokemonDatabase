@@ -1,0 +1,13 @@
+huntail
+1      Whirlpool
+6      Bite
+10      Screech
+15      Water Pulse
+19      Scary Face
+24      Ice Fang
+28      Brine
+33      Baton Pass
+37      Dive
+42      Crunch
+46      Aqua Tail
+51      Hydro Pump

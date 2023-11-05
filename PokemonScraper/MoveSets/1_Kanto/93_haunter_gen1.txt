@@ -1,0 +1,15 @@
+haunter
+1      Confuse Ray
+1      Lick
+1      Night Shade
+29      Hypnosis
+38      Dream Eater
+
+
+Yellow Version
+haunter
+1      Confuse Ray
+1      Lick
+1      Night Shade
+29      Hypnosis
+38      Dream Eater

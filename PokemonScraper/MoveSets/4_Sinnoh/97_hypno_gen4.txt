@@ -1,0 +1,20 @@
+hypno
+1      Confusion
+1      Disable
+1      Hypnosis
+1      Nightmare
+1      Pound
+1      Switcheroo
+7      Disable
+9      Confusion
+15      Headbutt
+18      Poison Gas
+21      Meditate
+28      Psybeam
+33      Psych Up
+38      Headbutt
+45      Swagger
+50      Psychic
+55      Nasty Plot
+64      Zen Headbutt
+69      Future Sight

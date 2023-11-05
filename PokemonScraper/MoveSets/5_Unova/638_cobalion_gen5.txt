@@ -1,0 +1,15 @@
+cobalion
+1      Leer
+1      Quick Attack
+7      Double Kick
+13      Metal Claw
+19      Take Down
+25      Helping Hand
+31      Retaliate
+37      Iron Head
+42      Sacred Sword
+49      Swords Dance
+55      Quick Guard
+61      Work Up
+67      Metal Burst
+73      Close Combat

@@ -1,0 +1,17 @@
+heatmor
+1      Incinerate
+1      Lick
+6      Odor Sleuth
+11      Bind
+16      Fire Spin
+21      Fury Swipes
+26      Snatch
+31      Flame Burst
+36      Bug Bite
+41      Slash
+46      Amnesia
+51      Flamethrower
+56      Spit Up
+56      Stockpile
+56      Swallow
+61      Inferno

@@ -1,0 +1,19 @@
+seadra
+1      Bubble
+1      SmokeScreen
+19      SmokeScreen
+24      Leer
+30      Water Gun
+41      Agility
+52      Hydro Pump
+
+
+Yellow Version
+seadra
+1      Bubble
+1      SmokeScreen
+19      SmokeScreen
+24      Leer
+30      Water Gun
+41      Agility
+52      Hydro Pump

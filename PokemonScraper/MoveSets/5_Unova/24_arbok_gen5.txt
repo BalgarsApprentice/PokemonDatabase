@@ -1,0 +1,23 @@
+arbok
+1      Bite
+1      Fire Fang
+1      Ice Fang
+1      Leer
+1      Poison Sting
+1      Thunder Fang
+1      Wrap
+4      Poison Sting
+9      Bite
+12      Glare
+17      Screech
+20      Acid
+22      Crunch
+27      Spit Up
+27      Stockpile
+27      Swallow
+32      Acid Spray
+39      Mud Bomb
+44      Gastro Acid
+51      Haze
+56      Coil
+63      Gunk Shot

@@ -1,0 +1,7 @@
+poliwrath
+1      DoubleSlap
+1      Hypnosis
+1      Submission
+1      Water Gun
+35      Submission
+51      Mind Reader

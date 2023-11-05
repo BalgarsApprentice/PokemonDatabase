@@ -1,0 +1,16 @@
+slaking
+1      Encore
+1      Scratch
+1      Slack Off
+1      Yawn
+7      Encore
+13      Slack Off
+19      Faint Attack
+25      Amnesia
+31      Covet
+36      Swagger
+37      Counter
+43      Flail
+49      Fling
+55      Punishment
+61      Hammer Arm

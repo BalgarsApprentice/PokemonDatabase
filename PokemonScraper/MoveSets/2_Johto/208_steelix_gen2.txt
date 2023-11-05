@@ -1,0 +1,10 @@
+steelix
+1      Screech
+1      Tackle
+10      Bind
+14      Rock Throw
+23      Harden
+27      Rage
+36      Sandstorm
+40      Slam
+49      Crunch

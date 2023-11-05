@@ -1,0 +1,18 @@
+sandile
+1      Leer
+1      Rage
+4      Bite
+7      Sand-Attack
+10      Torment
+13      Sand Tomb
+16      Assurance
+19      Mud-Slap
+22      Embargo
+25      Swagger
+28      Crunch
+31      Dig
+34      Scary Face
+37      Foul Play
+40      Sandstorm
+43      Earthquake
+46      Thrash

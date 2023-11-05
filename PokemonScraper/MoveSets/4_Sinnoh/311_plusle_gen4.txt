@@ -1,0 +1,17 @@
+plusle
+1      Growl
+3      Thunder Wave
+7      Quick Attack
+10      Helping Hand
+15      Spark
+17      Encore
+21      Fake Tears
+24      Copycat
+29      Swift
+31      Fake Tears
+35      Charge
+38      Thunder
+42      Baton Pass
+44      Agility
+48      Last Resort
+51      Nasty Plot

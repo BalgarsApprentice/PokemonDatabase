@@ -1,0 +1,11 @@
+skarmory
+1      Leer
+1      Peck
+10      Sand-Attack
+13      Swift
+16      Agility
+26      Fury Attack
+29      Air Cutter
+32      Steel Wing
+42      Spikes
+45      Metal Sound

@@ -1,0 +1,6 @@
+arcanine
+1      Flame Wheel
+1      Leer
+1      Roar
+1      Take Down
+50      ExtremeSpeed

@@ -1,0 +1,14 @@
+tauros
+1      Tackle
+3      Tail Whip
+5      Rage
+8      Horn Attack
+11      Scary Face
+15      Pursuit
+19      Rest
+24      Payback
+29      Zen Headbutt
+35      Take Down
+41      Swagger
+48      Thrash
+55      Giga Impact

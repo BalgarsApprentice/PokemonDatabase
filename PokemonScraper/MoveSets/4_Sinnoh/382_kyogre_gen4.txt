@@ -1,0 +1,13 @@
+kyogre
+1      Water Pulse
+5      Scary Face
+15      AncientPower
+20      Body Slam
+30      Calm Mind
+35      Ice Beam
+45      Hydro Pump
+50      Rest
+60      Sheer Cold
+65      Double-Edge
+75      Aqua Tail
+80      Water Spout

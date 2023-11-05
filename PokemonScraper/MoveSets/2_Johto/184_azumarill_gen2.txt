@@ -1,0 +1,12 @@
+azumarill
+1      Defense Curl
+1      Tackle
+1      Tail Whip
+1      Water Gun
+3      Defense Curl
+6      Tail Whip
+10      Water Gun
+15      Rollout
+25      BubbleBeam
+36      Double-Edge
+48      Rain Dance

@@ -1,0 +1,14 @@
+dialga
+1      DragonBreath
+1      Scary Face
+6      Metal Claw
+10      AncientPower
+15      Slash
+19      Power Gem
+24      Metal Burst
+28      Dragon Claw
+33      Earth Power
+37      Aura Sphere
+42      Iron Tail
+46      Roar of Time
+50      Flash Cannon

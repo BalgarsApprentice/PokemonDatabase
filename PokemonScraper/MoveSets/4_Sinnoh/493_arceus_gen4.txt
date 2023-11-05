@@ -1,0 +1,15 @@
+arceus
+1      Cosmic Power
+1      Natural Gift
+1      Punishment
+1      Seismic Toss
+10      Gravity
+20      Earth Power
+30      Hyper Voice
+40      ExtremeSpeed
+50      Refresh
+60      Future Sight
+70      Recover
+80      Hyper Beam
+90      Perish Song
+100      Judgment

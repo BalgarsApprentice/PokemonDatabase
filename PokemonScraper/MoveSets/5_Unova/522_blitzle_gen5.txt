@@ -1,0 +1,14 @@
+blitzle
+1      Quick Attack
+4      Tail Whip
+8      Charge
+11      Shock Wave
+15      Thunder Wave
+18      Flame Charge
+22      Pursuit
+25      Spark
+29      Stomp
+32      Discharge
+36      Agility
+39      Wild Charge
+43      Thrash

@@ -1,0 +1,11 @@
+kabutops
+1      Absorb
+1      Harden
+1      Scratch
+10      Absorb
+19      Leer
+28      Sand-Attack
+37      Endure
+40      Slash
+51      Mega Drain
+65      AncientPower

@@ -1,0 +1,16 @@
+growlithe
+1      Bite
+1      Roar
+6      Ember
+9      Leer
+14      Odor Sleuth
+17      Helping Hand
+20      Flame Wheel
+25      Reversal
+28      Fire Fang
+31      Take Down
+34      Flamethrower
+39      Agility
+42      Crunch
+45      Heat Wave
+48      Flare Blitz

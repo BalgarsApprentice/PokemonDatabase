@@ -1,0 +1,7 @@
+azurill
+1      Splash
+2      Charm
+7      Tail Whip
+10      Bubble
+15      Slam
+18      Water Gun

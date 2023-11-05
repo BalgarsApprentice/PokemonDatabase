@@ -1,0 +1,19 @@
+spearow
+1      Growl
+1      Peck
+9      Leer
+15      Fury Attack
+22      Mirror Move
+29      Drill Peck
+36      Agility
+
+
+Yellow Version
+spearow
+1      Growl
+1      Peck
+9      Leer
+15      Fury Attack
+22      Mirror Move
+29      Drill Peck
+36      Agility

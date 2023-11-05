@@ -1,0 +1,15 @@
+zangoose
+1      Leer
+1      Scratch
+5      Quick Attack
+9      Swords Dance
+14      Fury Cutter
+18      Slash
+22      Pursuit
+27      Embargo
+31      Crush Claw
+35      Taunt
+40      Detect
+44      False Swipe
+48      X-Scissor
+53      Close Combat

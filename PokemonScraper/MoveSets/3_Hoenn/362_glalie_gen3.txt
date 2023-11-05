@@ -1,0 +1,15 @@
+glalie
+1      Bite
+1      Double Team
+1      Leer
+1      Powder Snow
+7      Double Team
+10      Bite
+16      Icy Wind
+19      Headbutt
+25      Protect
+28      Crunch
+34      Ice Beam
+42      Hail
+53      Blizzard
+61      Sheer Cold

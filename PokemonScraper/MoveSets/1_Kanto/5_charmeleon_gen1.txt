@@ -1,0 +1,23 @@
+charmeleon
+1      Ember
+1      Growl
+1      Scratch
+9      Ember
+15      Leer
+24      Rage
+33      Slash
+42      Flamethrower
+56      Fire Spin
+
+
+Yellow Version
+charmeleon
+1      Ember
+1      Growl
+1      Scratch
+9      Ember
+15      Leer
+24      Rage
+33      Slash
+42      Flamethrower
+56      Fire Spin

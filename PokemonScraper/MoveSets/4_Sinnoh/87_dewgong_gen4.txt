@@ -1,0 +1,21 @@
+dewgong
+1      Growl
+1      Headbutt
+1      Icy Wind
+1      Signal Beam
+3      Growl
+7      Signal Beam
+11      Icy Wind
+13      Encore
+17      Ice Shard
+21      Rest
+23      Aqua Ring
+27      Aurora Beam
+31      Aqua Jet
+33      Brine
+34      Sheer Cold
+37      Take Down
+41      Dive
+43      Aqua Tail
+47      Ice Beam
+51      Safeguard

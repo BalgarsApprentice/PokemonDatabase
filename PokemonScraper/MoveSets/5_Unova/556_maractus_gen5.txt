@@ -1,0 +1,19 @@
+maractus
+1      Absorb
+1      Peck
+3      Sweet Scent
+6      Growth
+10      Pin Missile
+13      Mega Drain
+15      Synthesis
+18      Cotton Spore
+22      Needle Arm
+26      Giga Drain
+29      Acupressure
+33      Ingrain
+38      Petal Dance
+42      Sucker Punch
+45      Sunny Day
+50      SolarBeam
+55      Cotton Guard
+57      After You

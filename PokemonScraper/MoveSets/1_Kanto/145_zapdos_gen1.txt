@@ -1,0 +1,15 @@
+zapdos
+1      Drill Peck
+1      ThunderShock
+51      Thunder
+55      Agility
+60      Light Screen
+
+
+Yellow Version
+zapdos
+1      Drill Peck
+1      ThunderShock
+51      Thunder
+55      Agility
+60      Light Screen

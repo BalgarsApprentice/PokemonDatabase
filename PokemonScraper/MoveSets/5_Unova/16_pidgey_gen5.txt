@@ -1,0 +1,15 @@
+pidgey
+1      Tackle
+5      Sand-Attack
+9      Gust
+13      Quick Attack
+17      Whirlwind
+21      Twister
+25      FeatherDance
+29      Agility
+33      Wing Attack
+37      Roost
+41      Tailwind
+45      Mirror Move
+49      Air Slash
+53      Hurricane

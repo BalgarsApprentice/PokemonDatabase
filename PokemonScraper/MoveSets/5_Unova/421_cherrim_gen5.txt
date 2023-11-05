@@ -1,0 +1,14 @@
+cherrim
+1      Growth
+1      Morning Sun
+1      Tackle
+7      Growth
+10      Leech Seed
+13      Helping Hand
+19      Magical Leaf
+22      Sunny Day
+25      Petal Dance
+30      Worry Seed
+35      Take Down
+43      SolarBeam
+48      Lucky Chant

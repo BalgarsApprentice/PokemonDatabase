@@ -1,0 +1,14 @@
+lillipup
+1      Leer
+1      Tackle
+5      Odor Sleuth
+8      Bite
+12      Helping Hand
+15      Take Down
+19      Work Up
+22      Crunch
+26      Roar
+29      Retaliate
+33      Reversal
+36      Last Resort
+40      Giga Impact

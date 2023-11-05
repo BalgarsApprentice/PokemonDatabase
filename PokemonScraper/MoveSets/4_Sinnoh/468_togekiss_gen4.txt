@@ -1,0 +1,5 @@
+togekiss
+1      Air Slash
+1      Aura Sphere
+1      ExtremeSpeed
+1      Sky Attack

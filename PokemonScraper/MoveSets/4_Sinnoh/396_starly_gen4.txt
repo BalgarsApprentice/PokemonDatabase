@@ -1,0 +1,12 @@
+starly
+1      Growl
+1      Tackle
+5      Quick Attack
+9      Wing Attack
+13      Double Team
+17      Endeavor
+21      Whirlwind
+25      Aerial Ace
+29      Take Down
+33      Agility
+37      Brave Bird

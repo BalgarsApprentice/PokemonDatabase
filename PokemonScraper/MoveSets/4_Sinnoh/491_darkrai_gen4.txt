@@ -1,0 +1,13 @@
+darkrai
+1      Disable
+1      Night Shade
+11      Quick Attack
+20      Hypnosis
+29      Pursuit
+38      Nightmare
+47      Double Team
+57      Haze
+66      Dark Void
+75      Embargo
+84      Dream Eater
+93      Dark Pulse

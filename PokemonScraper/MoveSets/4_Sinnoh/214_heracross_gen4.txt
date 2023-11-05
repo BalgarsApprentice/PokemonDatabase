@@ -1,0 +1,15 @@
+heracross
+1      Endure
+1      Horn Attack
+1      Leer
+1      Night Slash
+1      Tackle
+7      Fury Attack
+13      Aerial Ace
+19      Brick Break
+25      Counter
+31      Take Down
+37      Close Combat
+43      Reversal
+49      Feint
+55      Megahorn

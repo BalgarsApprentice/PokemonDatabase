@@ -1,0 +1,12 @@
+pidgeot
+1      Gust
+1      Quick Attack
+1      Sand-Attack
+1      Tackle
+5      Sand-Attack
+9      Gust
+15      Quick Attack
+23      Whirlwind
+33      Wing Attack
+46      Agility
+61      Mirror Move

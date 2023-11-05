@@ -1,0 +1,19 @@
+golduck
+1      Aqua Jet
+1      Scratch
+1      Tail Whip
+1      Water Gun
+1      Water Sport
+5      Tail Whip
+9      Water Gun
+14      Disable
+18      Confusion
+22      Water Pulse
+27      Fury Swipes
+31      Screech
+37      Soak
+44      Psych Up
+50      Zen Headbutt
+56      Amnesia
+63      Hydro Pump
+69      Wonder Room

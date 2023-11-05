@@ -1,0 +1,18 @@
+sudowoodo
+1      Copycat
+1      Flail
+1      Low Kick
+1      Rock Throw
+1      Wood Hammer
+6      Flail
+9      Low Kick
+14      Rock Throw
+17      Mimic
+22      Block
+25      Faint Attack
+30      Rock Tomb
+33      Rock Slide
+38      Slam
+41      Sucker Punch
+46      Double-Edge
+49      Hammer Arm

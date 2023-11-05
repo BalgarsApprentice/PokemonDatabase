@@ -1,0 +1,19 @@
+mr-mime
+1      Barrier
+1      Confusion
+15      Confusion
+23      Light Screen
+31      DoubleSlap
+39      Meditate
+47      Substitute
+
+
+Yellow Version
+mr-mime
+1      Barrier
+1      Confusion
+15      Confusion
+23      Light Screen
+31      DoubleSlap
+39      Meditate
+47      Substitute

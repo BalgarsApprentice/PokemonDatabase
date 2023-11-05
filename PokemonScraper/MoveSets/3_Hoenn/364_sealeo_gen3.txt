@@ -1,0 +1,14 @@
+sealeo
+1      Encore
+1      Growl
+1      Powder Snow
+1      Water Gun
+7      Encore
+13      Ice Ball
+19      Body Slam
+25      Aurora Beam
+31      Hail
+39      Rest
+39      Snore
+47      Blizzard
+55      Sheer Cold

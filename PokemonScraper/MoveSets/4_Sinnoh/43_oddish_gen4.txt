@@ -1,0 +1,13 @@
+oddish
+1      Absorb
+5      Sweet Scent
+9      Acid
+13      PoisonPowder
+15      Stun Spore
+17      Sleep Powder
+21      Mega Drain
+25      Lucky Chant
+29      Natural Gift
+33      Moonlight
+37      Giga Drain
+41      Petal Dance

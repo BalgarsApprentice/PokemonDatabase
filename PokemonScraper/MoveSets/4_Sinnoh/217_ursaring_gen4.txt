@@ -1,0 +1,15 @@
+ursaring
+1      Covet
+1      Fake Tears
+1      Leer
+1      Lick
+1      Scratch
+8      Fury Swipes
+15      Faint Attack
+22      Sweet Scent
+29      Slash
+38      Scary Face
+47      Rest
+49      Snore
+58      Thrash
+67      Hammer Arm

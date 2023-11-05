@@ -1,0 +1,21 @@
+charizard
+1      Air Slash
+1      Dragon Claw
+1      Ember
+1      Growl
+1      Scratch
+1      Shadow Claw
+1      SmokeScreen
+7      Ember
+10      SmokeScreen
+17      Dragon Rage
+21      Scary Face
+28      Fire Fang
+32      Flame Burst
+36      Wing Attack
+41      Slash
+47      Flamethrower
+56      Fire Spin
+62      Inferno
+71      Heat Wave
+77      Flare Blitz

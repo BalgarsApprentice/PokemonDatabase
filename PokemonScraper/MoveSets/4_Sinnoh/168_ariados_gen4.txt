@@ -1,0 +1,18 @@
+ariados
+1      Bug Bite
+1      Constrict
+1      Poison Sting
+1      Scary Face
+1      String Shot
+5      Scary Face
+8      Constrict
+12      Leech Life
+15      Night Shade
+19      Shadow Sneak
+23      Fury Swipes
+28      Sucker Punch
+32      Spider Web
+37      Agility
+41      Pin Missile
+46      Psychic
+50      Poison Jab

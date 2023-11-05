@@ -1,0 +1,20 @@
+hariyama
+1      Arm Thrust
+1      Brine
+1      Focus Energy
+1      Sand-Attack
+1      Tackle
+4      Sand-Attack
+7      Arm Thrust
+10      Vital Throw
+13      Fake Out
+16      Whirlwind
+19      Knock Off
+22      SmellingSalt
+27      Belly Drum
+32      Force Palm
+37      Seismic Toss
+42      Wake-Up Slap
+47      Endure
+52      Close Combat
+57      Reversal

@@ -1,0 +1,17 @@
+donphan
+1      Bulldoze
+1      Defense Curl
+1      Fire Fang
+1      Growl
+1      Horn Attack
+1      Thunder Fang
+6      Rapid Spin
+10      Knock Off
+15      Rollout
+19      Magnitude
+24      Slam
+25      Fury Attack
+31      Assurance
+39      Scary Face
+46      Earthquake
+54      Giga Impact

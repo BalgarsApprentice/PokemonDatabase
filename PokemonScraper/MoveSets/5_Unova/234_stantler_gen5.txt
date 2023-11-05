@@ -1,0 +1,16 @@
+stantler
+1      Tackle
+3      Leer
+7      Astonish
+10      Hypnosis
+13      Stomp
+16      Sand-Attack
+21      Take Down
+23      Confuse Ray
+27      Calm Mind
+33      Role Play
+38      Zen Headbutt
+43      Jump Kick
+49      Imprison
+53      Captivate
+55      Me First

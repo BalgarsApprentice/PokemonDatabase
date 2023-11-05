@@ -1,0 +1,17 @@
+machop
+1      Karate Chop
+20      Low Kick
+25      Leer
+32      Focus Energy
+39      Seismic Toss
+46      Submission
+
+
+Yellow Version
+machop
+1      Karate Chop
+20      Low Kick
+25      Leer
+32      Focus Energy
+39      Seismic Toss
+46      Submission

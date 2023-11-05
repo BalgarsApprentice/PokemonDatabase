@@ -1,0 +1,18 @@
+lairon
+1      Harden
+1      Headbutt
+1      Mud-Slap
+1      Tackle
+4      Harden
+8      Mud-Slap
+11      Headbutt
+15      Metal Claw
+18      Iron Defense
+22      Roar
+25      Take Down
+29      Iron Head
+34      Protect
+40      Metal Sound
+45      Iron Tail
+51      Double-Edge
+56      Metal Burst

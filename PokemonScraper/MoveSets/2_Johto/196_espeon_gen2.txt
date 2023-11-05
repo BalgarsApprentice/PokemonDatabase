@@ -1,0 +1,11 @@
+espeon
+1      Tackle
+1      Tail Whip
+8      Sand-Attack
+16      Confusion
+23      Quick Attack
+30      Swift
+36      Psybeam
+42      Psych Up
+47      Psychic
+52      Morning Sun

@@ -1,0 +1,13 @@
+shaymin
+1      Growth
+10      Magical Leaf
+19      Leech Seed
+28      Synthesis
+37      Sweet Scent
+46      Natural Gift
+55      Worry Seed
+64      Aromatherapy
+73      Energy Ball
+82      Sweet Kiss
+91      Healing Wish
+100      Seed Flare

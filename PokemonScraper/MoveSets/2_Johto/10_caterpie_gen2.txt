@@ -1,0 +1,3 @@
+caterpie
+1      String Shot
+1      Tackle

@@ -1,0 +1,12 @@
+eevee
+1      Helping Hand
+1      Tackle
+1      Tail Whip
+8      Sand-Attack
+15      Growl
+22      Quick Attack
+29      Bite
+36      Baton Pass
+43      Take Down
+50      Last Resort
+57      Trump Card

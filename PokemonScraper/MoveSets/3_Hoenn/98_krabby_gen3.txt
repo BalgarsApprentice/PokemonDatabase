@@ -1,0 +1,10 @@
+krabby
+1      Bubble
+5      Leer
+12      ViceGrip
+16      Harden
+23      Mud Shot
+27      Stomp
+34      Guillotine
+41      Protect
+45      Crabhammer

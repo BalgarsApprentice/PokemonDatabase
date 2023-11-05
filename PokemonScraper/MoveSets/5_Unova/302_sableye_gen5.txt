@@ -1,0 +1,20 @@
+sableye
+1      Leer
+1      Scratch
+4      Foresight
+8      Night Shade
+11      Astonish
+15      Fury Swipes
+18      Fake Out
+22      Detect
+25      Shadow Sneak
+29      Knock Off
+32      Faint Attack
+36      Punishment
+39      Shadow Claw
+43      Power Gem
+46      Confuse Ray
+50      Foul Play
+53      Zen Headbutt
+57      Shadow Ball
+60      Mean Look

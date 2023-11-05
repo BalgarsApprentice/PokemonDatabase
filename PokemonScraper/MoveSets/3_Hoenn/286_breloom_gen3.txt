@@ -1,0 +1,15 @@
+breloom
+1      Absorb
+1      Leech Seed
+1      Stun Spore
+1      Tackle
+4      Tackle
+7      Stun Spore
+10      Leech Seed
+16      Mega Drain
+22      Headbutt
+23      Mach Punch
+28      Counter
+36      Sky Uppercut
+45      Mind Reader
+54      DynamicPunch

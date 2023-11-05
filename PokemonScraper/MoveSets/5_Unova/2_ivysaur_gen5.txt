@@ -1,0 +1,17 @@
+ivysaur
+1      Growl
+1      Leech Seed
+1      Tackle
+3      Growl
+7      Leech Seed
+9      Vine Whip
+13      PoisonPowder
+13      Sleep Powder
+15      Take Down
+20      Razor Leaf
+23      Sweet Scent
+28      Growth
+31      Double-Edge
+36      Worry Seed
+39      Synthesis
+44      SolarBeam

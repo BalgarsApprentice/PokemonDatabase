@@ -1,0 +1,7 @@
+budew
+1      Absorb
+4      Growth
+7      Water Sport
+10      Stun Spore
+13      Mega Drain
+16      Worry Seed

@@ -1,0 +1,11 @@
+shroomish
+1      Absorb
+4      Tackle
+7      Stun Spore
+10      Leech Seed
+16      Mega Drain
+22      Headbutt
+28      PoisonPowder
+36      Growth
+45      Giga Drain
+54      Spore

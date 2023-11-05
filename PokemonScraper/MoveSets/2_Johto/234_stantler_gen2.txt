@@ -1,0 +1,8 @@
+stantler
+1      Tackle
+8      Leer
+15      Hypnosis
+23      Stomp
+31      Sand-Attack
+40      Take Down
+49      Confuse Ray

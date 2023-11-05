@@ -1,0 +1,16 @@
+loudred
+1      Astonish
+1      Howl
+1      Pound
+1      Uproar
+5      Uproar
+11      Astonish
+15      Howl
+20      Bite
+23      Supersonic
+29      Stomp
+37      Screech
+43      Roar
+51      Rest
+51      Sleep Talk
+57      Hyper Voice

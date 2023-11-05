@@ -1,0 +1,14 @@
+numel
+1      Growl
+1      Tackle
+5      Ember
+11      Magnitude
+15      Focus Energy
+21      Flame Burst
+25      Take Down
+31      Amnesia
+35      Lava Plume
+41      Earth Power
+45      Earthquake
+51      Flamethrower
+55      Double-Edge

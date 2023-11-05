@@ -1,0 +1,6 @@
+cloyster
+1      Aurora Beam
+1      Protect
+1      Supersonic
+1      Withdraw
+41      Spike Cannon

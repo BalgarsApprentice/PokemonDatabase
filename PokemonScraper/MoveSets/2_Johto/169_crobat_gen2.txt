@@ -1,0 +1,10 @@
+crobat
+1      Leech Life
+1      Screech
+1      Supersonic
+6      Supersonic
+12      Bite
+19      Confuse Ray
+30      Wing Attack
+42      Mean Look
+55      Haze

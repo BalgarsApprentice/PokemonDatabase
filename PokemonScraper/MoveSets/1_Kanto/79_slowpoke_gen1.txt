@@ -1,0 +1,19 @@
+slowpoke
+1      Confusion
+18      Disable
+22      Headbutt
+27      Growl
+33      Water Gun
+40      Amnesia
+48      Psychic
+
+
+Yellow Version
+slowpoke
+1      Confusion
+18      Disable
+22      Headbutt
+27      Growl
+33      Water Gun
+40      Amnesia
+48      Psychic

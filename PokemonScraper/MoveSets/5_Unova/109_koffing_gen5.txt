@@ -1,0 +1,15 @@
+koffing
+1      Poison Gas
+1      Tackle
+6      Smog
+10      SmokeScreen
+15      Assurance
+19      Clear Smog
+24      Selfdestruct
+28      Sludge
+33      Haze
+37      Gyro Ball
+42      Explosion
+46      Sludge Bomb
+51      Destiny Bond
+55      Memento

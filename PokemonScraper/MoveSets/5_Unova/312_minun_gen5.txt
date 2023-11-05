@@ -1,0 +1,19 @@
+minun
+1      Growl
+3      Thunder Wave
+7      Quick Attack
+10      Helping Hand
+15      Spark
+17      Encore
+21      Charm
+24      Copycat
+29      Electro Ball
+31      Swift
+35      Fake Tears
+38      Charge
+42      Thunder
+44      Baton Pass
+48      Agility
+51      Trump Card
+56      Nasty Plot
+63      Entrainment

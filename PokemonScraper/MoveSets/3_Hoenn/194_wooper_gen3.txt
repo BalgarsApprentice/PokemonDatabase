@@ -1,0 +1,11 @@
+wooper
+1      Tail Whip
+1      Water Gun
+11      Slam
+16      Mud Shot
+21      Amnesia
+31      Yawn
+36      Earthquake
+41      Rain Dance
+51      Haze
+51      Mist

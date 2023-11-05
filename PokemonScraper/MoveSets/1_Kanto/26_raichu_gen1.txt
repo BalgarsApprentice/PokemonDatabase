@@ -1,0 +1,11 @@
+raichu
+1      Growl
+1      ThunderShock
+1      Thunder Wave
+
+
+Yellow Version
+raichu
+1      Growl
+1      ThunderShock
+1      Thunder Wave

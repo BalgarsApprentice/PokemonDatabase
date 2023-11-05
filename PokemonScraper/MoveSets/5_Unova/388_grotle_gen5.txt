@@ -1,0 +1,14 @@
+grotle
+1      Tackle
+1      Withdraw
+5      Withdraw
+9      Absorb
+13      Razor Leaf
+17      Curse
+22      Bite
+27      Mega Drain
+32      Leech Seed
+37      Synthesis
+42      Crunch
+47      Giga Drain
+52      Leaf Storm

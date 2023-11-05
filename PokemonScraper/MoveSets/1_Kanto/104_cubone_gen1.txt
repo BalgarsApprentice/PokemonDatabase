@@ -1,0 +1,21 @@
+cubone
+1      Bone Club
+1      Growl
+25      Leer
+31      Focus Energy
+38      Thrash
+43      Bonemerang
+46      Rage
+
+
+Yellow Version
+cubone
+1      Growl
+10      Bone Club
+13      Tail Whip
+18      Headbutt
+25      Leer
+31      Focus Energy
+38      Thrash
+43      Bonemerang
+46      Rage

@@ -1,0 +1,7 @@
+mew
+1      Pound
+10      Transform
+20      Mega Punch
+30      Metronome
+40      Psychic
+50      AncientPower

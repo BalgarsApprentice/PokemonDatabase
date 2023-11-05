@@ -1,0 +1,21 @@
+clefairy
+1      Growl
+1      Pound
+4      Encore
+7      Sing
+10      DoubleSlap
+13      Defense Curl
+16      Follow Me
+19      Minimize
+22      Wake-Up Slap
+25      Bestow
+28      Cosmic Power
+31      Lucky Chant
+34      Metronome
+37      Gravity
+40      Moonlight
+43      Stored Power
+46      Light Screen
+49      Healing Wish
+52      After You
+55      Meteor Mash

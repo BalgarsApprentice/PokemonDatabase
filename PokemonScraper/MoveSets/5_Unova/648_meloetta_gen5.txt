@@ -1,0 +1,16 @@
+meloetta
+1      Round
+6      Quick Attack
+11      Confusion
+16      Sing
+21      Teeter Dance
+26      Acrobatics
+31      Psybeam
+36      Echoed Voice
+43      U-turn
+50      Wake-Up Slap
+57      Psychic
+64      Hyper Voice
+71      Role Play
+78      Close Combat
+85      Perish Song

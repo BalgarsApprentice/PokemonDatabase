@@ -1,0 +1,14 @@
+nidorina
+1      Growl
+1      Scratch
+7      Tail Whip
+9      Double Kick
+13      Poison Sting
+20      Fury Swipes
+23      Bite
+28      Helping Hand
+35      Toxic Spikes
+38      Flatter
+43      Crunch
+50      Captivate
+58      Poison Fang

@@ -1,0 +1,15 @@
+voltorb
+1      Charge
+5      Tackle
+8      SonicBoom
+12      Spark
+15      Rollout
+19      Screech
+22      Light Screen
+26      Charge Beam
+29      Selfdestruct
+33      Swift
+36      Magnet Rise
+40      Gyro Ball
+43      Explosion
+47      Mirror Coat

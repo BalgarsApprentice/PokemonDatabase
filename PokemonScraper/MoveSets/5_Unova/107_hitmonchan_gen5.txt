@@ -1,0 +1,19 @@
+hitmonchan
+1      Comet Punch
+1      Revenge
+6      Agility
+11      Pursuit
+16      Bullet Punch
+16      Mach Punch
+21      Feint
+26      Vacuum Wave
+31      Quick Guard
+36      Fire Punch
+36      Ice Punch
+36      ThunderPunch
+41      Sky Uppercut
+46      Mega Punch
+51      Detect
+56      Focus Punch
+61      Counter
+66      Close Combat

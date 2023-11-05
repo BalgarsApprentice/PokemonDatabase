@@ -1,0 +1,9 @@
+moltres
+1      Ember
+1      Wing Attack
+13      Fire Spin
+25      Agility
+37      Endure
+49      Flamethrower
+61      Safeguard
+73      Sky Attack

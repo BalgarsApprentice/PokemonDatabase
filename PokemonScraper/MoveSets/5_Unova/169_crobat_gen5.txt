@@ -1,0 +1,17 @@
+crobat
+1      Astonish
+1      Cross Poison
+1      Leech Life
+1      Screech
+1      Supersonic
+5      Supersonic
+9      Astonish
+13      Bite
+17      Wing Attack
+21      Confuse Ray
+27      Air Cutter
+33      Mean Look
+39      Acrobatics
+45      Poison Fang
+51      Haze
+57      Air Slash

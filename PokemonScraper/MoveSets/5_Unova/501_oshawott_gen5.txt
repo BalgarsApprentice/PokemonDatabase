@@ -1,0 +1,16 @@
+oshawott
+1      Tackle
+5      Tail Whip
+7      Water Gun
+11      Water Sport
+13      Focus Energy
+17      Razor Shell
+19      Fury Cutter
+23      Water Pulse
+25      Revenge
+29      Aqua Jet
+31      Encore
+35      Aqua Tail
+37      Retaliate
+41      Swords Dance
+43      Hydro Pump

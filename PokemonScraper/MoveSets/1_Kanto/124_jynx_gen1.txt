@@ -1,0 +1,21 @@
+jynx
+1      Lovely Kiss
+1      Pound
+18      Lick
+23      DoubleSlap
+31      Ice Punch
+39      Body Slam
+47      Thrash
+58      Blizzard
+
+
+Yellow Version
+jynx
+1      Lovely Kiss
+1      Pound
+18      Lick
+23      DoubleSlap
+31      Ice Punch
+39      Body Slam
+47      Thrash
+58      Blizzard

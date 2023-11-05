@@ -1,0 +1,12 @@
+bidoof
+1      Tackle
+5      Growl
+9      Defense Curl
+13      Rollout
+17      Headbutt
+21      Hyper Fang
+25      Yawn
+29      Amnesia
+33      Take Down
+37      Super Fang
+41      Superpower

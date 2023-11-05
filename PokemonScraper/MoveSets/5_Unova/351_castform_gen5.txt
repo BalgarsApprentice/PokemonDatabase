@@ -1,0 +1,13 @@
+castform
+1      Tackle
+10      Ember
+10      Powder Snow
+10      Water Gun
+20      Headbutt
+30      Hail
+30      Rain Dance
+30      Sunny Day
+40      Weather Ball
+50      Blizzard
+50      Fire Blast
+50      Hydro Pump

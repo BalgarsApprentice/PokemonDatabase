@@ -1,0 +1,16 @@
+pidove
+1      Gust
+4      Growl
+8      Leer
+11      Quick Attack
+15      Air Cutter
+18      Roost
+22      Detect
+25      Taunt
+29      Air Slash
+32      Razor Wind
+36      FeatherDance
+39      Swagger
+43      Facade
+46      Tailwind
+50      Sky Attack

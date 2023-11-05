@@ -1,0 +1,16 @@
+shuppet
+1      Knock Off
+5      Screech
+8      Night Shade
+13      Curse
+16      Spite
+20      Shadow Sneak
+23      Will-O-Wisp
+28      Faint Attack
+31      Hex
+35      Shadow Ball
+38      Sucker Punch
+43      Embargo
+46      Snatch
+50      Grudge
+55      Trick

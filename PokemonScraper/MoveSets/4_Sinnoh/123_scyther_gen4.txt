@@ -1,0 +1,17 @@
+scyther
+1      Leer
+1      Quick Attack
+5      Focus Energy
+9      Pursuit
+13      False Swipe
+17      Agility
+21      Wing Attack
+25      Fury Cutter
+29      Slash
+33      Razor Wind
+37      Double Team
+41      X-Scissor
+45      Night Slash
+49      Double Hit
+53      Air Slash
+57      Swords Dance

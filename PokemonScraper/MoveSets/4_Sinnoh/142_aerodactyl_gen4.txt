@@ -1,0 +1,17 @@
+aerodactyl
+1      Bite
+1      Fire Fang
+1      Ice Fang
+1      Scary Face
+1      Supersonic
+1      Thunder Fang
+1      Wing Attack
+9      Roar
+17      Agility
+25      AncientPower
+33      Crunch
+41      Take Down
+49      Iron Head
+57      Hyper Beam
+65      Rock Slide
+73      Giga Impact

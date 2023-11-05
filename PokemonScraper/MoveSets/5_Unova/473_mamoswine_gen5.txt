@@ -1,0 +1,19 @@
+mamoswine
+1      AncientPower
+1      Mud Sport
+1      Odor Sleuth
+1      Peck
+1      Powder Snow
+4      Mud Sport
+8      Powder Snow
+13      Mud-Slap
+16      Endure
+20      Mud Bomb
+25      Hail
+28      Ice Fang
+32      Take Down
+33      Double Hit
+40      Earthquake
+48      Mist
+56      Blizzard
+65      Scary Face

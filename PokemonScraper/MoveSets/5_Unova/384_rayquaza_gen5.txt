@@ -1,0 +1,14 @@
+rayquaza
+1      Twister
+5      Scary Face
+15      Crunch
+20      Hyper Voice
+30      Rest
+35      Air Slash
+45      AncientPower
+50      Outrage
+60      Dragon Dance
+65      Fly
+75      ExtremeSpeed
+80      Hyper Beam
+90      Dragon Pulse

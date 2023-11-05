@@ -1,0 +1,14 @@
+piplup
+1      Pound
+4      Growl
+8      Bubble
+11      Water Sport
+15      Peck
+18      BubbleBeam
+22      Bide
+25      Fury Attack
+29      Brine
+32      Whirlpool
+36      Mist
+39      Drill Peck
+43      Hydro Pump

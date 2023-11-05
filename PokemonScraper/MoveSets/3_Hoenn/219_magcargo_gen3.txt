@@ -1,0 +1,12 @@
+magcargo
+1      Ember
+1      Rock Throw
+1      Smog
+1      Yawn
+8      Ember
+15      Rock Throw
+22      Harden
+29      Amnesia
+36      Flamethrower
+48      Rock Slide
+60      Body Slam

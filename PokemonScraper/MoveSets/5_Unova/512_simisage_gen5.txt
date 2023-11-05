@@ -1,0 +1,5 @@
+simisage
+1      Fury Swipes
+1      Leer
+1      Lick
+1      Seed Bomb

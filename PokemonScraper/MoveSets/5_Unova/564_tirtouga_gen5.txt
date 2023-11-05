@@ -1,0 +1,19 @@
+tirtouga
+1      Bide
+1      Water Gun
+1      Withdraw
+5      Rollout
+8      Bite
+11      Protect
+15      Aqua Jet
+18      AncientPower
+21      Crunch
+25      Wide Guard
+28      Brine
+31      Smack Down
+35      Curse
+38      Shell Smash
+41      Aqua Tail
+45      Rock Slide
+48      Rain Dance
+51      Hydro Pump

@@ -1,0 +1,14 @@
+magneton
+1      Metal Sound
+1      Supersonic
+1      Tackle
+1      ThunderShock
+6      ThunderShock
+11      Supersonic
+16      SonicBoom
+21      Thunder Wave
+26      Spark
+35      Lock-On
+44      Tri Attack
+53      Screech
+62      Zap Cannon

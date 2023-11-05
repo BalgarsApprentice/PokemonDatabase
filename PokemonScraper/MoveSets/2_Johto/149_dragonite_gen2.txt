@@ -1,0 +1,14 @@
+dragonite
+1      Leer
+1      Thunder Wave
+1      Twister
+1      Wrap
+8      Thunder Wave
+15      Twister
+22      Dragon Rage
+29      Slam
+38      Agility
+47      Safeguard
+55      Wing Attack
+61      Outrage
+75      Hyper Beam

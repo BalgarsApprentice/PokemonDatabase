@@ -1,0 +1,5 @@
+shiftry
+1      Growth
+1      Harden
+1      Nature Power
+1      Pound

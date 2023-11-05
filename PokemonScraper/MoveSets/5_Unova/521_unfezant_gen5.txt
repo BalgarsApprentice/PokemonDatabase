@@ -1,0 +1,19 @@
+unfezant
+1      Growl
+1      Gust
+1      Leer
+1      Quick Attack
+4      Growl
+8      Leer
+11      Quick Attack
+15      Air Cutter
+18      Roost
+23      Detect
+27      Taunt
+33      Air Slash
+38      Razor Wind
+44      FeatherDance
+49      Swagger
+55      Facade
+60      Tailwind
+66      Sky Attack

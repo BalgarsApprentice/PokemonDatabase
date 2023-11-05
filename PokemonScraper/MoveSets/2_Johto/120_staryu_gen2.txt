@@ -1,0 +1,11 @@
+staryu
+1      Harden
+1      Tackle
+7      Water Gun
+13      Rapid Spin
+19      Recover
+25      Swift
+31      BubbleBeam
+37      Minimize
+43      Light Screen
+50      Hydro Pump

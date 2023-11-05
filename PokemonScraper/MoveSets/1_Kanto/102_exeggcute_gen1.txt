@@ -1,0 +1,21 @@
+exeggcute
+1      Barrage
+1      Hypnosis
+25      Reflect
+28      Leech Seed
+32      Stun Spore
+37      PoisonPowder
+42      SolarBeam
+48      Sleep Powder
+
+
+Yellow Version
+exeggcute
+1      Barrage
+1      Hypnosis
+25      Reflect
+28      Leech Seed
+32      Stun Spore
+37      PoisonPowder
+42      SolarBeam
+48      Sleep Powder

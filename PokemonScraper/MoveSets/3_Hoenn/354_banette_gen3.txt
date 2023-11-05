@@ -1,0 +1,14 @@
+banette
+1      Curse
+1      Knock Off
+1      Night Shade
+1      Screech
+8      Screech
+13      Night Shade
+20      Curse
+25      Spite
+32      Will-O-Wisp
+39      Faint Attack
+48      Shadow Ball
+55      Snatch
+64      Grudge

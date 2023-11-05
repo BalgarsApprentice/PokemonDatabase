@@ -1,0 +1,19 @@
+magnemite
+1      Tackle
+21      SonicBoom
+25      ThunderShock
+29      Supersonic
+35      Thunder Wave
+41      Swift
+47      Screech
+
+
+Yellow Version
+magnemite
+1      Tackle
+21      SonicBoom
+25      ThunderShock
+29      Supersonic
+35      Thunder Wave
+41      Swift
+47      Screech

@@ -1,0 +1,19 @@
+omastar
+1      Horn Attack
+1      Water Gun
+1      Withdraw
+34      Horn Attack
+39      Leer
+44      Spike Cannon
+49      Hydro Pump
+
+
+Yellow Version
+omastar
+1      Horn Attack
+1      Water Gun
+1      Withdraw
+34      Horn Attack
+39      Leer
+44      Spike Cannon
+49      Hydro Pump

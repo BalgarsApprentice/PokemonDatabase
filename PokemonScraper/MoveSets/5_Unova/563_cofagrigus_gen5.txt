@@ -1,0 +1,19 @@
+cofagrigus
+1      Astonish
+1      Disable
+1      Haze
+1      Protect
+5      Disable
+9      Haze
+13      Night Shade
+17      Hex
+21      Will-O-Wisp
+25      Ominous Wind
+29      Curse
+33      Guard Split
+33      Power Split
+34      Scary Face
+39      Shadow Ball
+45      Grudge
+51      Mean Look
+57      Destiny Bond

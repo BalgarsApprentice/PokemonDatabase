@@ -1,0 +1,17 @@
+yanma
+1      Foresight
+1      Tackle
+6      Quick Attack
+11      Double Team
+14      SonicBoom
+17      Detect
+22      Supersonic
+27      Uproar
+30      Pursuit
+33      AncientPower
+38      Hypnosis
+43      Wing Attack
+46      Screech
+49      U-turn
+54      Air Slash
+57      Bug Buzz

@@ -1,0 +1,16 @@
+cradily
+1      Acid
+1      Astonish
+1      Constrict
+1      Ingrain
+8      Acid
+15      Ingrain
+22      Confuse Ray
+29      Amnesia
+36      AncientPower
+46      Gastro Acid
+56      Energy Ball
+66      Spit Up
+66      Stockpile
+66      Swallow
+76      Wring Out

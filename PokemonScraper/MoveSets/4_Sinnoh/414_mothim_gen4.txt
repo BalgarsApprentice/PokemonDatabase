@@ -1,0 +1,13 @@
+mothim
+1      Tackle
+10      Protect
+20      Hidden Power
+23      Confusion
+26      Gust
+29      PoisonPowder
+32      Psybeam
+35      Camouflage
+38      Silver Wind
+41      Air Slash
+44      Psychic
+47      Bug Buzz

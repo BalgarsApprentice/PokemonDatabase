@@ -1,0 +1,16 @@
+porygon
+1      Conversion
+1      Conversion 2
+1      Sharpen
+1      Tackle
+7      Psybeam
+12      Agility
+18      Recover
+23      Magnet Rise
+29      Signal Beam
+34      Recycle
+40      Discharge
+45      Lock-On
+51      Tri Attack
+56      Magic Coat
+62      Zap Cannon

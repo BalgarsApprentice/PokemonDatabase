@@ -1,0 +1,13 @@
+azelf
+1      Confusion
+1      Rest
+6      Imprison
+16      Detect
+21      Swift
+31      Uproar
+36      Future Sight
+46      Nasty Plot
+51      Extrasensory
+61      Last Resort
+66      Natural Gift
+76      Explosion

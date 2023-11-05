@@ -1,0 +1,13 @@
+jumpluff
+1      Splash
+1      Synthesis
+1      Tackle
+1      Tail Whip
+5      Tail Whip
+10      Tackle
+13      PoisonPowder
+15      Stun Spore
+17      Sleep Powder
+22      Leech Seed
+33      Cotton Spore
+44      Mega Drain

@@ -1,0 +1,11 @@
+clefairy
+1      Growl
+1      Pound
+4      Encore
+8      Sing
+13      DoubleSlap
+19      Minimize
+26      Defense Curl
+34      Metronome
+43      Moonlight
+53      Light Screen

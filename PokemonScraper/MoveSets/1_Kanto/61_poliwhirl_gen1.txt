@@ -1,0 +1,23 @@
+poliwhirl
+1      Bubble
+1      Hypnosis
+1      Water Gun
+16      Hypnosis
+19      Water Gun
+26      DoubleSlap
+33      Body Slam
+41      Amnesia
+49      Hydro Pump
+
+
+Yellow Version
+poliwhirl
+1      Bubble
+1      Hypnosis
+1      Water Gun
+16      Hypnosis
+19      Water Gun
+26      DoubleSlap
+33      Body Slam
+41      Amnesia
+49      Hydro Pump

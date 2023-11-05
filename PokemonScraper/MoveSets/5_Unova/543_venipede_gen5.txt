@@ -1,0 +1,15 @@
+venipede
+1      Defense Curl
+1      Rollout
+5      Poison Sting
+8      Screech
+12      Pursuit
+15      Protect
+19      Poison Tail
+22      Bug Bite
+26      Venoshock
+29      Agility
+33      Steamroller
+36      Toxic
+40      Rock Climb
+43      Double-Edge

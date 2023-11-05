@@ -1,0 +1,21 @@
+golbat
+1      Bite
+1      Leech Life
+1      Screech
+10      Supersonic
+15      Bite
+21      Confuse Ray
+32      Wing Attack
+43      Haze
+
+
+Yellow Version
+golbat
+1      Bite
+1      Leech Life
+1      Screech
+10      Supersonic
+15      Bite
+21      Confuse Ray
+32      Wing Attack
+43      Haze

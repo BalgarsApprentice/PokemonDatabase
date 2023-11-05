@@ -1,0 +1,16 @@
+munchlax
+1      Metronome
+1      Odor Sleuth
+1      Tackle
+4      Defense Curl
+9      Amnesia
+12      Lick
+17      Recycle
+20      Screech
+25      Stockpile
+28      Swallow
+33      Body Slam
+36      Fling
+41      Rollout
+44      Natural Gift
+49      Last Resort

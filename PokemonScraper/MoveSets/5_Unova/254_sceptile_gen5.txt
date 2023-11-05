@@ -1,0 +1,17 @@
+sceptile
+1      Absorb
+1      Leer
+1      Night Slash
+1      Pound
+1      Quick Attack
+6      Absorb
+11      Quick Attack
+16      X-Scissor
+17      Pursuit
+23      Screech
+29      Leaf Blade
+35      Agility
+43      Slam
+51      Detect
+59      False Swipe
+67      Leaf Storm

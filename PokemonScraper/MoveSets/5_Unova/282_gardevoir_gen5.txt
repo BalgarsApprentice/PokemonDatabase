@@ -1,0 +1,20 @@
+gardevoir
+1      Confusion
+1      Double Team
+1      Growl
+1      Healing Wish
+1      Teleport
+6      Confusion
+10      Double Team
+12      Teleport
+17      Wish
+22      Magical Leaf
+25      Heal Pulse
+33      Calm Mind
+40      Psychic
+45      Imprison
+53      Future Sight
+60      Captivate
+65      Hypnosis
+73      Dream Eater
+80      Stored Power

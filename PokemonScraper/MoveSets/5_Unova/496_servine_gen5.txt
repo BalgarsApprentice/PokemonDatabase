@@ -1,0 +1,19 @@
+servine
+1      Leer
+1      Tackle
+1      Vine Whip
+1      Wrap
+4      Leer
+7      Vine Whip
+10      Wrap
+13      Growth
+16      Leaf Tornado
+20      Leech Seed
+24      Mega Drain
+28      Slam
+32      Leaf Blade
+36      Coil
+40      Giga Drain
+44      Wring Out
+48      Gastro Acid
+52      Leaf Storm

@@ -1,0 +1,16 @@
+dunsparce
+1      Rage
+4      Defense Curl
+8      Yawn
+12      Glare
+16      Rollout
+20      Spite
+24      Pursuit
+28      Screech
+33      Roost
+38      Take Down
+43      Coil
+48      AncientPower
+53      Dig
+58      Endeavor
+63      Flail

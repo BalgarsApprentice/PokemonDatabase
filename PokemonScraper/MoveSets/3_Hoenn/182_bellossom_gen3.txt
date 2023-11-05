@@ -1,0 +1,7 @@
+bellossom
+1      Absorb
+1      Magical Leaf
+1      Stun Spore
+1      Sweet Scent
+44      Petal Dance
+55      SolarBeam

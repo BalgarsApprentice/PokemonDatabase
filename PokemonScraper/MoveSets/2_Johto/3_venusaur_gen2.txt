@@ -1,0 +1,15 @@
+venusaur
+1      Growl
+1      Leech Seed
+1      Tackle
+1      Vine Whip
+4      Growl
+7      Leech Seed
+10      Vine Whip
+15      PoisonPowder
+15      Sleep Powder
+22      Razor Leaf
+29      Sweet Scent
+41      Growth
+53      Synthesis
+65      SolarBeam

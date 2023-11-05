@@ -1,0 +1,11 @@
+mankey
+1      Leer
+1      Scratch
+9      Low Kick
+15      Karate Chop
+21      Fury Swipes
+27      Focus Energy
+33      Seismic Toss
+39      Cross Chop
+45      Screech
+51      Thrash

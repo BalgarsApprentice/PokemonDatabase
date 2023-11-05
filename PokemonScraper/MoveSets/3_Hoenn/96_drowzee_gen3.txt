@@ -1,0 +1,11 @@
+drowzee
+1      Hypnosis
+1      Pound
+10      Disable
+18      Confusion
+25      Headbutt
+31      Poison Gas
+36      Meditate
+40      Psychic
+43      Psych Up
+45      Future Sight

@@ -1,0 +1,12 @@
+tentacruel
+1      Constrict
+1      Poison Sting
+1      Supersonic
+6      Supersonic
+12      Constrict
+19      Acid
+25      BubbleBeam
+30      Wrap
+38      Barrier
+47      Screech
+55      Hydro Pump

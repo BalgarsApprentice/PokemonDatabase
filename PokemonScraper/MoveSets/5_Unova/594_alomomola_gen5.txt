@@ -1,0 +1,18 @@
+alomomola
+1      Pound
+1      Water Sport
+5      Aqua Ring
+9      Aqua Jet
+13      DoubleSlap
+17      Heal Pulse
+21      Protect
+25      Water Pulse
+29      Wake-Up Slap
+33      Soak
+37      Wish
+41      Brine
+45      Safeguard
+49      Helping Hand
+53      Wide Guard
+57      Healing Wish
+61      Hydro Pump

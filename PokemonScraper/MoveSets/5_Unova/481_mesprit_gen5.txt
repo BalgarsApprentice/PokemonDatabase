@@ -1,0 +1,13 @@
+mesprit
+1      Confusion
+1      Rest
+6      Imprison
+16      Protect
+21      Swift
+31      Lucky Chant
+36      Future Sight
+46      Charm
+51      Extrasensory
+61      Copycat
+66      Natural Gift
+76      Healing Wish

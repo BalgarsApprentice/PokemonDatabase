@@ -1,0 +1,15 @@
+quilava
+1      Leer
+1      SmokeScreen
+1      Tackle
+4      SmokeScreen
+10      Ember
+13      Quick Attack
+20      Flame Wheel
+24      Defense Curl
+31      Swift
+35      Lava Plume
+42      Flamethrower
+46      Rollout
+53      Double-Edge
+57      Eruption

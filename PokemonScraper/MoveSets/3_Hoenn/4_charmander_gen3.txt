@@ -1,0 +1,11 @@
+charmander
+1      Growl
+1      Scratch
+7      Ember
+13      SmokeScreen
+19      Rage
+25      Scary Face
+31      Flamethrower
+37      Slash
+43      Dragon Rage
+49      Fire Spin

@@ -1,0 +1,14 @@
+duskull
+1      Leer
+1      Night Shade
+6      Disable
+9      Foresight
+14      Astonish
+17      Confuse Ray
+22      Shadow Sneak
+25      Pursuit
+30      Curse
+33      Will-O-Wisp
+38      Mean Look
+41      Payback
+46      Future Sight

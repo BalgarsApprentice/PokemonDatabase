@@ -1,0 +1,13 @@
+treecko
+1      Leer
+1      Pound
+6      Absorb
+11      Quick Attack
+16      Pursuit
+21      Screech
+26      Mega Drain
+31      Agility
+36      Slam
+41      Detect
+46      Giga Drain
+51      Energy Ball

@@ -1,0 +1,19 @@
+slowbro
+1      Curse
+1      Growl
+1      Tackle
+1      Yawn
+5      Growl
+9      Water Gun
+14      Confusion
+19      Disable
+23      Headbutt
+28      Water Pulse
+32      Zen Headbutt
+36      Slack Off
+37      Withdraw
+43      Amnesia
+49      Psychic
+55      Rain Dance
+62      Psych Up
+68      Heal Pulse

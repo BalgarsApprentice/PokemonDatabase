@@ -1,0 +1,15 @@
+bibarel
+1      Growl
+1      Tackle
+5      Growl
+9      Defense Curl
+13      Rollout
+15      Water Gun
+18      Headbutt
+23      Hyper Fang
+28      Yawn
+33      Amnesia
+38      Take Down
+43      Super Fang
+48      Superpower
+53      Curse

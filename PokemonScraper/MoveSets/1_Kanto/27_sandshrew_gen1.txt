@@ -1,0 +1,17 @@
+sandshrew
+1      Scratch
+10      Sand-Attack
+17      Slash
+24      Poison Sting
+31      Swift
+38      Fury Swipes
+
+
+Yellow Version
+sandshrew
+1      Scratch
+10      Sand-Attack
+17      Slash
+24      Poison Sting
+31      Swift
+38      Fury Swipes

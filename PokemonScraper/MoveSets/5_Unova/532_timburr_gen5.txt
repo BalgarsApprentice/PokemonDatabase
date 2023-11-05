@@ -1,0 +1,17 @@
+timburr
+1      Leer
+1      Pound
+4      Focus Energy
+8      Bide
+12      Low Kick
+16      Rock Throw
+20      Wake-Up Slap
+24      Chip Away
+28      Bulk Up
+31      Rock Slide
+34      DynamicPunch
+37      Scary Face
+40      Hammer Arm
+43      Stone Edge
+46      Focus Punch
+49      Superpower

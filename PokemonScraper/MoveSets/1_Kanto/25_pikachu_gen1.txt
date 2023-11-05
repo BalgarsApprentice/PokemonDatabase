@@ -1,0 +1,23 @@
+pikachu
+1      Growl
+1      ThunderShock
+9      Thunder Wave
+16      Quick Attack
+26      Swift
+33      Agility
+43      Thunder
+
+
+Yellow Version
+pikachu
+1      Growl
+1      ThunderShock
+6      Tail Whip
+8      Thunder Wave
+11      Quick Attack
+15      Double Team
+20      Slam
+26      Thunderbolt
+33      Agility
+41      Thunder
+50      Light Screen

@@ -1,0 +1,14 @@
+kecleon
+1      Astonish
+1      Lick
+1      Scratch
+1      Tail Whip
+1      Thief
+4      Bind
+7      Faint Attack
+12      Fury Swipes
+17      Psybeam
+24      Screech
+31      Slash
+40      Substitute
+49      AncientPower

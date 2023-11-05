@@ -1,0 +1,16 @@
+golem
+1      Defense Curl
+1      Mud Sport
+1      Rock Polish
+1      Tackle
+4      Mud Sport
+8      Rock Polish
+11      Rock Throw
+15      Magnitude
+18      Selfdestruct
+22      Rollout
+27      Rock Blast
+33      Earthquake
+38      Explosion
+44      Double-Edge
+49      Stone Edge

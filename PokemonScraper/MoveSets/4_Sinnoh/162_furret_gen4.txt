@@ -1,0 +1,17 @@
+furret
+1      Defense Curl
+1      Foresight
+1      Quick Attack
+1      Scratch
+4      Defense Curl
+7      Quick Attack
+13      Fury Swipes
+17      Helping Hand
+21      Follow Me
+28      Slam
+32      Rest
+36      Sucker Punch
+42      Amnesia
+46      Baton Pass
+50      Me First
+56      Hyper Voice

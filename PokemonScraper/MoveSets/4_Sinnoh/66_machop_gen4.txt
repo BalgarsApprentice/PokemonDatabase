@@ -1,0 +1,14 @@
+machop
+1      Leer
+1      Low Kick
+7      Focus Energy
+10      Karate Chop
+13      Foresight
+19      Seismic Toss
+22      Revenge
+25      Vital Throw
+31      Submission
+34      Wake-Up Slap
+37      Cross Chop
+43      Scary Face
+46      DynamicPunch

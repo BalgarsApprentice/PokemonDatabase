@@ -1,0 +1,17 @@
+kabuto
+1      Harden
+1      Scratch
+34      Absorb
+39      Slash
+44      Leer
+49      Hydro Pump
+
+
+Yellow Version
+kabuto
+1      Harden
+1      Scratch
+34      Absorb
+39      Slash
+44      Leer
+49      Hydro Pump

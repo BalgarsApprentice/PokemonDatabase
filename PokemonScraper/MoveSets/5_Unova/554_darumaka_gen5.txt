@@ -1,0 +1,17 @@
+darumaka
+1      Tackle
+3      Rollout
+6      Incinerate
+9      Rage
+11      Fire Fang
+14      Headbutt
+17      Uproar
+19      Facade
+22      Fire Punch
+25      Work Up
+27      Thrash
+30      Belly Drum
+33      Flare Blitz
+35      Taunt
+39      Superpower
+42      Overheat

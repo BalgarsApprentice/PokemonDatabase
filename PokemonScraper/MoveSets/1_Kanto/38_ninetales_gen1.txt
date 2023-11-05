@@ -1,0 +1,13 @@
+ninetales
+1      Ember
+1      Quick Attack
+1      Roar
+1      Tail Whip
+
+
+Yellow Version
+ninetales
+1      Ember
+1      Quick Attack
+1      Roar
+1      Tail Whip

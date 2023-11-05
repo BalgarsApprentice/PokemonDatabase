@@ -1,0 +1,12 @@
+shinx
+1      Tackle
+5      Leer
+9      Charge
+13      Bite
+17      Spark
+21      Roar
+25      Swagger
+29      Crunch
+33      Thunder Fang
+37      Scary Face
+41      Discharge

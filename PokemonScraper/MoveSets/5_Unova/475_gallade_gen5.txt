@@ -1,0 +1,21 @@
+gallade
+1      Confusion
+1      Double Team
+1      Leaf Blade
+1      Leer
+1      Night Slash
+1      Teleport
+6      Confusion
+10      Double Team
+12      Teleport
+17      Fury Cutter
+22      Slash
+25      Heal Pulse
+31      Swords Dance
+36      Psycho Cut
+39      Helping Hand
+45      Feint
+50      False Swipe
+53      Protect
+59      Close Combat
+64      Stored Power

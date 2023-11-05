@@ -1,0 +1,11 @@
+rhydon
+1      Fury Attack
+1      Horn Attack
+1      Stomp
+1      Tail Whip
+13      Stomp
+19      Fury Attack
+31      Scary Face
+37      Horn Drill
+54      Take Down
+65      Earthquake

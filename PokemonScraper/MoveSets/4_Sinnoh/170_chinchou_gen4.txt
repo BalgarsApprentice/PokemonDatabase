@@ -1,0 +1,15 @@
+chinchou
+1      Bubble
+1      Supersonic
+6      Thunder Wave
+9      Flail
+12      Water Gun
+17      Confuse Ray
+20      Spark
+23      Take Down
+28      BubbleBeam
+31      Signal Beam
+34      Discharge
+39      Aqua Ring
+42      Hydro Pump
+45      Charge

@@ -1,0 +1,11 @@
+fearow
+1      Fury Attack
+1      Growl
+1      Leer
+1      Peck
+7      Leer
+13      Fury Attack
+26      Pursuit
+32      Mirror Move
+40      Drill Peck
+47      Agility

@@ -1,0 +1,16 @@
+lumineon
+1      Attract
+1      Pound
+1      Water Gun
+6      Water Gun
+10      Attract
+13      Rain Dance
+17      Gust
+22      Water Pulse
+26      Captivate
+29      Safeguard
+35      Aqua Ring
+42      Whirlpool
+48      U-turn
+53      Bounce
+59      Silver Wind

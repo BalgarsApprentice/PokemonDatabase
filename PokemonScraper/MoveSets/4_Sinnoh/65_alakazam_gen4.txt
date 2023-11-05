@@ -1,0 +1,15 @@
+alakazam
+1      Confusion
+1      Kinesis
+1      Teleport
+16      Confusion
+18      Disable
+22      Miracle Eye
+24      Psybeam
+28      Reflect
+30      Recover
+34      Psycho Cut
+36      Calm Mind
+40      Psychic
+42      Future Sight
+46      Trick

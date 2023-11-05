@@ -1,0 +1,21 @@
+samurott
+1      Megahorn
+1      Tackle
+1      Tail Whip
+1      Water Gun
+1      Water Sport
+5      Tail Whip
+7      Water Gun
+11      Water Sport
+13      Focus Energy
+17      Razor Shell
+20      Fury Cutter
+25      Water Pulse
+28      Revenge
+33      Aqua Jet
+36      Slash
+38      Encore
+45      Aqua Tail
+50      Retaliate
+57      Swords Dance
+62      Hydro Pump

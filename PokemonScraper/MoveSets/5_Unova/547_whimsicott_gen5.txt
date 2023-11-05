@@ -1,0 +1,8 @@
+whimsicott
+1      Cotton Spore
+1      Growth
+1      Leech Seed
+1      Mega Drain
+10      Gust
+28      Tailwind
+46      Hurricane

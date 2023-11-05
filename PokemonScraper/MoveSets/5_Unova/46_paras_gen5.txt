@@ -1,0 +1,13 @@
+paras
+1      Scratch
+6      PoisonPowder
+6      Stun Spore
+11      Leech Life
+17      Fury Cutter
+22      Spore
+27      Slash
+33      Growth
+38      Giga Drain
+43      Aromatherapy
+49      Rage Powder
+54      X-Scissor

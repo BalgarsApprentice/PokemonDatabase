@@ -1,0 +1,8 @@
+skarmory
+1      Leer
+1      Peck
+13      Sand-Attack
+19      Swift
+25      Agility
+37      Fury Attack
+49      Steel Wing

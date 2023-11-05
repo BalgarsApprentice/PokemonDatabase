@@ -1,0 +1,7 @@
+igglybuff
+1      Charm
+1      Sing
+5      Defense Curl
+9      Pound
+13      Sweet Kiss
+17      Copycat

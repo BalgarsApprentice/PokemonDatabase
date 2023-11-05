@@ -1,0 +1,20 @@
+houndoom
+1      Ember
+1      Howl
+1      Leer
+1      Smog
+1      Thunder Fang
+4      Howl
+8      Smog
+13      Roar
+16      Bite
+20      Odor Sleuth
+26      Beat Up
+30      Fire Fang
+35      Faint Attack
+41      Embargo
+45      Foul Play
+50      Flamethrower
+56      Crunch
+60      Nasty Plot
+65      Inferno

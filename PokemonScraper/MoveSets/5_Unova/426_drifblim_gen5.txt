@@ -1,0 +1,17 @@
+drifblim
+1      Astonish
+1      Constrict
+1      Gust
+1      Minimize
+6      Astonish
+11      Gust
+14      Focus Energy
+17      Payback
+22      Hex
+27      Stockpile
+32      Spit Up
+32      Swallow
+37      Ominous Wind
+44      Baton Pass
+51      Shadow Ball
+56      Explosion

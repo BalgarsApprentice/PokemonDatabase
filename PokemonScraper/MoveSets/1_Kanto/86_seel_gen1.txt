@@ -1,0 +1,17 @@
+seel
+1      Headbutt
+30      Growl
+35      Aurora Beam
+40      Rest
+45      Take Down
+50      Ice Beam
+
+
+Yellow Version
+seel
+1      Headbutt
+30      Growl
+35      Aurora Beam
+40      Rest
+45      Take Down
+50      Ice Beam

@@ -1,0 +1,14 @@
+regirock
+1      Explosion
+1      Stomp
+9      Rock Throw
+17      Curse
+25      Superpower
+33      AncientPower
+41      Iron Defense
+49      Charge Beam
+57      Lock-On
+65      Zap Cannon
+73      Stone Edge
+81      Hammer Arm
+89      Hyper Beam

@@ -1,0 +1,19 @@
+rhyperior
+1      Fury Attack
+1      Horn Attack
+1      Poison Jab
+1      Stomp
+1      Tail Whip
+9      Stomp
+19      Fury Attack
+19      Scary Face
+23      Rock Blast
+30      Chip Away
+41      Take Down
+42      Hammer Arm
+47      Drill Run
+56      Stone Edge
+62      Earthquake
+71      Horn Drill
+77      Megahorn
+86      Rock Wrecker

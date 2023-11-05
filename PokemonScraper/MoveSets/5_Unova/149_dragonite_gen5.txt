@@ -1,0 +1,22 @@
+dragonite
+1      Fire Punch
+1      Leer
+1      Roost
+1      ThunderPunch
+1      Thunder Wave
+1      Twister
+1      Wrap
+5      Thunder Wave
+11      Twister
+15      Dragon Rage
+21      Slam
+25      Agility
+33      Dragon Tail
+39      Aqua Tail
+47      Dragon Rush
+53      Safeguard
+55      Wing Attack
+61      Dragon Dance
+67      Outrage
+75      Hyper Beam
+81      Hurricane

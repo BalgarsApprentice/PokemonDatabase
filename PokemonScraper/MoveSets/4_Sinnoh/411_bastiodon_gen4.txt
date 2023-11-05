@@ -1,0 +1,15 @@
+bastiodon
+1      Metal Sound
+1      Protect
+1      Tackle
+1      Taunt
+6      Taunt
+10      Metal Sound
+15      Take Down
+19      Iron Defense
+24      Swagger
+28      AncientPower
+30      Block
+36      Endure
+43      Metal Burst
+52      Iron Head

@@ -1,0 +1,14 @@
+luxray
+1      Charge
+1      Leer
+1      Tackle
+5      Leer
+9      Charge
+13      Bite
+18      Spark
+23      Roar
+28      Swagger
+35      Crunch
+42      Thunder Fang
+49      Scary Face
+56      Discharge

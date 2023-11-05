@@ -1,0 +1,12 @@
+seadra
+1      Bubble
+1      Leer
+1      SmokeScreen
+1      Water Gun
+8      SmokeScreen
+15      Leer
+22      Water Gun
+29      Twister
+40      Agility
+51      Hydro Pump
+62      Dragon Dance

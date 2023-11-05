@@ -1,0 +1,21 @@
+dewgong
+1      Aurora Beam
+1      Growl
+1      Headbutt
+30      Growl
+35      Aurora Beam
+44      Rest
+50      Take Down
+56      Ice Beam
+
+
+Yellow Version
+dewgong
+1      Aurora Beam
+1      Growl
+1      Headbutt
+30      Growl
+35      Aurora Beam
+44      Rest
+50      Take Down
+56      Ice Beam

@@ -1,0 +1,20 @@
+feraligatr
+1      Leer
+1      Rage
+1      Scratch
+1      Water Gun
+6      Water Gun
+8      Rage
+13      Bite
+15      Scary Face
+21      Ice Fang
+24      Flail
+30      Agility
+32      Crunch
+37      Chip Away
+45      Slash
+50      Screech
+58      Thrash
+63      Aqua Tail
+71      Superpower
+76      Hydro Pump

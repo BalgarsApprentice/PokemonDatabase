@@ -1,0 +1,21 @@
+gliscor
+1      Fire Fang
+1      Harden
+1      Ice Fang
+1      Knock Off
+1      Poison Jab
+1      Sand-Attack
+1      Thunder Fang
+5      Sand-Attack
+9      Harden
+12      Knock Off
+16      Quick Attack
+20      Fury Cutter
+23      Faint Attack
+27      Acrobatics
+31      Screech
+34      Night Slash
+38      Swords Dance
+42      U-turn
+45      X-Scissor
+49      Guillotine

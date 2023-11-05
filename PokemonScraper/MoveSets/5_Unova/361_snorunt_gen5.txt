@@ -1,0 +1,13 @@
+snorunt
+1      Leer
+1      Powder Snow
+4      Double Team
+10      Bite
+13      Icy Wind
+19      Headbutt
+22      Protect
+28      Ice Fang
+31      Crunch
+37      Ice Shard
+40      Hail
+46      Blizzard

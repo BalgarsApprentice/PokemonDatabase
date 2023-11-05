@@ -1,0 +1,15 @@
+carnivine
+1      Bind
+1      Growth
+7      Bite
+11      Vine Whip
+17      Sweet Scent
+21      Ingrain
+27      Faint Attack
+31      Leaf Tornado
+37      Spit Up
+37      Stockpile
+37      Swallow
+41      Crunch
+47      Wring Out
+51      Power Whip

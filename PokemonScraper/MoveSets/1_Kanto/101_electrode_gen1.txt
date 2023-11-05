@@ -1,0 +1,21 @@
+electrode
+1      Screech
+1      SonicBoom
+1      Tackle
+17      SonicBoom
+22      Selfdestruct
+29      Light Screen
+40      Swift
+50      Explosion
+
+
+Yellow Version
+electrode
+1      Screech
+1      SonicBoom
+1      Tackle
+17      SonicBoom
+22      Selfdestruct
+29      Light Screen
+40      Swift
+50      Explosion

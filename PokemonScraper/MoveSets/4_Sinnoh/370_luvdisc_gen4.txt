@@ -1,0 +1,14 @@
+luvdisc
+1      Tackle
+4      Charm
+7      Water Gun
+9      Agility
+14      Take Down
+17      Lucky Chant
+22      Attract
+27      Sweet Kiss
+31      Water Pulse
+37      Aqua Ring
+40      Captivate
+46      Flail
+51      Safeguard

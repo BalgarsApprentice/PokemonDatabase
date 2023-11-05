@@ -1,0 +1,14 @@
+dratini
+1      Leer
+1      Wrap
+5      Thunder Wave
+11      Twister
+15      Dragon Rage
+21      Slam
+25      Agility
+31      Aqua Tail
+35      Dragon Rush
+41      Safeguard
+45      Dragon Dance
+51      Outrage
+55      Hyper Beam

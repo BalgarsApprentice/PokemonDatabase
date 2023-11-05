@@ -1,0 +1,9 @@
+aipom
+1      Scratch
+1      Tail Whip
+6      Sand-Attack
+12      Baton Pass
+19      Fury Swipes
+27      Swift
+36      Screech
+46      Agility

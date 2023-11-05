@@ -1,0 +1,18 @@
+noctowl
+1      Foresight
+1      Growl
+1      Hypnosis
+1      Sky Attack
+1      Tackle
+5      Foresight
+9      Hypnosis
+13      Peck
+17      Reflect
+22      Confusion
+27      Take Down
+32      Air Slash
+37      Zen Headbutt
+42      Extrasensory
+47      Psycho Shift
+52      Roost
+57      Dream Eater

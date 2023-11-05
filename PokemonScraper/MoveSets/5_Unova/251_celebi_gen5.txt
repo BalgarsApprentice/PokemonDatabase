@@ -1,0 +1,15 @@
+celebi
+1      Confusion
+1      Heal Bell
+1      Leech Seed
+1      Recover
+10      Safeguard
+19      Magical Leaf
+28      AncientPower
+37      Baton Pass
+46      Natural Gift
+55      Heal Block
+64      Future Sight
+73      Healing Wish
+82      Leaf Storm
+91      Perish Song

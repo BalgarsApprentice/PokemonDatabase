@@ -1,0 +1,16 @@
+cubchoo
+1      Powder Snow
+5      Growl
+9      Bide
+13      Icy Wind
+17      Fury Swipes
+21      Brine
+25      Endure
+29      Charm
+33      Slash
+36      Flail
+41      Rest
+45      Blizzard
+49      Hail
+53      Thrash
+57      Sheer Cold

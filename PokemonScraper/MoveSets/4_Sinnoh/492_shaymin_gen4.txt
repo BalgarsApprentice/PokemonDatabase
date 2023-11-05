@@ -1,0 +1,13 @@
+shaymin
+1      Defense Curl
+10      Magical Leaf
+19      Leech Seed
+28      Synthesis
+37      Sweet Scent
+46      Natural Gift
+55      Worry Seed
+64      Aromatherapy
+73      Energy Ball
+82      GrassWhistle
+91      Lucky Chant
+100      Seed Flare

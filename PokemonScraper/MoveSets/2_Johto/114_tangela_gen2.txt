@@ -1,0 +1,11 @@
+tangela
+1      Constrict
+4      Sleep Powder
+10      Absorb
+13      PoisonPowder
+19      Vine Whip
+25      Bind
+31      Mega Drain
+34      Stun Spore
+40      Slam
+46      Growth

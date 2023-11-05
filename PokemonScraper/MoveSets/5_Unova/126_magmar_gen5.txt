@@ -1,0 +1,15 @@
+magmar
+1      Ember
+1      Leer
+1      Smog
+6      Ember
+11      SmokeScreen
+16      Faint Attack
+21      Fire Spin
+26      Confuse Ray
+32      Flame Burst
+38      Fire Punch
+44      Lava Plume
+50      Flamethrower
+56      Sunny Day
+62      Fire Blast

@@ -1,0 +1,16 @@
+marshtomp
+1      Growl
+1      Mud-Slap
+1      Tackle
+1      Water Gun
+6      Mud-Slap
+10      Water Gun
+15      Bide
+16      Mud Shot
+20      Foresight
+25      Mud Bomb
+31      Take Down
+37      Muddy Water
+42      Protect
+46      Earthquake
+53      Endeavor

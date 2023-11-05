@@ -1,0 +1,14 @@
+carvanha
+1      Bite
+1      Leer
+6      Rage
+8      Focus Energy
+11      Scary Face
+16      Ice Fang
+18      Screech
+21      Swagger
+26      Assurance
+28      Crunch
+31      Aqua Jet
+36      Agility
+38      Take Down

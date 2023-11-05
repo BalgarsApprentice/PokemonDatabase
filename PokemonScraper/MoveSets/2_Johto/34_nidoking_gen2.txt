@@ -1,0 +1,6 @@
+nidoking
+1      Double Kick
+1      Horn Attack
+1      Poison Sting
+1      Tackle
+23      Thrash

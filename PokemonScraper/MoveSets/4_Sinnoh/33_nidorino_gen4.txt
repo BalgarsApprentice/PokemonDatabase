@@ -1,0 +1,14 @@
+nidorino
+1      Leer
+1      Peck
+7      Focus Energy
+9      Double Kick
+13      Poison Sting
+20      Fury Attack
+23      Horn Attack
+28      Helping Hand
+35      Toxic Spikes
+38      Flatter
+43      Poison Jab
+50      Captivate
+58      Horn Drill

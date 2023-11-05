@@ -1,0 +1,8 @@
+rattata
+1      Tackle
+1      Tail Whip
+7      Quick Attack
+13      Hyper Fang
+20      Focus Energy
+27      Pursuit
+34      Super Fang

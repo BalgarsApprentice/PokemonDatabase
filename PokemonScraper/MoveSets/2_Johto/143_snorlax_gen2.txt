@@ -1,0 +1,11 @@
+snorlax
+1      Tackle
+8      Amnesia
+15      Defense Curl
+22      Belly Drum
+29      Headbutt
+36      Rest
+36      Snore
+43      Body Slam
+50      Rollout
+57      Hyper Beam

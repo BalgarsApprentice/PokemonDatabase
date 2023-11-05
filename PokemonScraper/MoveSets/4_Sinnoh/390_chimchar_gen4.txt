@@ -1,0 +1,13 @@
+chimchar
+1      Leer
+1      Scratch
+7      Ember
+9      Taunt
+15      Fury Swipes
+17      Flame Wheel
+23      Nasty Plot
+25      Torment
+31      Facade
+33      Fire Spin
+39      Slack Off
+41      Flamethrower

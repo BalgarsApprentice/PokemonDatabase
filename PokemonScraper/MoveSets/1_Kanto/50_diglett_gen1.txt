@@ -1,0 +1,17 @@
+diglett
+1      Scratch
+15      Growl
+19      Dig
+24      Sand-Attack
+31      Slash
+40      Earthquake
+
+
+Yellow Version
+diglett
+1      Scratch
+15      Growl
+19      Dig
+24      Sand-Attack
+31      Slash
+40      Earthquake

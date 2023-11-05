@@ -1,0 +1,12 @@
+bagon
+1      Rage
+5      Bite
+9      Leer
+17      Headbutt
+21      Focus Energy
+25      Ember
+33      DragonBreath
+37      Scary Face
+41      Crunch
+49      Dragon Claw
+53      Double-Edge

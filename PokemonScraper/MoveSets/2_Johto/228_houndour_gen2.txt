@@ -1,0 +1,9 @@
+houndour
+1      Ember
+1      Leer
+7      Roar
+13      Smog
+20      Bite
+27      Faint Attack
+35      Flamethrower
+43      Crunch

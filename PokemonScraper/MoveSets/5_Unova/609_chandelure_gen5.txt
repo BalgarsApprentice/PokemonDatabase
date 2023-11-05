@@ -1,0 +1,5 @@
+chandelure
+1      Confuse Ray
+1      Flame Burst
+1      Hex
+1      Smog

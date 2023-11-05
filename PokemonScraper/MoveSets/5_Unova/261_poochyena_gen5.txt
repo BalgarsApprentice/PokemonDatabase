@@ -1,0 +1,15 @@
+poochyena
+1      Tackle
+5      Howl
+9      Sand-Attack
+13      Bite
+17      Odor Sleuth
+21      Roar
+25      Swagger
+29      Assurance
+33      Scary Face
+37      Taunt
+41      Embargo
+45      Take Down
+49      Sucker Punch
+53      Crunch

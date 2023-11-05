@@ -1,0 +1,5 @@
+vileplume
+1      Absorb
+1      Petal Dance
+1      Stun Spore
+1      Sweet Scent

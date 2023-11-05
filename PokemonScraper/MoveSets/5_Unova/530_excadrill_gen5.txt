@@ -1,0 +1,19 @@
+excadrill
+1      Mud-Slap
+1      Mud Sport
+1      Rapid Spin
+1      Scratch
+5      Rapid Spin
+8      Mud-Slap
+12      Fury Swipes
+15      Metal Claw
+19      Dig
+22      Hone Claws
+26      Slash
+29      Rock Slide
+31      Horn Drill
+36      Earthquake
+42      Swords Dance
+49      Sandstorm
+55      Drill Run
+62      Fissure

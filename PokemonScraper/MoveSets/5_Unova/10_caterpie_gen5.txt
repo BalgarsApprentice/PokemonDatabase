@@ -1,0 +1,4 @@
+caterpie
+1      String Shot
+1      Tackle
+15      Bug Bite

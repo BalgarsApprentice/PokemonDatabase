@@ -1,0 +1,19 @@
+dratini
+1      Leer
+1      Wrap
+10      Thunder Wave
+20      Agility
+30      Slam
+40      Dragon Rage
+50      Hyper Beam
+
+
+Yellow Version
+dratini
+1      Leer
+1      Wrap
+10      Thunder Wave
+20      Agility
+30      Slam
+40      Dragon Rage
+50      Hyper Beam

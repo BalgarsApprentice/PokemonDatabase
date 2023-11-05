@@ -1,0 +1,16 @@
+croconaw
+1      Leer
+1      Scratch
+1      Water Gun
+6      Water Gun
+8      Rage
+13      Bite
+15      Scary Face
+21      Ice Fang
+24      Thrash
+30      Crunch
+33      Slash
+39      Screech
+42      Aqua Tail
+48      Superpower
+51      Hydro Pump

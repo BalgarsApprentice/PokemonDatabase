@@ -1,0 +1,16 @@
+cyndaquil
+1      Leer
+1      Tackle
+6      SmokeScreen
+10      Ember
+13      Quick Attack
+19      Flame Wheel
+22      Defense Curl
+28      Flame Charge
+31      Swift
+37      Lava Plume
+40      Flamethrower
+46      Inferno
+49      Rollout
+55      Double-Edge
+58      Eruption

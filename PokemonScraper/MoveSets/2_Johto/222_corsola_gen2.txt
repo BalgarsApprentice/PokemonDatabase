@@ -1,0 +1,9 @@
+corsola
+1      Tackle
+7      Harden
+13      Bubble
+19      Recover
+25      BubbleBeam
+31      Spike Cannon
+37      Mirror Coat
+43      AncientPower

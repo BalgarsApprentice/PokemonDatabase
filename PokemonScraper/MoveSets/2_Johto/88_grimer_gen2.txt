@@ -1,0 +1,10 @@
+grimer
+1      Poison Gas
+1      Pound
+5      Harden
+10      Disable
+16      Sludge
+23      Minimize
+31      Screech
+40      Acid Armor
+50      Sludge Bomb

@@ -1,0 +1,10 @@
+qwilfish
+1      Poison Sting
+1      Spikes
+1      Tackle
+10      Harden
+10      Minimize
+19      Water Gun
+28      Pin Missile
+37      Take Down
+46      Hydro Pump

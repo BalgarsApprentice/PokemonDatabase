@@ -1,0 +1,10 @@
+yanma
+1      Foresight
+1      Tackle
+7      Quick Attack
+13      Double Team
+19      SonicBoom
+25      Detect
+31      Supersonic
+37      Swift
+43      Screech

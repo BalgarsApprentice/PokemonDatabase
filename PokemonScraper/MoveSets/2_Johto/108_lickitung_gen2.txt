@@ -1,0 +1,9 @@
+lickitung
+1      Lick
+7      Supersonic
+13      Defense Curl
+19      Stomp
+25      Wrap
+31      Disable
+37      Slam
+43      Screech

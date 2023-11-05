@@ -1,0 +1,22 @@
+chansey
+1      DoubleSlap
+1      Pound
+24      Sing
+30      Growl
+38      Minimize
+44      Defense Curl
+48      Light Screen
+54      Double-Edge
+
+
+Yellow Version
+chansey
+1      Pound
+1      Tail Whip
+12      DoubleSlap
+24      Sing
+30      Growl
+38      Minimize
+44      Defense Curl
+48      Light Screen
+54      Double-Edge

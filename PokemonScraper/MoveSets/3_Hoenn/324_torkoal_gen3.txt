@@ -1,0 +1,13 @@
+torkoal
+1      Ember
+4      Smog
+7      Curse
+14      SmokeScreen
+17      Fire Spin
+20      Body Slam
+27      Protect
+30      Flamethrower
+33      Iron Defense
+40      Amnesia
+43      Flail
+46      Heat Wave

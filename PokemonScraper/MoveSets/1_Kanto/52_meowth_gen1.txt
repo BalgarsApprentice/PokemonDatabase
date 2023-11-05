@@ -1,0 +1,19 @@
+meowth
+1      Growl
+1      Scratch
+12      Bite
+17      Pay Day
+24      Screech
+33      Fury Swipes
+44      Slash
+
+
+Yellow Version
+meowth
+1      Growl
+1      Scratch
+12      Bite
+17      Pay Day
+24      Screech
+33      Fury Swipes
+44      Slash

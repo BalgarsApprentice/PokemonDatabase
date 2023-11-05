@@ -1,0 +1,11 @@
+exeggcute
+1      Barrage
+1      Hypnosis
+1      Uproar
+7      Reflect
+13      Leech Seed
+19      Confusion
+25      Stun Spore
+31      PoisonPowder
+37      Sleep Powder
+43      SolarBeam

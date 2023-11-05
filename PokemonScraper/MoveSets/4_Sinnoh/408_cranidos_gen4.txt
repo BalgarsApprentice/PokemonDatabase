@@ -1,0 +1,12 @@
+cranidos
+1      Headbutt
+1      Leer
+6      Focus Energy
+10      Pursuit
+15      Take Down
+19      Scary Face
+24      Assurance
+28      AncientPower
+33      Zen Headbutt
+37      Screech
+43      Head Smash

@@ -1,0 +1,19 @@
+magmar
+1      Ember
+36      Leer
+39      Confuse Ray
+43      Fire Punch
+48      SmokeScreen
+52      Smog
+55      Flamethrower
+
+
+Yellow Version
+magmar
+1      Ember
+36      Leer
+39      Confuse Ray
+43      Fire Punch
+48      SmokeScreen
+52      Smog
+55      Flamethrower

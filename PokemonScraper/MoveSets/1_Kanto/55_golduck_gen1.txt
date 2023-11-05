@@ -1,0 +1,21 @@
+golduck
+1      Disable
+1      Scratch
+1      Tail Whip
+28      Tail Whip
+31      Disable
+39      Confusion
+48      Fury Swipes
+59      Hydro Pump
+
+
+Yellow Version
+golduck
+1      Disable
+1      Scratch
+1      Tail Whip
+28      Tail Whip
+31      Disable
+39      Confusion
+48      Fury Swipes
+59      Hydro Pump

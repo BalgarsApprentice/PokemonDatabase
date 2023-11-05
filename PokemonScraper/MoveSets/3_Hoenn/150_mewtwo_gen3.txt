@@ -1,0 +1,12 @@
+mewtwo
+1      Confusion
+1      Disable
+11      Barrier
+22      Swift
+33      Psych Up
+44      Future Sight
+55      Mist
+66      Psychic
+77      Amnesia
+88      Recover
+99      Safeguard

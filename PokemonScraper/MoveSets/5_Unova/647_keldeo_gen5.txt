@@ -1,0 +1,15 @@
+keldeo
+1      Aqua Jet
+1      Leer
+7      Double Kick
+13      BubbleBeam
+19      Take Down
+25      Helping Hand
+31      Retaliate
+37      Aqua Tail
+43      Sacred Sword
+49      Swords Dance
+55      Quick Guard
+61      Work Up
+67      Hydro Pump
+73      Close Combat

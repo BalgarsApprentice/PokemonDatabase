@@ -1,0 +1,27 @@
+tentacruel
+1      Acid
+1      Supersonic
+1      Wrap
+7      Supersonic
+13      Wrap
+18      Poison Sting
+22      Water Gun
+27      Constrict
+35      Barrier
+43      Screech
+50      Hydro Pump
+
+
+Yellow Version
+tentacruel
+1      Acid
+1      Supersonic
+1      Wrap
+7      Supersonic
+13      Wrap
+18      Poison Sting
+22      Water Gun
+27      Constrict
+35      Barrier
+43      Screech
+50      Hydro Pump

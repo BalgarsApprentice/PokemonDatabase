@@ -1,0 +1,19 @@
+nidoqueen
+1      Body Slam
+1      Scratch
+1      Tackle
+1      Tail Whip
+8      Scratch
+14      Poison Sting
+23      Body Slam
+
+
+Yellow Version
+nidoqueen
+1      Body Slam
+1      Scratch
+1      Tackle
+1      Tail Whip
+8      Scratch
+12      Double Kick
+23      Body Slam

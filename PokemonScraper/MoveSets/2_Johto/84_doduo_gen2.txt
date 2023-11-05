@@ -1,0 +1,9 @@
+doduo
+1      Growl
+1      Peck
+9      Pursuit
+13      Fury Attack
+21      Tri Attack
+25      Rage
+33      Drill Peck
+37      Agility

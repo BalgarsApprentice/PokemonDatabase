@@ -1,0 +1,19 @@
+eevee
+1      Sand-Attack
+1      Tackle
+27      Quick Attack
+31      Tail Whip
+37      Bite
+45      Take Down
+
+
+Yellow Version
+eevee
+1      Tackle
+1      Tail Whip
+8      Sand-Attack
+16      Growl
+23      Quick Attack
+30      Bite
+36      Focus Energy
+42      Take Down

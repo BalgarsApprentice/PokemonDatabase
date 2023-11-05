@@ -1,0 +1,14 @@
+geodude
+1      Defense Curl
+1      Tackle
+4      Mud Sport
+8      Rock Polish
+11      Rock Throw
+15      Magnitude
+18      Selfdestruct
+22      Rollout
+25      Rock Blast
+29      Earthquake
+32      Explosion
+36      Double-Edge
+39      Stone Edge

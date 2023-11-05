@@ -1,0 +1,9 @@
+omanyte
+1      Constrict
+1      Withdraw
+13      Bite
+19      Water Gun
+31      Leer
+37      Protect
+49      AncientPower
+55      Hydro Pump

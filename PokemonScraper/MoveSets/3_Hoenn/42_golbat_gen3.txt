@@ -1,0 +1,14 @@
+golbat
+1      Astonish
+1      Leech Life
+1      Screech
+1      Supersonic
+6      Supersonic
+11      Astonish
+16      Bite
+21      Wing Attack
+28      Confuse Ray
+35      Air Cutter
+42      Mean Look
+49      Poison Fang
+56      Haze

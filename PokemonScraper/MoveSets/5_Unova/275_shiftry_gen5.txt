@@ -1,0 +1,7 @@
+shiftry
+1      Faint Attack
+1      Nasty Plot
+1      Razor Leaf
+1      Whirlwind
+19      Leaf Tornado
+49      Leaf Storm

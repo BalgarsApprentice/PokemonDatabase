@@ -1,0 +1,17 @@
+palpitoad
+1      Bubble
+1      Growl
+1      Round
+1      Supersonic
+5      Supersonic
+9      Round
+12      BubbleBeam
+16      Mud Shot
+20      Aqua Ring
+23      Uproar
+28      Muddy Water
+33      Rain Dance
+37      Flail
+42      Echoed Voice
+47      Hydro Pump
+51      Hyper Voice

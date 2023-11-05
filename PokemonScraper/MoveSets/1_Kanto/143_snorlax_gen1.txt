@@ -1,0 +1,19 @@
+snorlax
+1      Amnesia
+1      Headbutt
+1      Rest
+35      Body Slam
+41      Harden
+48      Double-Edge
+56      Hyper Beam
+
+
+Yellow Version
+snorlax
+1      Amnesia
+1      Headbutt
+1      Rest
+35      Body Slam
+41      Harden
+48      Double-Edge
+56      Hyper Beam

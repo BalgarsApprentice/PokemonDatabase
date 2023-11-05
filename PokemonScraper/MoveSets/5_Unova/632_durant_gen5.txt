@@ -1,0 +1,16 @@
+durant
+1      Sand-Attack
+1      ViceGrip
+6      Fury Cutter
+11      Bite
+16      Agility
+21      Metal Claw
+26      Bug Bite
+31      Crunch
+36      Iron Head
+41      Dig
+46      Entrainment
+51      X-Scissor
+56      Iron Defense
+61      Guillotine
+66      Metal Sound

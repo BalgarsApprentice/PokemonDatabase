@@ -1,0 +1,15 @@
+drifloon
+1      Constrict
+1      Minimize
+6      Astonish
+11      Gust
+14      Focus Energy
+17      Payback
+22      Hex
+27      Stockpile
+30      Spit Up
+30      Swallow
+33      Ominous Wind
+38      Baton Pass
+43      Shadow Ball
+46      Explosion

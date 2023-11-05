@@ -1,0 +1,15 @@
+pachirisu
+1      Bide
+1      Growl
+5      Quick Attack
+9      Charm
+13      Spark
+17      Endure
+21      Swift
+25      Electro Ball
+29      Sweet Kiss
+33      Thunder Wave
+37      Super Fang
+41      Discharge
+45      Last Resort
+49      Hyper Fang

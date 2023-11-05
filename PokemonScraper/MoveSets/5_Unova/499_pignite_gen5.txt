@@ -1,0 +1,20 @@
+pignite
+1      Ember
+1      Odor Sleuth
+1      Tackle
+1      Tail Whip
+3      Tail Whip
+7      Ember
+9      Odor Sleuth
+13      Defense Curl
+15      Flame Charge
+17      Arm Thrust
+20      Smog
+23      Rollout
+28      Take Down
+31      Heat Crash
+36      Assurance
+39      Flamethrower
+44      Head Smash
+47      Roar
+52      Flare Blitz

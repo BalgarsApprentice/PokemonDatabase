@@ -1,0 +1,10 @@
+dewgong
+1      Aurora Beam
+1      Growl
+1      Headbutt
+5      Growl
+16      Aurora Beam
+21      Rest
+32      Take Down
+43      Ice Beam
+60      Safeguard

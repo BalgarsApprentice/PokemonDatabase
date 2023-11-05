@@ -1,0 +1,19 @@
+qwilfish
+1      Poison Sting
+1      Spikes
+1      Tackle
+9      Harden
+9      Minimize
+13      Water Gun
+17      Rollout
+21      Toxic Spikes
+25      Spit Up
+25      Stockpile
+29      Revenge
+33      Brine
+37      Pin Missile
+41      Take Down
+45      Aqua Tail
+49      Poison Jab
+53      Destiny Bond
+57      Hydro Pump

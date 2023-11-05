@@ -1,0 +1,20 @@
+venomoth
+1      Disable
+1      Foresight
+1      Silver Wind
+1      Supersonic
+1      Tackle
+5      Supersonic
+11      Confusion
+13      PoisonPowder
+17      Leech Life
+23      Stun Spore
+25      Psybeam
+29      Sleep Powder
+31      Gust
+37      Signal Beam
+41      Zen Headbutt
+47      Poison Fang
+55      Psychic
+59      Bug Buzz
+63      Quiver Dance

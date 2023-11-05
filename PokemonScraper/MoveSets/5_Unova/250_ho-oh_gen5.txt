@@ -1,0 +1,17 @@
+ho-oh
+1      Weather Ball
+1      Whirlwind
+9      Gust
+15      Brave Bird
+23      Extrasensory
+29      Sunny Day
+37      Fire Blast
+43      Sacred Fire
+50      Punishment
+57      AncientPower
+65      Safeguard
+71      Recover
+79      Future Sight
+85      Natural Gift
+93      Calm Mind
+99      Sky Attack

@@ -1,0 +1,12 @@
+pidgeotto
+1      Gust
+1      Sand-Attack
+1      Tackle
+5      Sand-Attack
+9      Gust
+13      Quick Attack
+20      Whirlwind
+27      Wing Attack
+34      FeatherDance
+43      Agility
+52      Mirror Move

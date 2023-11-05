@@ -1,0 +1,19 @@
+ponyta
+1      Ember
+30      Tail Whip
+32      Stomp
+35      Growl
+39      Fire Spin
+43      Take Down
+48      Agility
+
+
+Yellow Version
+ponyta
+1      Ember
+30      Tail Whip
+32      Stomp
+35      Growl
+39      Fire Spin
+43      Take Down
+48      Agility

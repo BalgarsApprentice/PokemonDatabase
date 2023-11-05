@@ -1,0 +1,17 @@
+totodile
+1      Leer
+1      Scratch
+6      Water Gun
+8      Rage
+13      Bite
+15      Scary Face
+20      Ice Fang
+22      Flail
+27      Crunch
+29      Chip Away
+34      Slash
+36      Screech
+41      Thrash
+43      Aqua Tail
+48      Superpower
+50      Hydro Pump

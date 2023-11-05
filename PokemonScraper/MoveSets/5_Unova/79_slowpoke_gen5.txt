@@ -1,0 +1,17 @@
+slowpoke
+1      Curse
+1      Tackle
+1      Yawn
+5      Growl
+9      Water Gun
+14      Confusion
+19      Disable
+23      Headbutt
+28      Water Pulse
+32      Zen Headbutt
+36      Slack Off
+41      Amnesia
+45      Psychic
+49      Rain Dance
+54      Psych Up
+58      Heal Pulse

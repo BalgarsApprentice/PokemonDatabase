@@ -1,0 +1,15 @@
+parasect
+1      Cross Poison
+1      Leech Life
+1      PoisonPowder
+1      Scratch
+1      Stun Spore
+6      PoisonPowder
+6      Stun Spore
+11      Leech Life
+17      Spore
+22      Slash
+30      Growth
+39      Giga Drain
+47      Aromatherapy
+55      X-Scissor

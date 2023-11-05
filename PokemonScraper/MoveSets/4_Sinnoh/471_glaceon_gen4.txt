@@ -1,0 +1,14 @@
+glaceon
+1      Helping Hand
+1      Tackle
+1      Tail Whip
+8      Sand-Attack
+15      Icy Wind
+22      Quick Attack
+29      Bite
+36      Ice Shard
+43      Ice Fang
+50      Last Resort
+57      Mirror Coat
+64      Hail
+71      Blizzard

@@ -1,0 +1,16 @@
+karrablast
+1      Peck
+4      Leer
+8      Endure
+13      Fury Cutter
+16      Fury Attack
+20      Headbutt
+25      False Swipe
+28      Bug Buzz
+32      Slash
+37      Take Down
+40      Scary Face
+44      X-Scissor
+49      Flail
+52      Swords Dance
+56      Double-Edge

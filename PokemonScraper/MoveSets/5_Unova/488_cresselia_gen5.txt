@@ -1,0 +1,13 @@
+cresselia
+1      Confusion
+1      Double Team
+11      Safeguard
+20      Mist
+29      Aurora Beam
+38      Future Sight
+47      Slash
+57      Moonlight
+66      Psycho Cut
+75      Psycho Shift
+84      Lunar Dance
+93      Psychic

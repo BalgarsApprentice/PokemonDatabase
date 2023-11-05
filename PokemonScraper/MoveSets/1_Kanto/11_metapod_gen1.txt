@@ -1,0 +1,8 @@
+metapod
+1      Harden
+
+
+Yellow Version
+metapod
+1      Harden
+7      Harden

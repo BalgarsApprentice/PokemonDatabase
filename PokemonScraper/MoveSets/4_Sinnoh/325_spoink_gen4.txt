@@ -1,0 +1,15 @@
+spoink
+1      Splash
+7      Psywave
+10      Odor Sleuth
+14      Psybeam
+15      Psych Up
+18      Confuse Ray
+21      Magic Coat
+26      Zen Headbutt
+29      Rest
+29      Snore
+34      Payback
+41      Psychic
+46      Power Gem
+48      Bounce

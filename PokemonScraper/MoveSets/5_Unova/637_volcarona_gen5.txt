@@ -1,0 +1,16 @@
+volcarona
+1      Ember
+1      Gust
+1      Leech Life
+1      String Shot
+10      Leech Life
+20      Gust
+30      Fire Spin
+40      Whirlwind
+50      Silver Wind
+59      Quiver Dance
+60      Heat Wave
+70      Bug Buzz
+80      Rage Powder
+90      Hurricane
+100      Fiery Dance

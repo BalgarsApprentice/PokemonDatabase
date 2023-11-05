@@ -1,0 +1,19 @@
+nidoking
+1      Horn Attack
+1      Poison Sting
+1      Tackle
+1      Thrash
+8      Horn Attack
+14      Poison Sting
+23      Thrash
+
+
+Yellow Version
+nidoking
+1      Horn Attack
+1      Poison Sting
+1      Tackle
+1      Thrash
+8      Horn Attack
+12      Double Kick
+23      Thrash

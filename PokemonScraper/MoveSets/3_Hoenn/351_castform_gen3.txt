@@ -1,0 +1,9 @@
+castform
+1      Tackle
+10      Ember
+10      Powder Snow
+10      Water Gun
+20      Hail
+20      Rain Dance
+20      Sunny Day
+30      Weather Ball

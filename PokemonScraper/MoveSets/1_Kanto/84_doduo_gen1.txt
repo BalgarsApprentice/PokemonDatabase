@@ -1,0 +1,19 @@
+doduo
+1      Peck
+20      Growl
+24      Fury Attack
+30      Drill Peck
+36      Rage
+40      Tri Attack
+44      Agility
+
+
+Yellow Version
+doduo
+1      Peck
+20      Growl
+24      Fury Attack
+30      Drill Peck
+36      Rage
+40      Tri Attack
+44      Agility

@@ -1,0 +1,23 @@
+mewtwo
+1      Confusion
+1      Disable
+1      Psychic
+1      Swift
+63      Barrier
+66      Psychic
+70      Recover
+75      Mist
+81      Amnesia
+
+
+Yellow Version
+mewtwo
+1      Confusion
+1      Disable
+1      Psychic
+1      Swift
+63      Barrier
+66      Psychic
+70      Recover
+75      Mist
+81      Amnesia

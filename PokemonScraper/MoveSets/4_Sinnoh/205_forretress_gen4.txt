@@ -1,0 +1,20 @@
+forretress
+1      Protect
+1      Selfdestruct
+1      Tackle
+1      Take Down
+1      Toxic Spikes
+6      Selfdestruct
+9      Take Down
+12      Rapid Spin
+17      Bide
+20      Natural Gift
+23      Spikes
+28      Payback
+31      Mirror Shot
+33      Explosion
+38      Iron Defense
+45      Gyro Ball
+50      Double-Edge
+57      Magnet Rise
+62      Zap Cannon

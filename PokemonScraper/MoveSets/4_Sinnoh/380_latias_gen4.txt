@@ -1,0 +1,16 @@
+latias
+1      Psywave
+5      Wish
+10      Helping Hand
+15      Safeguard
+20      DragonBreath
+25      Water Sport
+30      Refresh
+35      Mist Ball
+40      Zen Headbutt
+45      Recover
+50      Psycho Shift
+55      Charm
+60      Healing Wish
+65      Psychic
+70      Dragon Pulse

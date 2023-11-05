@@ -1,0 +1,26 @@
+primeape
+1      Fury Swipes
+1      Karate Chop
+1      Leer
+1      Scratch
+15      Karate Chop
+21      Fury Swipes
+27      Focus Energy
+37      Seismic Toss
+46      Thrash
+
+
+Yellow Version
+primeape
+1      Karate Chop
+1      Leer
+1      Low Kick
+1      Scratch
+9      Low Kick
+15      Karate Chop
+21      Fury Swipes
+27      Focus Energy
+28      Rage
+37      Seismic Toss
+45      Screech
+46      Thrash

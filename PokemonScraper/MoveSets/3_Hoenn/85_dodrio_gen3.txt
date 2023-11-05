@@ -1,0 +1,12 @@
+dodrio
+1      Fury Attack
+1      Growl
+1      Peck
+1      Pursuit
+9      Pursuit
+13      Fury Attack
+21      Tri Attack
+25      Rage
+38      Uproar
+47      Drill Peck
+60      Agility

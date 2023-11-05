@@ -1,0 +1,12 @@
+torchic
+1      Growl
+1      Scratch
+7      Focus Energy
+10      Ember
+16      Peck
+19      Sand-Attack
+25      Fire Spin
+28      Quick Attack
+34      Slash
+37      Mirror Move
+43      Flamethrower

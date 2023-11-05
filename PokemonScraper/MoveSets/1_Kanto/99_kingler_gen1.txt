@@ -1,0 +1,21 @@
+kingler
+1      Bubble
+1      Leer
+1      ViceGrip
+20      ViceGrip
+25      Guillotine
+34      Stomp
+42      Crabhammer
+49      Harden
+
+
+Yellow Version
+kingler
+1      Bubble
+1      Leer
+1      ViceGrip
+20      ViceGrip
+25      Guillotine
+34      Stomp
+42      Crabhammer
+49      Harden

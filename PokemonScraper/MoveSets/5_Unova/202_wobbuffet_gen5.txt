@@ -1,0 +1,5 @@
+wobbuffet
+1      Counter
+1      Destiny Bond
+1      Mirror Coat
+1      Safeguard

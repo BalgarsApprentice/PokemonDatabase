@@ -1,0 +1,15 @@
+spinarak
+1      Poison Sting
+1      String Shot
+5      Scary Face
+8      Constrict
+12      Leech Life
+15      Night Shade
+19      Shadow Sneak
+22      Fury Swipes
+26      Sucker Punch
+29      Spider Web
+33      Agility
+36      Pin Missile
+40      Psychic
+43      Poison Jab

@@ -1,0 +1,19 @@
+ekans
+1      Leer
+1      Wrap
+10      Poison Sting
+17      Bite
+24      Glare
+31      Screech
+38      Acid
+
+
+Yellow Version
+ekans
+1      Leer
+1      Wrap
+10      Poison Sting
+17      Bite
+24      Glare
+31      Screech
+38      Acid

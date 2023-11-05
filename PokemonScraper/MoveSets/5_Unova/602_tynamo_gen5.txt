@@ -1,0 +1,5 @@
+tynamo
+1      Charge Beam
+1      Spark
+1      Tackle
+1      Thunder Wave

@@ -1,0 +1,8 @@
+wynaut
+1      Charm
+1      Encore
+1      Splash
+15      Counter
+15      Destiny Bond
+15      Mirror Coat
+15      Safeguard

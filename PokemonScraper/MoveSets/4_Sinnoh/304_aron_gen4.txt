@@ -1,0 +1,15 @@
+aron
+1      Tackle
+4      Harden
+8      Mud-Slap
+11      Headbutt
+15      Metal Claw
+18      Iron Defense
+22      Roar
+25      Take Down
+29      Iron Head
+32      Protect
+36      Metal Sound
+39      Iron Tail
+43      Double-Edge
+46      Metal Burst

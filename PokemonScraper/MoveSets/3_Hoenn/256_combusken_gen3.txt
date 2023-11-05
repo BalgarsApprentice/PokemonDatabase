@@ -1,0 +1,15 @@
+combusken
+1      Ember
+1      Focus Energy
+1      Growl
+1      Scratch
+7      Focus Energy
+13      Ember
+16      Double Kick
+17      Peck
+21      Sand-Attack
+28      Bulk Up
+32      Quick Attack
+39      Slash
+43      Mirror Move
+50      Sky Uppercut

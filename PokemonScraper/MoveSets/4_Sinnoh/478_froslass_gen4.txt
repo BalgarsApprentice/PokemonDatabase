@@ -1,0 +1,16 @@
+froslass
+1      Astonish
+1      Double Team
+1      Leer
+1      Powder Snow
+4      Double Team
+10      Astonish
+13      Icy Wind
+19      Confuse Ray
+22      Ominous Wind
+28      Wake-Up Slap
+31      Captivate
+37      Ice Shard
+40      Hail
+51      Blizzard
+59      Destiny Bond

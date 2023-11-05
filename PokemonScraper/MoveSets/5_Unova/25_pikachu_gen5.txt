@@ -1,0 +1,15 @@
+pikachu
+1      Growl
+1      ThunderShock
+5      Tail Whip
+10      Thunder Wave
+13      Quick Attack
+18      Electro Ball
+21      Double Team
+26      Slam
+29      Thunderbolt
+34      Feint
+37      Agility
+42      Discharge
+45      Light Screen
+50      Thunder

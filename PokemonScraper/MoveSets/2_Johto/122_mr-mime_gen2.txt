@@ -1,0 +1,12 @@
+mr-mime
+1      Barrier
+6      Confusion
+11      Substitute
+16      Meditate
+21      DoubleSlap
+26      Light Screen
+26      Reflect
+31      Encore
+36      Psybeam
+41      Baton Pass
+46      Safeguard

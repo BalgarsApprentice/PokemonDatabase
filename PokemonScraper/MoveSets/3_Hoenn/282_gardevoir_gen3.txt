@@ -1,0 +1,14 @@
+gardevoir
+1      Confusion
+1      Double Team
+1      Growl
+1      Teleport
+6      Confusion
+11      Double Team
+16      Teleport
+21      Calm Mind
+26      Psychic
+33      Imprison
+42      Future Sight
+51      Hypnosis
+60      Dream Eater

@@ -1,0 +1,15 @@
+vaporeon
+1      Helping Hand
+1      Tackle
+1      Tail Whip
+8      Sand-Attack
+15      Water Gun
+22      Quick Attack
+29      Bite
+36      Aurora Beam
+43      Aqua Ring
+50      Last Resort
+57      Haze
+64      Acid Armor
+71      Hydro Pump
+78      Muddy Water

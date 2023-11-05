@@ -1,0 +1,11 @@
+exeggutor
+1      Barrage
+1      Hypnosis
+28      Stomp
+
+
+Yellow Version
+exeggutor
+1      Barrage
+1      Hypnosis
+28      Stomp

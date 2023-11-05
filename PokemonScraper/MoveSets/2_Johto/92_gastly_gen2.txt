@@ -1,0 +1,10 @@
+gastly
+1      Hypnosis
+1      Lick
+8      Spite
+13      Mean Look
+16      Curse
+21      Night Shade
+28      Confuse Ray
+33      Dream Eater
+36      Destiny Bond

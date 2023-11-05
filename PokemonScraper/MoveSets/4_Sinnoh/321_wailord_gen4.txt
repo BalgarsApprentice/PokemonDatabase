@@ -1,0 +1,19 @@
+wailord
+1      Growl
+1      Rollout
+1      Splash
+1      Water Gun
+4      Growl
+7      Water Gun
+11      Rollout
+14      Whirlpool
+17      Astonish
+21      Water Pulse
+24      Mist
+27      Rest
+31      Brine
+34      Water Spout
+37      Amnesia
+46      Dive
+54      Bounce
+62      Hydro Pump

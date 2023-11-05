@@ -1,0 +1,12 @@
+ponyta
+1      Tackle
+7      Growl
+10      Tail Whip
+16      Ember
+19      Stomp
+25      Fire Spin
+28      Take Down
+34      Agility
+38      Fire Blast
+44      Bounce
+48      Flare Blitz

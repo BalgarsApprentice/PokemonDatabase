@@ -1,0 +1,19 @@
+dugtrio
+1      Growl
+1      Night Slash
+1      Sand-Attack
+1      Scratch
+1      Tri Attack
+4      Growl
+7      Astonish
+12      Mud-Slap
+15      Magnitude
+18      Bulldoze
+23      Sucker Punch
+26      Sand Tomb
+28      Mud Bomb
+33      Earth Power
+40      Dig
+45      Slash
+50      Earthquake
+57      Fissure

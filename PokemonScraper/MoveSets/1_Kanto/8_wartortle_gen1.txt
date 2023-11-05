@@ -1,0 +1,23 @@
+wartortle
+1      Bubble
+1      Tackle
+1      Tail Whip
+8      Bubble
+15      Water Gun
+24      Bite
+31      Withdraw
+39      Skull Bash
+47      Hydro Pump
+
+
+Yellow Version
+wartortle
+1      Bubble
+1      Tackle
+1      Tail Whip
+8      Bubble
+15      Water Gun
+24      Bite
+31      Withdraw
+39      Skull Bash
+47      Hydro Pump

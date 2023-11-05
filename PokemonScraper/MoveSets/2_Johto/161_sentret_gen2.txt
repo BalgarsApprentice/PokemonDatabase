@@ -1,0 +1,8 @@
+sentret
+1      Tackle
+5      Defense Curl
+11      Quick Attack
+17      Fury Swipes
+25      Slam
+33      Rest
+41      Amnesia

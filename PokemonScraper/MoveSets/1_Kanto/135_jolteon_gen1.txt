@@ -1,0 +1,29 @@
+jolteon
+1      Quick Attack
+1      Sand-Attack
+1      Tackle
+1      ThunderShock
+27      Quick Attack
+31      ThunderShock
+37      Tail Whip
+40      Thunder Wave
+42      Double Kick
+44      Agility
+48      Pin Missile
+54      Thunder
+
+
+Yellow Version
+jolteon
+1      Quick Attack
+1      Tackle
+1      Tail Whip
+1      ThunderShock
+8      Sand-Attack
+16      ThunderShock
+23      Quick Attack
+30      Double Kick
+36      Pin Missile
+42      Thunder Wave
+47      Agility
+52      Thunder

@@ -1,0 +1,14 @@
+solrock
+1      Confusion
+1      Harden
+1      Tackle
+9      Rock Throw
+12      Fire Spin
+20      Rock Polish
+23      Psywave
+31      Embargo
+34      Cosmic Power
+42      Heal Block
+45      Rock Slide
+53      SolarBeam
+56      Explosion

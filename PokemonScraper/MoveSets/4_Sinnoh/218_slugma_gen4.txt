@@ -1,0 +1,14 @@
+slugma
+1      Smog
+1      Yawn
+8      Ember
+11      Rock Throw
+16      Harden
+23      Recover
+26      AncientPower
+31      Amnesia
+38      Lava Plume
+41      Rock Slide
+46      Body Slam
+53      Flamethrower
+56      Earth Power

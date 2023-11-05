@@ -1,0 +1,21 @@
+nidoran-f
+1      Growl
+1      Tackle
+8      Scratch
+14      Poison Sting
+21      Tail Whip
+29      Bite
+36      Fury Swipes
+43      Double Kick
+
+
+Yellow Version
+nidoran-f
+1      Growl
+1      Tackle
+8      Scratch
+12      Double Kick
+17      Poison Sting
+23      Tail Whip
+30      Bite
+38      Fury Swipes

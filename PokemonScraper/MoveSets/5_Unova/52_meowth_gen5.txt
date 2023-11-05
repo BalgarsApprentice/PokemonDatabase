@@ -1,0 +1,16 @@
+meowth
+1      Growl
+1      Scratch
+6      Bite
+9      Fake Out
+14      Fury Swipes
+17      Screech
+22      Faint Attack
+25      Taunt
+30      Pay Day
+33      Slash
+38      Nasty Plot
+41      Assurance
+46      Captivate
+49      Night Slash
+54      Feint

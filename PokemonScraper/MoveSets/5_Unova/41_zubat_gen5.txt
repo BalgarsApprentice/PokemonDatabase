@@ -1,0 +1,13 @@
+zubat
+1      Leech Life
+5      Supersonic
+9      Astonish
+13      Bite
+17      Wing Attack
+21      Confuse Ray
+25      Air Cutter
+29      Mean Look
+33      Acrobatics
+37      Poison Fang
+41      Haze
+45      Air Slash

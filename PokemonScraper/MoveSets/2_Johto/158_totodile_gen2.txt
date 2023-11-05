@@ -1,0 +1,10 @@
+totodile
+1      Leer
+1      Scratch
+7      Rage
+13      Water Gun
+20      Bite
+27      Scary Face
+35      Slash
+43      Screech
+52      Hydro Pump

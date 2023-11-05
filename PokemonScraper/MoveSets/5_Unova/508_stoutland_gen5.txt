@@ -1,0 +1,19 @@
+stoutland
+1      Bite
+1      Fire Fang
+1      Ice Fang
+1      Leer
+1      Odor Sleuth
+1      Tackle
+1      Thunder Fang
+5      Odor Sleuth
+8      Bite
+12      Helping Hand
+15      Take Down
+20      Work Up
+24      Crunch
+29      Roar
+36      Retaliate
+42      Reversal
+51      Last Resort
+59      Giga Impact

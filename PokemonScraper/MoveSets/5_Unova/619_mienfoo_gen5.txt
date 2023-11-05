@@ -1,0 +1,17 @@
+mienfoo
+1      Pound
+5      Meditate
+9      Detect
+13      Fake Out
+17      DoubleSlap
+21      Swift
+25      Calm Mind
+29      Force Palm
+33      Drain Punch
+37      Jump Kick
+41      U-turn
+45      Quick Guard
+49      Bounce
+53      Hi Jump Kick
+57      Reversal
+61      Aura Sphere

@@ -1,0 +1,12 @@
+rayquaza
+1      Twister
+5      Scary Face
+15      AncientPower
+20      Dragon Claw
+30      Dragon Dance
+35      Crunch
+45      Fly
+50      Rest
+60      ExtremeSpeed
+65      Outrage
+75      Hyper Beam

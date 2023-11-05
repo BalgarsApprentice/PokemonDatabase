@@ -1,0 +1,15 @@
+sunflora
+1      Absorb
+1      Growth
+1      Pound
+5      Mega Drain
+9      Ingrain
+13      GrassWhistle
+17      Leech Seed
+21      Bullet Seed
+25      Worry Seed
+29      Razor Leaf
+33      Petal Dance
+37      Sunny Day
+41      SolarBeam
+45      Leaf Storm

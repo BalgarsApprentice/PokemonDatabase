@@ -1,0 +1,12 @@
+buizel
+1      Growl
+1      SonicBoom
+1      Water Sport
+3      Quick Attack
+6      Water Gun
+10      Pursuit
+15      Swift
+21      Aqua Jet
+28      Agility
+36      Whirlpool
+45      Razor Wind

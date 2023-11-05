@@ -1,0 +1,18 @@
+golurk
+1      Astonish
+1      Defense Curl
+1      Mud-Slap
+1      Pound
+5      Mud-Slap
+9      Rollout
+13      Shadow Punch
+17      Iron Defense
+21      Mega Punch
+25      Magnitude
+30      DynamicPunch
+35      Night Shade
+40      Curse
+43      Heavy Slam
+50      Earthquake
+60      Hammer Arm
+70      Focus Punch

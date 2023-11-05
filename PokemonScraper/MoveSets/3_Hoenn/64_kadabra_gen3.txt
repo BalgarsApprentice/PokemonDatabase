@@ -1,0 +1,13 @@
+kadabra
+1      Confusion
+1      Kinesis
+1      Teleport
+16      Confusion
+18      Disable
+21      Psybeam
+23      Reflect
+25      Recover
+30      Future Sight
+33      Role Play
+36      Psychic
+43      Trick

@@ -1,0 +1,16 @@
+tentacruel
+1      Constrict
+1      Poison Sting
+1      Supersonic
+5      Supersonic
+8      Constrict
+12      Acid
+15      Toxic Spikes
+19      BubbleBeam
+22      Wrap
+26      Barrier
+29      Water Pulse
+36      Poison Jab
+42      Screech
+49      Hydro Pump
+55      Wring Out

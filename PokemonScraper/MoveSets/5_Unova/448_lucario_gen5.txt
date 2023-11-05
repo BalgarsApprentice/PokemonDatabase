@@ -1,0 +1,20 @@
+lucario
+1      Dark Pulse
+1      Detect
+1      Foresight
+1      Metal Claw
+1      Quick Attack
+6      Counter
+11      Force Palm
+15      Feint
+19      Bone Rush
+24      Metal Sound
+29      Me First
+33      Quick Guard
+37      Swords Dance
+42      Heal Pulse
+47      Calm Mind
+51      Aura Sphere
+55      Close Combat
+60      Dragon Pulse
+65      ExtremeSpeed

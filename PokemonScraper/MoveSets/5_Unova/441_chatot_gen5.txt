@@ -1,0 +1,16 @@
+chatot
+1      Peck
+5      Growl
+9      Mirror Move
+13      Sing
+17      Fury Attack
+21      Chatter
+25      Taunt
+29      Round
+33      Mimic
+37      Echoed Voice
+41      Roost
+45      Uproar
+49      Synchronoise
+53      FeatherDance
+57      Hyper Voice

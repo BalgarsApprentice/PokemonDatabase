@@ -1,0 +1,11 @@
+omastar
+1      Bite
+1      Constrict
+1      Withdraw
+13      Bite
+19      Water Gun
+31      Leer
+37      Protect
+40      Spike Cannon
+54      AncientPower
+65      Hydro Pump

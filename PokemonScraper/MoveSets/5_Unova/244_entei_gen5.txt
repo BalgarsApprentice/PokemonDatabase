@@ -1,0 +1,15 @@
+entei
+1      Bite
+1      Leer
+8      Ember
+15      Roar
+22      Fire Spin
+29      Stomp
+36      Flamethrower
+43      Swagger
+50      Fire Fang
+57      Lava Plume
+64      Extrasensory
+71      Fire Blast
+78      Calm Mind
+85      Eruption

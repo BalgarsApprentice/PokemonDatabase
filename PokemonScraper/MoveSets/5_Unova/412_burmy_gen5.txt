@@ -1,0 +1,5 @@
+burmy
+1      Protect
+10      Tackle
+15      Bug Bite
+20      Hidden Power

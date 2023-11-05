@@ -1,0 +1,19 @@
+hydreigon
+1      Bite
+1      Dragon Rage
+1      Focus Energy
+1      Tri Attack
+4      Focus Energy
+9      Bite
+12      Headbutt
+17      DragonBreath
+20      Roar
+25      Crunch
+28      Slam
+32      Dragon Pulse
+38      Work Up
+42      Dragon Rush
+48      Body Slam
+55      Scary Face
+68      Hyper Voice
+79      Outrage

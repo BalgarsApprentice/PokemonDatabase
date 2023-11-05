@@ -1,0 +1,14 @@
+swellow
+1      Focus Energy
+1      Growl
+1      Peck
+1      Pluck
+1      Quick Attack
+4      Focus Energy
+8      Quick Attack
+13      Wing Attack
+19      Double Team
+28      Endeavor
+38      Aerial Ace
+49      Agility
+61      Air Slash

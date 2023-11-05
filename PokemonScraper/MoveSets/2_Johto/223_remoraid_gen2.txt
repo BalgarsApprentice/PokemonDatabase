@@ -1,0 +1,9 @@
+remoraid
+1      Water Gun
+11      Lock-On
+22      Aurora Beam
+22      BubbleBeam
+22      Psybeam
+33      Focus Energy
+44      Ice Beam
+55      Hyper Beam

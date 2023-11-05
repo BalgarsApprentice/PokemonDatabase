@@ -1,0 +1,13 @@
+dragonair
+1      Leer
+1      Thunder Wave
+1      Twister
+1      Wrap
+8      Thunder Wave
+15      Twister
+22      Dragon Rage
+29      Slam
+38      Agility
+47      Safeguard
+56      Outrage
+65      Hyper Beam

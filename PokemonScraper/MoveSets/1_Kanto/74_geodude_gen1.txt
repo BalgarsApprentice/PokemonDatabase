@@ -1,0 +1,19 @@
+geodude
+1      Tackle
+11      Defense Curl
+16      Rock Throw
+21      Selfdestruct
+26      Harden
+31      Earthquake
+36      Explosion
+
+
+Yellow Version
+geodude
+1      Tackle
+11      Defense Curl
+16      Rock Throw
+21      Selfdestruct
+26      Harden
+31      Earthquake
+36      Explosion

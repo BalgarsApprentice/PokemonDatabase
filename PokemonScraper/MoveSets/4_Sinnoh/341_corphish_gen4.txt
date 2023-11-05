@@ -1,0 +1,14 @@
+corphish
+1      Bubble
+7      Harden
+10      ViceGrip
+13      Leer
+20      BubbleBeam
+23      Protect
+26      Knock Off
+32      Taunt
+35      Night Slash
+38      Crabhammer
+44      Swords Dance
+47      Crunch
+53      Guillotine

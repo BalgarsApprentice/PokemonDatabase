@@ -1,0 +1,9 @@
+donphan
+1      Growl
+1      Horn Attack
+9      Defense Curl
+17      Flail
+25      Fury Attack
+33      Rollout
+41      Rapid Spin
+49      Earthquake

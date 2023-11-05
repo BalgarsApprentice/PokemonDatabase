@@ -1,0 +1,17 @@
+bayleef
+1      Growl
+1      PoisonPowder
+1      Razor Leaf
+1      Tackle
+6      Razor Leaf
+9      PoisonPowder
+12      Synthesis
+18      Reflect
+22      Magical Leaf
+26      Natural Gift
+32      Sweet Scent
+36      Light Screen
+40      Body Slam
+46      Safeguard
+50      Aromatherapy
+54      SolarBeam

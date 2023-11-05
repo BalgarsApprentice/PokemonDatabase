@@ -1,0 +1,14 @@
+spiritomb
+1      Confuse Ray
+1      Curse
+1      Pursuit
+1      Shadow Sneak
+1      Spite
+7      Faint Attack
+13      Hypnosis
+19      Dream Eater
+25      Ominous Wind
+31      Sucker Punch
+37      Nasty Plot
+43      Memento
+49      Dark Pulse

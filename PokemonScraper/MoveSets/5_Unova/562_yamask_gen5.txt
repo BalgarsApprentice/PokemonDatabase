@@ -1,0 +1,16 @@
+yamask
+1      Astonish
+1      Protect
+5      Disable
+9      Haze
+13      Night Shade
+17      Hex
+21      Will-O-Wisp
+25      Ominous Wind
+29      Curse
+33      Guard Split
+33      Power Split
+37      Shadow Ball
+41      Grudge
+45      Mean Look
+49      Destiny Bond

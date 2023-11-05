@@ -1,0 +1,9 @@
+rhyhorn
+1      Horn Attack
+1      Tail Whip
+13      Stomp
+19      Fury Attack
+31      Scary Face
+37      Horn Drill
+49      Take Down
+55      Earthquake

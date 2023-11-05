@@ -1,0 +1,4 @@
+weedle
+1      Poison Sting
+1      String Shot
+15      Bug Bite

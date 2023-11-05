@@ -1,0 +1,25 @@
+slowbro
+1      Confusion
+1      Disable
+1      Headbutt
+18      Disable
+22      Headbutt
+27      Growl
+33      Water Gun
+37      Withdraw
+44      Amnesia
+55      Psychic
+
+
+Yellow Version
+slowbro
+1      Confusion
+1      Disable
+1      Headbutt
+18      Disable
+22      Headbutt
+27      Growl
+33      Water Gun
+37      Withdraw
+44      Amnesia
+55      Psychic

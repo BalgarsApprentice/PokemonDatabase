@@ -1,0 +1,23 @@
+bellsprout
+1      Growth
+1      Vine Whip
+13      Wrap
+15      PoisonPowder
+18      Sleep Powder
+21      Stun Spore
+26      Acid
+33      Razor Leaf
+42      Slam
+
+
+Yellow Version
+bellsprout
+1      Growth
+1      Vine Whip
+13      Wrap
+15      PoisonPowder
+18      Sleep Powder
+21      Stun Spore
+26      Acid
+33      Razor Leaf
+42      Slam

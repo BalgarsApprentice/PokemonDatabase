@@ -1,0 +1,19 @@
+farfetchd
+1      Peck
+1      Sand-Attack
+7      Leer
+15      Fury Attack
+23      Swords Dance
+31      Agility
+39      Slash
+
+
+Yellow Version
+farfetchd
+1      Peck
+1      Sand-Attack
+7      Leer
+15      Fury Attack
+23      Swords Dance
+31      Agility
+39      Slash

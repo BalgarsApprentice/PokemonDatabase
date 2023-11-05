@@ -1,0 +1,19 @@
+vulpix
+1      Ember
+1      Tail Whip
+16      Quick Attack
+21      Roar
+28      Confuse Ray
+35      Flamethrower
+42      Fire Spin
+
+
+Yellow Version
+vulpix
+1      Ember
+1      Tail Whip
+16      Quick Attack
+21      Roar
+28      Confuse Ray
+35      Flamethrower
+42      Fire Spin

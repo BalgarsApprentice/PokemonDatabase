@@ -1,0 +1,12 @@
+weezing
+1      Poison Gas
+1      Selfdestruct
+1      Smog
+1      Tackle
+9      Smog
+17      Selfdestruct
+21      Sludge
+25      SmokeScreen
+33      Haze
+44      Explosion
+51      Destiny Bond

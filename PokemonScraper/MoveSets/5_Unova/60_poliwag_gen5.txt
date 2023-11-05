@@ -1,0 +1,14 @@
+poliwag
+1      Water Sport
+5      Bubble
+8      Hypnosis
+11      Water Gun
+15      DoubleSlap
+18      Rain Dance
+21      Body Slam
+25      BubbleBeam
+28      Mud Shot
+31      Belly Drum
+35      Wake-Up Slap
+38      Hydro Pump
+41      Mud Bomb

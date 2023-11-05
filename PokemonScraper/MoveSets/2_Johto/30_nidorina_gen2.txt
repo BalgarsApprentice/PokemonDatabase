@@ -1,0 +1,9 @@
+nidorina
+1      Growl
+1      Tackle
+8      Scratch
+12      Double Kick
+19      Poison Sting
+27      Tail Whip
+36      Bite
+46      Fury Swipes

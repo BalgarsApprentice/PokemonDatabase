@@ -1,0 +1,19 @@
+whiscash
+1      Mud-Slap
+1      Mud Sport
+1      Tickle
+1      Water Sport
+1      Zen Headbutt
+6      Mud Sport
+6      Water Sport
+10      Water Gun
+14      Mud Bomb
+18      Amnesia
+22      Water Pulse
+26      Magnitude
+33      Rest
+33      Snore
+39      Aqua Tail
+45      Earthquake
+51      Future Sight
+57      Fissure

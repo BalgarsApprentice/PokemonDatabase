@@ -1,0 +1,10 @@
+geodude
+1      Tackle
+6      Defense Curl
+11      Rock Throw
+16      Magnitude
+21      Selfdestruct
+26      Harden
+31      Rollout
+36      Earthquake
+41      Explosion

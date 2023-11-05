@@ -1,0 +1,23 @@
+nidorino
+1      Horn Attack
+1      Leer
+1      Tackle
+8      Horn Attack
+14      Poison Sting
+23      Focus Energy
+32      Fury Attack
+41      Horn Drill
+50      Double Kick
+
+
+Yellow Version
+nidorino
+1      Horn Attack
+1      Leer
+1      Tackle
+8      Horn Attack
+12      Double Kick
+19      Poison Sting
+27      Focus Energy
+36      Fury Attack
+46      Horn Drill

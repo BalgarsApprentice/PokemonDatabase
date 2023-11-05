@@ -1,0 +1,15 @@
+moltres
+1      Fire Spin
+1      Peck
+51      Leer
+55      Agility
+60      Sky Attack
+
+
+Yellow Version
+moltres
+1      Fire Spin
+1      Peck
+51      Leer
+55      Agility
+60      Sky Attack

@@ -1,0 +1,16 @@
+throh
+1      Bind
+1      Leer
+5      Bide
+9      Focus Energy
+13      Seismic Toss
+17      Vital Throw
+21      Revenge
+25      Storm Throw
+29      Body Slam
+33      Bulk Up
+37      Circle Throw
+41      Endure
+45      Wide Guard
+49      Superpower
+53      Reversal

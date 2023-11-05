@@ -1,0 +1,11 @@
+kricketune
+1      Bide
+1      Growl
+10      Fury Cutter
+14      Leech Life
+18      Sing
+22      Focus Energy
+26      X-Scissor
+30      Screech
+34      Bug Buzz
+38      Perish Song

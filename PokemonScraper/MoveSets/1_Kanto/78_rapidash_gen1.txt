@@ -1,0 +1,25 @@
+rapidash
+1      Ember
+1      Growl
+1      Stomp
+1      Tail Whip
+30      Tail Whip
+32      Stomp
+35      Growl
+39      Fire Spin
+47      Take Down
+55      Agility
+
+
+Yellow Version
+rapidash
+1      Ember
+1      Growl
+1      Stomp
+1      Tail Whip
+30      Tail Whip
+32      Stomp
+35      Growl
+39      Fire Spin
+47      Take Down
+55      Agility

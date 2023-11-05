@@ -1,0 +1,18 @@
+linoone
+1      Growl
+1      Headbutt
+1      Switcheroo
+1      Tackle
+1      Tail Whip
+5      Tail Whip
+9      Headbutt
+13      Sand-Attack
+17      Odor Sleuth
+23      Mud Sport
+29      Fury Swipes
+35      Covet
+41      Bestow
+47      Slash
+53      Rest
+59      Belly Drum
+65      Fling

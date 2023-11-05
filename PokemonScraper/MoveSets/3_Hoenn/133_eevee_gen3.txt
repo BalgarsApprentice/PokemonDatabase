@@ -1,0 +1,10 @@
+eevee
+1      Helping Hand
+1      Tackle
+1      Tail Whip
+8      Sand-Attack
+16      Growl
+23      Quick Attack
+30      Bite
+36      Baton Pass
+42      Take Down

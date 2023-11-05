@@ -1,0 +1,7 @@
+murkrow
+1      Peck
+11      Pursuit
+16      Haze
+26      Night Shade
+31      Faint Attack
+41      Mean Look

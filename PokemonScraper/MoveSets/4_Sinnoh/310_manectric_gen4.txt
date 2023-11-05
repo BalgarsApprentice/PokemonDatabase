@@ -1,0 +1,18 @@
+manectric
+1      Fire Fang
+1      Howl
+1      Leer
+1      Tackle
+1      Thunder Wave
+4      Thunder Wave
+9      Leer
+12      Howl
+17      Quick Attack
+20      Spark
+25      Odor Sleuth
+30      Bite
+37      Thunder Fang
+42      Roar
+49      Discharge
+54      Charge
+61      Thunder

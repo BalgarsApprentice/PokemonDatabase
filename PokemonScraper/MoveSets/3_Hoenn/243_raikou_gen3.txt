@@ -1,0 +1,11 @@
+raikou
+1      Bite
+1      Leer
+11      ThunderShock
+21      Roar
+31      Quick Attack
+41      Spark
+51      Reflect
+61      Crunch
+71      Thunder
+81      Calm Mind

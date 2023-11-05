@@ -1,0 +1,19 @@
+cryogonal
+1      Bind
+5      Ice Shard
+9      Sharpen
+13      Rapid Spin
+17      Icy Wind
+21      Haze
+21      Mist
+25      Aurora Beam
+29      Acid Armor
+33      Ice Beam
+37      Light Screen
+37      Reflect
+41      Slash
+45      Confuse Ray
+49      Recover
+53      SolarBeam
+57      Night Slash
+61      Sheer Cold

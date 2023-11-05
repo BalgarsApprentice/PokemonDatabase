@@ -1,0 +1,13 @@
+trapinch
+1      Bite
+9      Sand-Attack
+17      Faint Attack
+25      Sand Tomb
+33      Crunch
+41      Dig
+49      Sandstorm
+57      Hyper Beam
+65      Earth Power
+73      Earthquake
+81      Feint
+89      Fissure

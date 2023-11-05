@@ -1,0 +1,21 @@
+pidgeotto
+1      Gust
+1      Sand-Attack
+5      Sand-Attack
+12      Quick Attack
+21      Whirlwind
+31      Wing Attack
+40      Agility
+49      Mirror Move
+
+
+Yellow Version
+pidgeotto
+1      Gust
+1      Sand-Attack
+5      Sand-Attack
+12      Quick Attack
+21      Whirlwind
+31      Wing Attack
+40      Agility
+49      Mirror Move

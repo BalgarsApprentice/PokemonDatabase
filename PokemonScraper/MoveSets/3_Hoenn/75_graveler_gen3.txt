@@ -1,0 +1,14 @@
+graveler
+1      Defense Curl
+1      Mud Sport
+1      Rock Throw
+1      Tackle
+6      Mud Sport
+11      Rock Throw
+16      Magnitude
+21      Selfdestruct
+29      Rollout
+37      Rock Blast
+45      Earthquake
+53      Explosion
+62      Double-Edge

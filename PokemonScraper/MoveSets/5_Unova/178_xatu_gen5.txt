@@ -1,0 +1,18 @@
+xatu
+1      Leer
+1      Peck
+6      Night Shade
+9      Teleport
+12      Lucky Chant
+17      Miracle Eye
+20      Me First
+23      Confuse Ray
+27      Tailwind
+30      Wish
+37      Psycho Shift
+42      Future Sight
+47      Stored Power
+54      Ominous Wind
+54      Power Swap
+59      Guard Swap
+66      Psychic

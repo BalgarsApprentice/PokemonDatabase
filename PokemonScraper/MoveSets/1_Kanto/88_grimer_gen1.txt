@@ -1,0 +1,21 @@
+grimer
+1      Disable
+1      Pound
+30      Poison Gas
+33      Minimize
+37      Sludge
+42      Harden
+48      Screech
+55      Acid Armor
+
+
+Yellow Version
+grimer
+1      Disable
+1      Pound
+30      Poison Gas
+33      Minimize
+37      Sludge
+42      Harden
+48      Screech
+55      Acid Armor

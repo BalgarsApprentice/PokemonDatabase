@@ -1,0 +1,13 @@
+dugtrio
+1      Growl
+1      Sand-Attack
+1      Scratch
+1      Tri Attack
+5      Growl
+9      Magnitude
+17      Dig
+25      Mud-Slap
+26      Sand Tomb
+38      Slash
+51      Earthquake
+64      Fissure

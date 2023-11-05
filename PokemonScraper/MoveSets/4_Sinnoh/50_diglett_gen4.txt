@@ -1,0 +1,14 @@
+diglett
+1      Sand-Attack
+1      Scratch
+4      Growl
+7      Astonish
+12      Magnitude
+15      Mud-Slap
+18      Dig
+23      Sucker Punch
+26      Earth Power
+29      Mud Bomb
+34      Slash
+37      Earthquake
+40      Fissure

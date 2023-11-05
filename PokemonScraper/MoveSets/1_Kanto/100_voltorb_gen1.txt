@@ -1,0 +1,19 @@
+voltorb
+1      Screech
+1      Tackle
+17      SonicBoom
+22      Selfdestruct
+29      Light Screen
+36      Swift
+43      Explosion
+
+
+Yellow Version
+voltorb
+1      Screech
+1      Tackle
+17      SonicBoom
+22      Selfdestruct
+29      Light Screen
+36      Swift
+43      Explosion

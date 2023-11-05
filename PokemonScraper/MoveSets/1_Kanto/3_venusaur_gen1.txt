@@ -1,0 +1,27 @@
+venusaur
+1      Growl
+1      Leech Seed
+1      Tackle
+1      Vine Whip
+7      Leech Seed
+13      Vine Whip
+22      PoisonPowder
+30      Razor Leaf
+43      Growth
+55      Sleep Powder
+65      SolarBeam
+
+
+Yellow Version
+venusaur
+1      Growl
+1      Leech Seed
+1      Tackle
+1      Vine Whip
+7      Leech Seed
+13      Vine Whip
+22      PoisonPowder
+30      Razor Leaf
+43      Growth
+55      Sleep Powder
+65      SolarBeam

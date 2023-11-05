@@ -1,0 +1,14 @@
+luxio
+1      Leer
+1      Tackle
+5      Leer
+9      Charge
+13      Spark
+18      Bite
+23      Roar
+28      Swagger
+33      Thunder Fang
+38      Crunch
+43      Scary Face
+48      Discharge
+53      Wild Charge

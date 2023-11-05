@@ -1,0 +1,15 @@
+mawile
+1      Astonish
+6      Fake Tears
+11      Bite
+16      Sweet Scent
+21      ViceGrip
+26      Faint Attack
+31      Baton Pass
+36      Crunch
+41      Iron Defense
+46      Sucker Punch
+51      Spit Up
+51      Stockpile
+51      Swallow
+56      Iron Head

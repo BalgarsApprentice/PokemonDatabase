@@ -1,0 +1,12 @@
+noctowl
+1      Foresight
+1      Growl
+1      Peck
+1      Tackle
+6      Foresight
+11      Peck
+16      Hypnosis
+25      Reflect
+33      Take Down
+41      Confusion
+57      Dream Eater

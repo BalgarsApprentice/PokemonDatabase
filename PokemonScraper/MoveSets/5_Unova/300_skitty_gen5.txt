@@ -1,0 +1,18 @@
+skitty
+1      Fake Out
+1      Growl
+1      Tackle
+1      Tail Whip
+4      Foresight
+8      Attract
+11      Sing
+15      DoubleSlap
+18      Copycat
+22      Assist
+25      Charm
+29      Faint Attack
+32      Wake-Up Slap
+36      Covet
+39      Heal Bell
+42      Double-Edge
+46      Captivate

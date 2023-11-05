@@ -1,0 +1,15 @@
+blissey
+1      Growl
+1      Pound
+5      Tail Whip
+9      Refresh
+12      Softboiled
+16      DoubleSlap
+20      Minimize
+23      Sing
+27      Fling
+31      Defense Curl
+34      Light Screen
+38      Egg Bomb
+42      Healing Wish
+46      Double-Edge

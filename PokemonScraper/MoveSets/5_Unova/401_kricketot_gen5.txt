@@ -1,0 +1,5 @@
+kricketot
+1      Bide
+1      Growl
+6      Struggle Bug
+16      Bug Bite

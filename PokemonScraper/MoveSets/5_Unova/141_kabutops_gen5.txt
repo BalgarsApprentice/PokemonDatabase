@@ -1,0 +1,18 @@
+kabutops
+1      Absorb
+1      Feint
+1      Harden
+1      Leer
+1      Scratch
+6      Absorb
+11      Leer
+16      Mud Shot
+21      Sand-Attack
+26      Endure
+31      Aqua Jet
+36      Mega Drain
+40      Slash
+45      Metal Sound
+54      AncientPower
+63      Wring Out
+72      Night Slash

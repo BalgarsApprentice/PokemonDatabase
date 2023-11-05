@@ -1,0 +1,19 @@
+drapion
+1      Bite
+1      Fire Fang
+1      Ice Fang
+1      Knock Off
+1      Leer
+1      Poison Sting
+1      Thunder Fang
+6      Knock Off
+12      Pin Missile
+17      Acupressure
+23      Scary Face
+28      Toxic Spikes
+34      Bug Bite
+39      Poison Fang
+48      Hone Claws
+56      Venoshock
+65      Crunch
+73      Cross Poison

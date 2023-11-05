@@ -1,0 +1,21 @@
+beartic
+1      Bide
+1      Growl
+1      Icy Wind
+1      Powder Snow
+1      Superpower
+5      Growl
+9      Bide
+13      Icy Wind
+17      Fury Swipes
+21      Brine
+25      Endure
+29      Swagger
+33      Slash
+36      Flail
+37      Icicle Crash
+41      Rest
+45      Blizzard
+53      Hail
+59      Thrash
+66      Sheer Cold

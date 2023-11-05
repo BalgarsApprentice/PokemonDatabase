@@ -1,0 +1,17 @@
+kirlia
+1      Confusion
+1      Double Team
+1      Growl
+1      Teleport
+6      Confusion
+10      Double Team
+12      Teleport
+17      Lucky Chant
+22      Magical Leaf
+25      Calm Mind
+31      Psychic
+36      Imprison
+39      Future Sight
+45      Charm
+50      Hypnosis
+53      Dream Eater

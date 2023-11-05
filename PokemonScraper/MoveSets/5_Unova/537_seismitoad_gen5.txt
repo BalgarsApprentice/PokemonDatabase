@@ -1,0 +1,19 @@
+seismitoad
+1      Bubble
+1      Growl
+1      Round
+1      Supersonic
+5      Supersonic
+9      Round
+12      BubbleBeam
+16      Mud Shot
+20      Aqua Ring
+23      Uproar
+28      Muddy Water
+33      Rain Dance
+36      Acid
+39      Flail
+44      Drain Punch
+49      Echoed Voice
+53      Hydro Pump
+59      Hyper Voice

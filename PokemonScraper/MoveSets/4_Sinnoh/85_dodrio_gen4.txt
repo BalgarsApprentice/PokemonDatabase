@@ -1,0 +1,16 @@
+dodrio
+1      Growl
+1      Peck
+1      Pluck
+1      Quick Attack
+1      Rage
+5      Quick Attack
+10      Rage
+14      Fury Attack
+19      Pursuit
+23      Uproar
+28      Acupressure
+34      Tri Attack
+41      Agility
+47      Drill Peck
+54      Endeavor

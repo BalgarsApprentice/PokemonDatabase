@@ -1,0 +1,17 @@
+lopunny
+1      Defense Curl
+1      Foresight
+1      Magic Coat
+1      Mirror Coat
+1      Pound
+1      Splash
+6      Endure
+13      Return
+16      Quick Attack
+23      Jump Kick
+26      Baton Pass
+33      Agility
+36      Dizzy Punch
+43      Charm
+46      Bounce
+53      Healing Wish

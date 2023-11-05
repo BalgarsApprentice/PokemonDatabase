@@ -1,0 +1,20 @@
+rapidash
+1      Ember
+1      Growl
+1      Megahorn
+1      Poison Jab
+1      Quick Attack
+1      Tail Whip
+4      Tail Whip
+9      Ember
+13      Flame Wheel
+17      Stomp
+21      Flame Charge
+25      Fire Spin
+29      Take Down
+33      Inferno
+37      Agility
+40      Fury Attack
+41      Fire Blast
+45      Bounce
+49      Flare Blitz

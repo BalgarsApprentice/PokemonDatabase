@@ -1,0 +1,10 @@
+heracross
+1      Leer
+1      Tackle
+6      Horn Attack
+12      Endure
+19      Fury Attack
+27      Counter
+35      Take Down
+44      Reversal
+54      Megahorn

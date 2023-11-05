@@ -1,0 +1,16 @@
+ho-oh
+1      Whirlwind
+9      Safeguard
+15      Gust
+23      Recover
+29      Fire Blast
+37      Sunny Day
+43      Swift
+51      Natural Gift
+57      AncientPower
+65      Extrasensory
+71      Punishment
+79      Future Sight
+85      Sacred Fire
+93      Calm Mind
+99      Sky Attack

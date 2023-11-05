@@ -1,0 +1,22 @@
+skiploom
+1      Splash
+1      Synthesis
+1      Tackle
+1      Tail Whip
+4      Synthesis
+7      Tail Whip
+10      Tackle
+12      PoisonPowder
+14      Stun Spore
+16      Sleep Powder
+20      Bullet Seed
+24      Leech Seed
+28      Mega Drain
+32      Acrobatics
+36      Rage Powder
+40      Cotton Spore
+44      U-turn
+48      Worry Seed
+52      Giga Drain
+56      Bounce
+60      Memento

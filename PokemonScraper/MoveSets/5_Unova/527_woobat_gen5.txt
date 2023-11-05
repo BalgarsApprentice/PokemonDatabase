@@ -1,0 +1,15 @@
+woobat
+1      Confusion
+4      Odor Sleuth
+8      Gust
+12      Assurance
+15      Heart Stamp
+19      Imprison
+21      Air Cutter
+25      Attract
+29      Amnesia
+29      Calm Mind
+32      Air Slash
+36      Future Sight
+41      Psychic
+47      Endeavor

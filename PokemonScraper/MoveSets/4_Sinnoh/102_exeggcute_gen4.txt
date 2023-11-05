@@ -1,0 +1,15 @@
+exeggcute
+1      Barrage
+1      Hypnosis
+1      Uproar
+7      Reflect
+11      Leech Seed
+17      Bullet Seed
+19      Stun Spore
+21      PoisonPowder
+23      Sleep Powder
+27      Confusion
+33      Worry Seed
+37      Natural Gift
+43      SolarBeam
+47      Psychic

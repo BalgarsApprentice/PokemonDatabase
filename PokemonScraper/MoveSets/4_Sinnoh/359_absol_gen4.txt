@@ -1,0 +1,18 @@
+absol
+1      Scratch
+4      Leer
+9      Taunt
+12      Quick Attack
+17      Razor Wind
+20      Pursuit
+25      Swords Dance
+28      Bite
+33      Double Team
+36      Slash
+41      Future Sight
+44      Sucker Punch
+49      Detect
+52      Night Slash
+57      Me First
+60      Psycho Cut
+65      Perish Song

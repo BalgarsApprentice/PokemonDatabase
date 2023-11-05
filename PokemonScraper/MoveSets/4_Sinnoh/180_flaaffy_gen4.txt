@@ -1,0 +1,14 @@
+flaaffy
+1      Growl
+1      Tackle
+1      ThunderShock
+5      Growl
+10      ThunderShock
+14      Thunder Wave
+20      Cotton Spore
+25      Charge
+31      Discharge
+36      Signal Beam
+42      Light Screen
+47      Power Gem
+53      Thunder

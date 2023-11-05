@@ -1,0 +1,8 @@
+togetic
+1      Charm
+1      Growl
+7      Metronome
+18      Sweet Kiss
+25      Encore
+31      Safeguard
+38      Double-Edge

@@ -1,0 +1,17 @@
+weezing
+1      Poison Gas
+1      Smog
+1      SmokeScreen
+1      Tackle
+6      Smog
+10      SmokeScreen
+15      Assurance
+19      Clear Smog
+24      Selfdestruct
+28      Sludge
+33      Haze
+39      Double Hit
+46      Explosion
+52      Sludge Bomb
+59      Destiny Bond
+65      Memento

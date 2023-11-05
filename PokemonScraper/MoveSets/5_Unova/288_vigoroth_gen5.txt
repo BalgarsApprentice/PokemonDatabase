@@ -1,0 +1,14 @@
+vigoroth
+1      Encore
+1      Focus Energy
+1      Scratch
+1      Uproar
+7      Encore
+13      Uproar
+19      Fury Swipes
+25      Endure
+31      Slash
+37      Counter
+43      Chip Away
+49      Focus Punch
+55      Reversal

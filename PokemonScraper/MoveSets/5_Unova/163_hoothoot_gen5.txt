@@ -1,0 +1,18 @@
+hoothoot
+1      Foresight
+1      Growl
+1      Tackle
+5      Hypnosis
+9      Peck
+13      Uproar
+17      Reflect
+21      Confusion
+25      Echoed Voice
+29      Take Down
+33      Air Slash
+37      Zen Headbutt
+41      Synchronoise
+45      Extrasensory
+49      Psycho Shift
+53      Roost
+57      Dream Eater

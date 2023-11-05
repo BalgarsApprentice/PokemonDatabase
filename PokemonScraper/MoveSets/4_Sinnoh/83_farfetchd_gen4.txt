@@ -1,0 +1,16 @@
+farfetchd
+1      Fury Cutter
+1      Leer
+1      Peck
+1      Poison Jab
+1      Sand-Attack
+7      Fury Attack
+9      Knock Off
+13      Aerial Ace
+19      Slash
+21      Air Cutter
+25      Swords Dance
+31      Agility
+33      Night Slash
+37      Air Slash
+43      False Swipe

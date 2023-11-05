@@ -1,0 +1,12 @@
+seaking
+1      Peck
+1      Supersonic
+1      Tail Whip
+1      Water Sport
+10      Supersonic
+15      Horn Attack
+24      Flail
+29      Fury Attack
+41      Waterfall
+49      Horn Drill
+61      Agility

@@ -1,0 +1,13 @@
+regice
+1      Explosion
+9      Icy Wind
+17      Curse
+25      Superpower
+33      AncientPower
+41      Amnesia
+49      Charge Beam
+57      Lock-On
+65      Zap Cannon
+73      Ice Beam
+81      Hammer Arm
+89      Hyper Beam

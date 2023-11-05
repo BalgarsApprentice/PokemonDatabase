@@ -1,0 +1,17 @@
+psyduck
+1      Scratch
+28      Tail Whip
+31      Disable
+36      Confusion
+43      Fury Swipes
+52      Hydro Pump
+
+
+Yellow Version
+psyduck
+1      Scratch
+28      Tail Whip
+31      Disable
+36      Confusion
+43      Fury Swipes
+52      Hydro Pump

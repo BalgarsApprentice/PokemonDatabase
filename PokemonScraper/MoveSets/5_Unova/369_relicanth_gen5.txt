@@ -1,0 +1,14 @@
+relicanth
+1      Harden
+1      Tackle
+8      Water Gun
+15      Rock Tomb
+22      Yawn
+29      Take Down
+36      Mud Sport
+43      AncientPower
+50      Double-Edge
+57      Dive
+64      Rest
+71      Hydro Pump
+78      Head Smash

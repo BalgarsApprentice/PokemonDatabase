@@ -1,0 +1,19 @@
+beedrill
+1      Fury Attack
+12      Fury Attack
+16      Focus Energy
+20      Twineedle
+25      Rage
+30      Pin Missile
+35      Agility
+
+
+Yellow Version
+beedrill
+1      Fury Attack
+12      Fury Attack
+16      Focus Energy
+20      Twineedle
+25      Rage
+30      Pin Missile
+35      Agility

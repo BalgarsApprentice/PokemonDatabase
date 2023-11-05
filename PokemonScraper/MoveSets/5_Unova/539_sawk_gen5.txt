@@ -1,0 +1,16 @@
+sawk
+1      Leer
+1      Rock Smash
+5      Bide
+9      Focus Energy
+13      Double Kick
+17      Low Sweep
+21      Counter
+25      Karate Chop
+29      Brick Break
+33      Bulk Up
+37      Retaliate
+41      Endure
+45      Quick Guard
+49      Close Combat
+53      Reversal

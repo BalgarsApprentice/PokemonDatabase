@@ -1,0 +1,12 @@
+flareon
+1      Helping Hand
+1      Tackle
+1      Tail Whip
+8      Sand-Attack
+16      Ember
+23      Quick Attack
+30      Bite
+36      Fire Spin
+42      Smog
+47      Leer
+52      Flamethrower

@@ -1,0 +1,20 @@
+cacturne
+1      Absorb
+1      Growth
+1      Leer
+1      Poison Sting
+1      Revenge
+5      Absorb
+9      Growth
+13      Leech Seed
+17      Sand-Attack
+21      Pin Missile
+25      Ingrain
+29      Faint Attack
+35      Spikes
+41      Sucker Punch
+47      Payback
+53      Needle Arm
+59      Cotton Spore
+65      Sandstorm
+71      Destiny Bond

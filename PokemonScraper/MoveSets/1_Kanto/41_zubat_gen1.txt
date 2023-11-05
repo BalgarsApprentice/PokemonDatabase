@@ -1,0 +1,17 @@
+zubat
+1      Leech Life
+10      Supersonic
+15      Bite
+21      Confuse Ray
+28      Wing Attack
+36      Haze
+
+
+Yellow Version
+zubat
+1      Leech Life
+10      Supersonic
+15      Bite
+21      Confuse Ray
+28      Wing Attack
+36      Haze

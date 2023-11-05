@@ -1,0 +1,20 @@
+pinsir
+1      ViceGrip
+25      Seismic Toss
+30      Guillotine
+36      Focus Energy
+43      Harden
+49      Slash
+54      Swords Dance
+
+
+Yellow Version
+pinsir
+1      ViceGrip
+21      Bind
+25      Seismic Toss
+30      Guillotine
+36      Focus Energy
+43      Harden
+49      Slash
+54      Swords Dance

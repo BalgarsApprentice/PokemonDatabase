@@ -1,0 +1,14 @@
+heatran
+1      AncientPower
+9      Leer
+17      Fire Fang
+25      Metal Sound
+33      Crunch
+41      Scary Face
+49      Lava Plume
+57      Fire Spin
+65      Iron Head
+73      Earth Power
+81      Heat Wave
+88      Stone Edge
+96      Magma Storm

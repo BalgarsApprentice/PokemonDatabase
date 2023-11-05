@@ -1,0 +1,9 @@
+kabuto
+1      Harden
+1      Scratch
+10      Absorb
+19      Leer
+28      Sand-Attack
+37      Endure
+46      Mega Drain
+55      AncientPower

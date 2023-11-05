@@ -1,0 +1,14 @@
+finneon
+1      Pound
+6      Water Gun
+10      Attract
+13      Rain Dance
+17      Gust
+22      Water Pulse
+26      Captivate
+29      Safeguard
+33      Aqua Ring
+38      Whirlpool
+42      U-turn
+45      Bounce
+49      Silver Wind

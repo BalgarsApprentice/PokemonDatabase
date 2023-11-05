@@ -1,0 +1,8 @@
+mareep
+1      Growl
+1      Tackle
+9      ThunderShock
+16      Thunder Wave
+23      Cotton Spore
+30      Light Screen
+37      Thunder

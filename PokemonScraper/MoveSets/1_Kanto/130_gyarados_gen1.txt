@@ -1,0 +1,20 @@
+gyarados
+1      Bite
+1      Dragon Rage
+1      Hydro Pump
+1      Leer
+20      Bite
+25      Dragon Rage
+32      Leer
+41      Hydro Pump
+52      Hyper Beam
+
+
+Yellow Version
+gyarados
+1      Tackle
+20      Bite
+25      Dragon Rage
+32      Leer
+41      Hydro Pump
+52      Hyper Beam

@@ -1,0 +1,15 @@
+croagunk
+1      Astonish
+3      Mud-Slap
+8      Poison Sting
+10      Taunt
+15      Pursuit
+17      Faint Attack
+22      Revenge
+24      Swagger
+29      Mud Bomb
+31      Sucker Punch
+36      Nasty Plot
+38      Poison Jab
+43      Sludge Bomb
+45      Flatter

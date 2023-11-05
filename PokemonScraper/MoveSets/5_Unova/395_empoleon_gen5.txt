@@ -1,0 +1,18 @@
+empoleon
+1      Bubble
+1      Growl
+1      Tackle
+4      Growl
+8      Bubble
+11      Swords Dance
+15      Peck
+16      Metal Claw
+19      BubbleBeam
+24      Swagger
+28      Fury Attack
+33      Brine
+36      Aqua Jet
+39      Whirlpool
+46      Mist
+52      Drill Peck
+59      Hydro Pump

@@ -1,0 +1,13 @@
+darkrai
+1      Disable
+1      Ominous Wind
+11      Quick Attack
+20      Hypnosis
+29      Faint Attack
+38      Nightmare
+47      Double Team
+57      Haze
+66      Dark Void
+75      Nasty Plot
+84      Dream Eater
+93      Dark Pulse

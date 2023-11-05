@@ -1,0 +1,17 @@
+tentacool
+1      Poison Sting
+5      Supersonic
+8      Constrict
+12      Acid
+15      Toxic Spikes
+19      BubbleBeam
+22      Wrap
+26      Acid Spray
+29      Barrier
+33      Water Pulse
+36      Poison Jab
+40      Screech
+43      Hex
+47      Hydro Pump
+50      Sludge Wave
+54      Wring Out

@@ -1,0 +1,16 @@
+shelmet
+1      Leech Life
+4      Acid
+8      Bide
+13      Curse
+16      Struggle Bug
+20      Mega Drain
+25      Yawn
+28      Protect
+32      Acid Armor
+37      Giga Drain
+40      Body Slam
+44      Bug Buzz
+49      Recover
+52      Guard Swap
+56      Final Gambit

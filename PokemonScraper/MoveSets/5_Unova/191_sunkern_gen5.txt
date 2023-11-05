@@ -1,0 +1,14 @@
+sunkern
+1      Absorb
+1      Growth
+5      Mega Drain
+9      Ingrain
+13      GrassWhistle
+17      Leech Seed
+21      Endeavor
+25      Worry Seed
+29      Razor Leaf
+33      Synthesis
+37      Sunny Day
+41      Giga Drain
+45      Seed Bomb

@@ -1,0 +1,9 @@
+houndoom
+1      Ember
+1      Leer
+7      Roar
+13      Smog
+20      Bite
+30      Faint Attack
+41      Flamethrower
+52      Crunch

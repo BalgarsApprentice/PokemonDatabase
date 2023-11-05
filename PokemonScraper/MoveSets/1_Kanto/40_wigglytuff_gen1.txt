@@ -1,0 +1,13 @@
+wigglytuff
+1      Defense Curl
+1      Disable
+1      DoubleSlap
+1      Sing
+
+
+Yellow Version
+wigglytuff
+1      Defense Curl
+1      Disable
+1      DoubleSlap
+1      Sing

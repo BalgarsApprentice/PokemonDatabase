@@ -1,0 +1,5 @@
+delcatty
+1      Attract
+1      DoubleSlap
+1      Growl
+1      Sing

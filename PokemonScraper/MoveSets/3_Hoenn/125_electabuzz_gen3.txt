@@ -1,0 +1,10 @@
+electabuzz
+1      Leer
+1      Quick Attack
+1      ThunderPunch
+9      ThunderPunch
+17      Light Screen
+25      Swift
+36      Screech
+47      Thunderbolt
+58      Thunder

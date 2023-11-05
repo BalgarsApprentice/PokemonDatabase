@@ -1,0 +1,17 @@
+muk
+1      Harden
+1      Mud-Slap
+1      Poison Gas
+1      Pound
+4      Harden
+7      Mud-Slap
+12      Disable
+17      Minimize
+20      Sludge
+23      Mud Bomb
+28      Fling
+33      Screech
+36      Sludge Bomb
+44      Acid Armor
+54      Gunk Shot
+65      Memento

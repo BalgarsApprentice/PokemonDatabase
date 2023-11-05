@@ -1,0 +1,21 @@
+emboar
+1      Ember
+1      Hammer Arm
+1      Odor Sleuth
+1      Tackle
+1      Tail Whip
+3      Tail Whip
+7      Ember
+9      Odor Sleuth
+13      Defense Curl
+15      Flame Charge
+17      Arm Thrust
+20      Smog
+23      Rollout
+28      Take Down
+31      Heat Crash
+38      Assurance
+43      Flamethrower
+50      Head Smash
+55      Roar
+62      Flare Blitz

@@ -1,0 +1,19 @@
+hitmonchan
+1      Agility
+1      Comet Punch
+33      Fire Punch
+38      Ice Punch
+43      ThunderPunch
+48      Mega Punch
+53      Counter
+
+
+Yellow Version
+hitmonchan
+1      Agility
+1      Comet Punch
+33      Fire Punch
+38      Ice Punch
+43      ThunderPunch
+48      Mega Punch
+53      Counter

@@ -1,0 +1,17 @@
+tauros
+1      Tackle
+21      Stomp
+28      Tail Whip
+35      Leer
+44      Rage
+51      Take Down
+
+
+Yellow Version
+tauros
+1      Tackle
+21      Stomp
+28      Tail Whip
+35      Leer
+44      Rage
+51      Take Down

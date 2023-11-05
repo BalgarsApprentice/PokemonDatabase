@@ -1,0 +1,19 @@
+octillery
+1      Aurora Beam
+1      Constrict
+1      Gunk Shot
+1      Psybeam
+1      Rock Blast
+1      Water Gun
+6      Constrict
+10      Psybeam
+14      Aurora Beam
+19      BubbleBeam
+23      Focus Energy
+25      Octazooka
+29      Bullet Seed
+36      Wring Out
+42      Signal Beam
+48      Ice Beam
+55      Hyper Beam
+61      Soak

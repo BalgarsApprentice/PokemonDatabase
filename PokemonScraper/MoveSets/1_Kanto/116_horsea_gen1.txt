@@ -1,0 +1,17 @@
+horsea
+1      Bubble
+19      SmokeScreen
+24      Leer
+30      Water Gun
+37      Agility
+45      Hydro Pump
+
+
+Yellow Version
+horsea
+1      Bubble
+19      SmokeScreen
+24      Leer
+30      Water Gun
+37      Agility
+45      Hydro Pump

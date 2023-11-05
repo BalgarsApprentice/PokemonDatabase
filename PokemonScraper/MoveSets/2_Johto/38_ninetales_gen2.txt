@@ -1,0 +1,6 @@
+ninetales
+1      Confuse Ray
+1      Ember
+1      Quick Attack
+1      Safeguard
+43      Fire Spin

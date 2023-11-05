@@ -1,0 +1,20 @@
+watchog
+1      Bite
+1      Leer
+1      Low Kick
+1      Tackle
+3      Leer
+6      Bite
+8      Bide
+11      Detect
+13      Sand-Attack
+16      Crunch
+18      Hypnosis
+20      Confuse Ray
+22      Super Fang
+25      After You
+29      Psych Up
+32      Hyper Fang
+36      Mean Look
+39      Baton Pass
+43      Slam

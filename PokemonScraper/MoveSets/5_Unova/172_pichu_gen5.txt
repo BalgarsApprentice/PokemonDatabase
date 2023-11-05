@@ -1,0 +1,7 @@
+pichu
+1      Charm
+1      ThunderShock
+5      Tail Whip
+10      Thunder Wave
+13      Sweet Kiss
+18      Nasty Plot
