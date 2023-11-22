@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "tranquill",
+"Growl": 1,
+"Gust": 1,
+"Leer": 1,
+"Quick Attack": 1,
+"Growl": 4,
+"Leer": 8,
+"Quick Attack": 11,
+"Air Cutter": 15,
+"Roost": 18,
+"Detect": 23,
+"Taunt": 27,
+"Air Slash": 32,
+"Razor Wind": 36,
+"FeatherDance": 41,
+"Swagger": 45,
+"Facade": 50,
+"Tailwind": 54,
+"Sky Attack": 59,
+"list": "end"
+}

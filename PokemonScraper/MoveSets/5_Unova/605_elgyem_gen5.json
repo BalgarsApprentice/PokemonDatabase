@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "elgyem",
+"Confusion": 1,
+"Growl": 4,
+"Heal Block": 8,
+"Miracle Eye": 11,
+"Psybeam": 15,
+"Headbutt": 18,
+"Hidden Power": 22,
+"Imprison": 25,
+"Simple Beam": 29,
+"Zen Headbutt": 32,
+"Psych Up": 36,
+"Psychic": 39,
+"Calm Mind": 43,
+"Recover": 46,
+"Guard Split": 50,
+"Power Split": 50,
+"Synchronoise": 53,
+"Wonder Room": 56,
+"list": "end"
+}

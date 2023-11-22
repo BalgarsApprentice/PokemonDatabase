@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "garbodor",
+"Poison Gas": 1,
+"Pound": 1,
+"Recycle": 1,
+"Toxic Spikes": 1,
+"Recycle": 3,
+"Toxic Spikes": 7,
+"Acid Spray": 12,
+"DoubleSlap": 14,
+"Sludge": 18,
+"Stockpile": 23,
+"Swallow": 23,
+"Body Slam": 25,
+"Sludge Bomb": 29,
+"Clear Smog": 34,
+"Toxic": 39,
+"Amnesia": 46,
+"Gunk Shot": 54,
+"Explosion": 59,
+"list": "end"
+}

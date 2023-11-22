@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "muk",
+"Harden": 1,
+"Mud-Slap": 1,
+"Poison Gas": 1,
+"Pound": 1,
+"Harden": 4,
+"Mud-Slap": 7,
+"Disable": 12,
+"Minimize": 17,
+"Sludge": 20,
+"Mud Bomb": 23,
+"Fling": 28,
+"Screech": 33,
+"Sludge Bomb": 36,
+"Acid Armor": 44,
+"Gunk Shot": 54,
+"Memento": 65,
+"list": "end"
+}

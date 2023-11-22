@@ -1,0 +1,19 @@
+{
+"Region": "Hoenn",
+"Pokemon": "glalie",
+"Bite": 1,
+"Double Team": 1,
+"Leer": 1,
+"Powder Snow": 1,
+"Double Team": 7,
+"Bite": 10,
+"Icy Wind": 16,
+"Headbutt": 19,
+"Protect": 25,
+"Crunch": 28,
+"Ice Beam": 34,
+"Hail": 42,
+"Blizzard": 53,
+"Sheer Cold": 61,
+"list": "end"
+}

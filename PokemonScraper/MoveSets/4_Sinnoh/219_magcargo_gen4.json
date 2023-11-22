@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "magcargo",
+"Ember": 1,
+"Rock Throw": 1,
+"Smog": 1,
+"Yawn": 1,
+"Ember": 8,
+"Rock Throw": 11,
+"Harden": 16,
+"Recover": 23,
+"AncientPower": 26,
+"Amnesia": 31,
+"Lava Plume": 40,
+"Rock Slide": 45,
+"Body Slam": 52,
+"Flamethrower": 61,
+"Earth Power": 66,
+"list": "end"
+}

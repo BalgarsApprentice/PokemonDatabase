@@ -1,9 +1,0 @@
-nidoran-m
-1      Leer
-1      Tackle
-8      Horn Attack
-12      Double Kick
-17      Poison Sting
-23      Focus Energy
-30      Fury Attack
-38      Horn Drill

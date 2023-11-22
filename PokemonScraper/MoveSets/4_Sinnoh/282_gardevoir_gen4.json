@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "gardevoir",
+"Confusion": 1,
+"Double Team": 1,
+"Growl": 1,
+"Healing Wish": 1,
+"Teleport": 1,
+"Confusion": 6,
+"Double Team": 10,
+"Teleport": 12,
+"Wish": 17,
+"Magical Leaf": 22,
+"Calm Mind": 25,
+"Psychic": 33,
+"Imprison": 40,
+"Future Sight": 45,
+"Captivate": 53,
+"Hypnosis": 60,
+"Dream Eater": 65,
+"list": "end"
+}

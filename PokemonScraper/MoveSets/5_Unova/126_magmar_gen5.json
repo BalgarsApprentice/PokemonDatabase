@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "magmar",
+"Ember": 1,
+"Leer": 1,
+"Smog": 1,
+"Ember": 6,
+"SmokeScreen": 11,
+"Faint Attack": 16,
+"Fire Spin": 21,
+"Confuse Ray": 26,
+"Flame Burst": 32,
+"Fire Punch": 38,
+"Lava Plume": 44,
+"Flamethrower": 50,
+"Sunny Day": 56,
+"Fire Blast": 62,
+"list": "end"
+}

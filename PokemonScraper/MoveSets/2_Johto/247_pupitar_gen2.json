@@ -1,0 +1,17 @@
+{
+"Region": "Johto",
+"Pokemon": "pupitar",
+"Bite": 1,
+"Leer": 1,
+"Sandstorm": 1,
+"Screech": 1,
+"Sandstorm": 8,
+"Screech": 15,
+"Rock Slide": 22,
+"Thrash": 29,
+"Scary Face": 38,
+"Crunch": 47,
+"Earthquake": 56,
+"Hyper Beam": 65,
+"list": "end"
+}

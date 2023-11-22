@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "staryu",
+"Harden": 1,
+"Tackle": 1,
+"Water Gun": 6,
+"Rapid Spin": 10,
+"Recover": 15,
+"Camouflage": 19,
+"Swift": 24,
+"BubbleBeam": 28,
+"Minimize": 33,
+"Gyro Ball": 37,
+"Light Screen": 42,
+"Power Gem": 46,
+"Cosmic Power": 51,
+"Hydro Pump": 55,
+"list": "end"
+}

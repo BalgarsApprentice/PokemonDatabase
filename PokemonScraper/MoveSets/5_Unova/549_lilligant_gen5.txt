@@ -1,8 +1,0 @@
-lilligant
-1      Growth
-1      Leech Seed
-1      Mega Drain
-1      Synthesis
-10      Teeter Dance
-28      Quiver Dance
-46      Petal Dance

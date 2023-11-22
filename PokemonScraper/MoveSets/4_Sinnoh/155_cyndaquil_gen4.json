@@ -1,0 +1,18 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "cyndaquil",
+"Leer": 1,
+"Tackle": 1,
+"SmokeScreen": 4,
+"Ember": 10,
+"Quick Attack": 13,
+"Flame Wheel": 19,
+"Defense Curl": 22,
+"Swift": 28,
+"Lava Plume": 31,
+"Flamethrower": 37,
+"Rollout": 40,
+"Double-Edge": 46,
+"Eruption": 49,
+"list": "end"
+}

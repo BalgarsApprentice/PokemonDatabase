@@ -1,0 +1,20 @@
+{
+"Region": "Hoenn",
+"Pokemon": "wailord",
+"Growl": 1,
+"Rollout": 1,
+"Splash": 1,
+"Water Gun": 1,
+"Growl": 5,
+"Water Gun": 10,
+"Rollout": 14,
+"Whirlpool": 19,
+"Astonish": 23,
+"Water Pulse": 28,
+"Mist": 32,
+"Rest": 37,
+"Water Spout": 44,
+"Amnesia": 52,
+"Hydro Pump": 59,
+"list": "end"
+}

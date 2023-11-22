@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "raticate",
+"Focus Energy": 1,
+"Quick Attack": 1,
+"Swords Dance": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Quick Attack": 4,
+"Focus Energy": 7,
+"Bite": 10,
+"Pursuit": 13,
+"Hyper Fang": 16,
+"Sucker Punch": 19,
+"Scary Face": 20,
+"Crunch": 24,
+"Assurance": 29,
+"Super Fang": 34,
+"Double-Edge": 39,
+"Endeavor": 44,
+"list": "end"
+}

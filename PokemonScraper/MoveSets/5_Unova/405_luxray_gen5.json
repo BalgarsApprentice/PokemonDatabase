@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "luxray",
+"Charge": 1,
+"Leer": 1,
+"Tackle": 1,
+"Leer": 5,
+"Charge": 9,
+"Spark": 13,
+"Bite": 18,
+"Roar": 23,
+"Swagger": 28,
+"Thunder Fang": 35,
+"Crunch": 42,
+"Scary Face": 49,
+"Discharge": 56,
+"Wild Charge": 63,
+"list": "end"
+}

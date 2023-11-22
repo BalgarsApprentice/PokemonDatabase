@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "wartortle",
+"Bubble": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Tail Whip": 4,
+"Bubble": 7,
+"Withdraw": 10,
+"Water Gun": 13,
+"Bite": 16,
+"Rapid Spin": 20,
+"Protect": 24,
+"Water Pulse": 28,
+"Aqua Tail": 32,
+"Skull Bash": 36,
+"Rain Dance": 40,
+"Hydro Pump": 44,
+"list": "end"
+}

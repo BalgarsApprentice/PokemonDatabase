@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "skitty",
+"Fake Out": 1,
+"Growl": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Foresight": 4,
+"Attract": 8,
+"Sing": 11,
+"DoubleSlap": 15,
+"Copycat": 18,
+"Assist": 22,
+"Charm": 25,
+"Faint Attack": 29,
+"Wake-Up Slap": 32,
+"Covet": 36,
+"Heal Bell": 39,
+"Double-Edge": 42,
+"Captivate": 46,
+"list": "end"
+}

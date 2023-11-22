@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "landorus",
+"Block": 1,
+"Mud Shot": 1,
+"Rock Tomb": 1,
+"Imprison": 7,
+"Punishment": 13,
+"Bulldoze": 19,
+"Rock Throw": 25,
+"Extrasensory": 31,
+"Swords Dance": 37,
+"Earth Power": 43,
+"Rock Slide": 49,
+"Earthquake": 55,
+"Sandstorm": 61,
+"Fissure": 67,
+"Stone Edge": 73,
+"Hammer Arm": 79,
+"Outrage": 85,
+"list": "end"
+}

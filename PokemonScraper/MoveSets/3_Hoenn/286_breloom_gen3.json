@@ -1,0 +1,19 @@
+{
+"Region": "Hoenn",
+"Pokemon": "breloom",
+"Absorb": 1,
+"Leech Seed": 1,
+"Stun Spore": 1,
+"Tackle": 1,
+"Tackle": 4,
+"Stun Spore": 7,
+"Leech Seed": 10,
+"Mega Drain": 16,
+"Headbutt": 22,
+"Mach Punch": 23,
+"Counter": 28,
+"Sky Uppercut": 36,
+"Mind Reader": 45,
+"DynamicPunch": 54,
+"list": "end"
+}

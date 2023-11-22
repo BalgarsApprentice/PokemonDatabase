@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "qwilfish",
+"Poison Sting": 1,
+"Spikes": 1,
+"Tackle": 1,
+"Harden": 9,
+"Minimize": 9,
+"Water Gun": 13,
+"Rollout": 17,
+"Toxic Spikes": 21,
+"Spit Up": 25,
+"Stockpile": 25,
+"Revenge": 29,
+"Brine": 33,
+"Pin Missile": 37,
+"Take Down": 41,
+"Aqua Tail": 45,
+"Poison Jab": 49,
+"Destiny Bond": 53,
+"Hydro Pump": 57,
+"list": "end"
+}

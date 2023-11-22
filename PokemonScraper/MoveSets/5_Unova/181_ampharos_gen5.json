@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "ampharos",
+"Fire Punch": 1,
+"Growl": 1,
+"Tackle": 1,
+"ThunderShock": 1,
+"Thunder Wave": 1,
+"Growl": 5,
+"ThunderShock": 10,
+"Thunder Wave": 14,
+"Cotton Spore": 20,
+"Charge": 25,
+"ThunderPunch": 30,
+"Electro Ball": 33,
+"Cotton Guard": 40,
+"Discharge": 48,
+"Signal Beam": 55,
+"Light Screen": 63,
+"Power Gem": 71,
+"Thunder": 79,
+"list": "end"
+}

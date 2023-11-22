@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "skitty",
+"Fake Out": 1,
+"Growl": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Attract": 4,
+"Sing": 8,
+"Copycat": 11,
+"DoubleSlap": 15,
+"Assist": 18,
+"Charm": 22,
+"Faint Attack": 25,
+"Wake-Up Slap": 29,
+"Covet": 32,
+"Heal Bell": 36,
+"Double-Edge": 39,
+"Captivate": 42,
+"list": "end"
+}

@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "octillery",
+"Aurora Beam": 1,
+"Constrict": 1,
+"Gunk Shot": 1,
+"Psybeam": 1,
+"Rock Blast": 1,
+"Water Gun": 1,
+"Constrict": 6,
+"Psybeam": 10,
+"Aurora Beam": 14,
+"BubbleBeam": 19,
+"Focus Energy": 23,
+"Octazooka": 25,
+"Bullet Seed": 29,
+"Wring Out": 36,
+"Signal Beam": 42,
+"Ice Beam": 48,
+"Hyper Beam": 55,
+"list": "end"
+}

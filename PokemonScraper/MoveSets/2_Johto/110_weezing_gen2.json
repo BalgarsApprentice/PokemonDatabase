@@ -1,0 +1,16 @@
+{
+"Region": "Johto",
+"Pokemon": "weezing",
+"Poison Gas": 1,
+"Selfdestruct": 1,
+"Smog": 1,
+"Tackle": 1,
+"Smog": 9,
+"Selfdestruct": 17,
+"Sludge": 21,
+"SmokeScreen": 25,
+"Haze": 33,
+"Explosion": 44,
+"Destiny Bond": 51,
+"list": "end"
+}

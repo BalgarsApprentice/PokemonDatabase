@@ -1,6 +1,0 @@
-arcanine
-1      Bite
-1      Ember
-1      Odor Sleuth
-1      Roar
-49      ExtremeSpeed

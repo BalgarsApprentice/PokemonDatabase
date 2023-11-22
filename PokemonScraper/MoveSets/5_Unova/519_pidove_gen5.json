@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "pidove",
+"Gust": 1,
+"Growl": 4,
+"Leer": 8,
+"Quick Attack": 11,
+"Air Cutter": 15,
+"Roost": 18,
+"Detect": 22,
+"Taunt": 25,
+"Air Slash": 29,
+"Razor Wind": 32,
+"FeatherDance": 36,
+"Swagger": 39,
+"Facade": 43,
+"Tailwind": 46,
+"Sky Attack": 50,
+"list": "end"
+}

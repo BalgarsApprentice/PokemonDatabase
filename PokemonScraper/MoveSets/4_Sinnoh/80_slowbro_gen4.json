@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "slowbro",
+"Curse": 1,
+"Growl": 1,
+"Tackle": 1,
+"Yawn": 1,
+"Growl": 6,
+"Water Gun": 11,
+"Confusion": 15,
+"Disable": 20,
+"Headbutt": 25,
+"Water Pulse": 29,
+"Zen Headbutt": 34,
+"Withdraw": 37,
+"Slack Off": 41,
+"Amnesia": 47,
+"Psychic": 54,
+"Rain Dance": 61,
+"Psych Up": 67,
+"list": "end"
+}

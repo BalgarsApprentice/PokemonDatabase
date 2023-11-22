@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "persian",
+"Bite": 1,
+"Fake Out": 1,
+"Growl": 1,
+"Scratch": 1,
+"Switcheroo": 1,
+"Bite": 6,
+"Fake Out": 9,
+"Fury Swipes": 14,
+"Screech": 17,
+"Faint Attack": 22,
+"Taunt": 25,
+"Power Gem": 32,
+"Slash": 37,
+"Nasty Plot": 44,
+"Assurance": 49,
+"Captivate": 56,
+"Night Slash": 61,
+"list": "end"
+}

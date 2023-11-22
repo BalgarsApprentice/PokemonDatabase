@@ -1,8 +1,0 @@
-sudowoodo
-1      Mimic
-1      Rock Throw
-10      Flail
-19      Low Kick
-28      Rock Slide
-37      Faint Attack
-46      Slam

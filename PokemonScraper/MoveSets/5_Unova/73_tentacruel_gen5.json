@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "tentacruel",
+"Constrict": 1,
+"Poison Sting": 1,
+"Supersonic": 1,
+"Supersonic": 5,
+"Constrict": 8,
+"Acid": 12,
+"Toxic Spikes": 15,
+"BubbleBeam": 19,
+"Wrap": 22,
+"Acid Spray": 26,
+"Barrier": 29,
+"Water Pulse": 34,
+"Poison Jab": 38,
+"Screech": 43,
+"Hex": 47,
+"Hydro Pump": 52,
+"Sludge Wave": 56,
+"Wring Out": 61,
+"list": "end"
+}

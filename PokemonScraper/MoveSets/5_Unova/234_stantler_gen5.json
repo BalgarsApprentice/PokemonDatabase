@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "stantler",
+"Tackle": 1,
+"Leer": 3,
+"Astonish": 7,
+"Hypnosis": 10,
+"Stomp": 13,
+"Sand-Attack": 16,
+"Take Down": 21,
+"Confuse Ray": 23,
+"Calm Mind": 27,
+"Role Play": 33,
+"Zen Headbutt": 38,
+"Jump Kick": 43,
+"Imprison": 49,
+"Captivate": 53,
+"Me First": 55,
+"list": "end"
+}

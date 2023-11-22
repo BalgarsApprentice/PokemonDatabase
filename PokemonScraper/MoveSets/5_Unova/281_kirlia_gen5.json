@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "kirlia",
+"Confusion": 1,
+"Double Team": 1,
+"Growl": 1,
+"Teleport": 1,
+"Confusion": 6,
+"Double Team": 10,
+"Teleport": 12,
+"Lucky Chant": 17,
+"Magical Leaf": 22,
+"Heal Pulse": 25,
+"Calm Mind": 31,
+"Psychic": 36,
+"Imprison": 39,
+"Future Sight": 45,
+"Charm": 50,
+"Hypnosis": 53,
+"Dream Eater": 59,
+"Stored Power": 64,
+"list": "end"
+}

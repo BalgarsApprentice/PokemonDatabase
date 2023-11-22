@@ -1,6 +1,0 @@
-nidoqueen
-1      Double Kick
-1      Scratch
-1      Tackle
-1      Tail Whip
-23      Body Slam

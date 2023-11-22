@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "houndour",
+"Ember": 1,
+"Leer": 1,
+"Howl": 4,
+"Smog": 8,
+"Roar": 13,
+"Bite": 16,
+"Odor Sleuth": 20,
+"Beat Up": 25,
+"Fire Fang": 28,
+"Faint Attack": 32,
+"Embargo": 37,
+"Foul Play": 40,
+"Flamethrower": 44,
+"Crunch": 49,
+"Nasty Plot": 52,
+"Inferno": 56,
+"list": "end"
+}

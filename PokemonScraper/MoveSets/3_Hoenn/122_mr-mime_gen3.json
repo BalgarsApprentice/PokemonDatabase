@@ -1,0 +1,20 @@
+{
+"Region": "Hoenn",
+"Pokemon": "mr-mime",
+"Barrier": 1,
+"Confusion": 5,
+"Substitute": 9,
+"Meditate": 13,
+"DoubleSlap": 17,
+"Light Screen": 21,
+"Reflect": 21,
+"Encore": 25,
+"Psybeam": 29,
+"Recycle": 33,
+"Trick": 37,
+"Role Play": 41,
+"Psychic": 45,
+"Baton Pass": 49,
+"Safeguard": 53,
+"list": "end"
+}

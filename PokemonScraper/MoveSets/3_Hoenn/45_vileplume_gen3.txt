@@ -1,6 +1,0 @@
-vileplume
-1      Absorb
-1      Aromatherapy
-1      Mega Drain
-1      Stun Spore
-44      Petal Dance

@@ -1,8 +1,0 @@
-seel
-1      Headbutt
-5      Growl
-16      Aurora Beam
-21      Rest
-32      Take Down
-37      Ice Beam
-48      Safeguard

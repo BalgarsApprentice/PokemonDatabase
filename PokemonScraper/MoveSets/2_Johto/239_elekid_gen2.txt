@@ -1,9 +1,0 @@
-elekid
-1      Leer
-1      Quick Attack
-9      ThunderPunch
-17      Light Screen
-25      Swift
-33      Screech
-41      Thunderbolt
-49      Thunder

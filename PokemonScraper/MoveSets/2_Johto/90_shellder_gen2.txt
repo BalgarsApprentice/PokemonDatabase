@@ -1,9 +1,0 @@
-shellder
-1      Tackle
-1      Withdraw
-9      Supersonic
-17      Aurora Beam
-25      Protect
-33      Leer
-41      Clamp
-49      Ice Beam

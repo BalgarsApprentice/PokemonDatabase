@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "escavalier",
+"Leer": 1,
+"Peck": 1,
+"Quick Guard": 1,
+"Twineedle": 1,
+"Leer": 4,
+"Quick Guard": 8,
+"Twineedle": 13,
+"Fury Attack": 16,
+"Headbutt": 20,
+"False Swipe": 25,
+"Bug Buzz": 28,
+"Slash": 32,
+"Iron Head": 37,
+"Iron Defense": 40,
+"X-Scissor": 44,
+"Reversal": 49,
+"Swords Dance": 52,
+"Giga Impact": 56,
+"list": "end"
+}

@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "typhlosion",
+"Ember": 1,
+"Gyro Ball": 1,
+"Leer": 1,
+"SmokeScreen": 1,
+"Tackle": 1,
+"SmokeScreen": 6,
+"Ember": 10,
+"Quick Attack": 13,
+"Flame Wheel": 20,
+"Defense Curl": 24,
+"Swift": 31,
+"Flame Charge": 35,
+"Lava Plume": 43,
+"Flamethrower": 48,
+"Inferno": 56,
+"Rollout": 61,
+"Double-Edge": 69,
+"Eruption": 74,
+"list": "end"
+}

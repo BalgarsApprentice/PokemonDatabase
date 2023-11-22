@@ -1,9 +1,0 @@
-poliwag
-1      Bubble
-7      Hypnosis
-13      Water Gun
-19      DoubleSlap
-25      Rain Dance
-31      Body Slam
-37      Belly Drum
-43      Hydro Pump

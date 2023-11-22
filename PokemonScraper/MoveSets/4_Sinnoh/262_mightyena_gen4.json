@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "mightyena",
+"Bite": 1,
+"Howl": 1,
+"Sand-Attack": 1,
+"Tackle": 1,
+"Howl": 5,
+"Sand-Attack": 9,
+"Bite": 13,
+"Odor Sleuth": 17,
+"Roar": 22,
+"Swagger": 27,
+"Assurance": 32,
+"Scary Face": 37,
+"Taunt": 42,
+"Embargo": 47,
+"Take Down": 52,
+"Thief": 57,
+"Sucker Punch": 62,
+"list": "end"
+}

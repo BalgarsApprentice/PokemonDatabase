@@ -1,0 +1,18 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "shellder",
+"Tackle": 1,
+"Withdraw": 4,
+"Supersonic": 8,
+"Icicle Spear": 13,
+"Protect": 16,
+"Leer": 20,
+"Clamp": 25,
+"Ice Shard": 28,
+"Aurora Beam": 32,
+"Whirlpool": 37,
+"Iron Defense": 40,
+"Brine": 44,
+"Ice Beam": 49,
+"list": "end"
+}

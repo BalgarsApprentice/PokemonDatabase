@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "magcargo",
+"Ember": 1,
+"Rock Throw": 1,
+"Smog": 1,
+"Yawn": 1,
+"Ember": 5,
+"Rock Throw": 10,
+"Harden": 14,
+"Recover": 19,
+"Flame Burst": 23,
+"AncientPower": 28,
+"Amnesia": 32,
+"Lava Plume": 37,
+"Shell Smash": 38,
+"Rock Slide": 44,
+"Body Slam": 52,
+"Flamethrower": 59,
+"Earth Power": 67,
+"list": "end"
+}

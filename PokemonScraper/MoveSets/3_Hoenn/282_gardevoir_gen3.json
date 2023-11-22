@@ -1,0 +1,18 @@
+{
+"Region": "Hoenn",
+"Pokemon": "gardevoir",
+"Confusion": 1,
+"Double Team": 1,
+"Growl": 1,
+"Teleport": 1,
+"Confusion": 6,
+"Double Team": 11,
+"Teleport": 16,
+"Calm Mind": 21,
+"Psychic": 26,
+"Imprison": 33,
+"Future Sight": 42,
+"Hypnosis": 51,
+"Dream Eater": 60,
+"list": "end"
+}

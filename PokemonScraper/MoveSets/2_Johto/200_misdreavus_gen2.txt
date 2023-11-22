@@ -1,9 +1,0 @@
-misdreavus
-1      Growl
-1      Psywave
-6      Spite
-12      Confuse Ray
-19      Mean Look
-27      Psybeam
-36      Pain Split
-46      Perish Song

@@ -1,0 +1,18 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "larvitar",
+"Bite": 1,
+"Leer": 1,
+"Sandstorm": 5,
+"Screech": 10,
+"Rock Slide": 14,
+"Scary Face": 19,
+"Thrash": 23,
+"Dark Pulse": 28,
+"Payback": 32,
+"Crunch": 37,
+"Earthquake": 41,
+"Stone Edge": 46,
+"Hyper Beam": 50,
+"list": "end"
+}

@@ -1,6 +1,0 @@
-starmie
-1      Rapid Spin
-1      Recover
-1      Swift
-1      Water Gun
-28      Confuse Ray

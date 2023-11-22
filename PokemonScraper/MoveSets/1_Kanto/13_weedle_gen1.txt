@@ -1,9 +1,0 @@
-weedle
-1      Poison Sting
-1      String Shot
-
-
-Yellow Version
-weedle
-1      Poison Sting
-1      String Shot

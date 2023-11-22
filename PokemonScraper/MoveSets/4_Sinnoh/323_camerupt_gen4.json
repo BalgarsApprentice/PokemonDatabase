@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "camerupt",
+"Ember": 1,
+"Growl": 1,
+"Magnitude": 1,
+"Tackle": 1,
+"Ember": 5,
+"Magnitude": 11,
+"Focus Energy": 15,
+"Take Down": 21,
+"Amnesia": 25,
+"Lava Plume": 31,
+"Rock Slide": 33,
+"Earth Power": 39,
+"Earthquake": 49,
+"Eruption": 57,
+"Fissure": 67,
+"list": "end"
+}

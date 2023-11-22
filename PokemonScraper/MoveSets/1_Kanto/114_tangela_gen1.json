@@ -1,0 +1,23 @@
+{
+"Region": "Kanto",
+"Pokemon": "tangela",
+"Bind": 1,
+"Constrict": 1,
+"Absorb": 29,
+"PoisonPowder": 32,
+"Stun Spore": 36,
+"Sleep Powder": 39,
+"Slam": 45,
+"Growth": 49,
+"Yellow Version": "tangela",
+"Constrict": 1,
+"Bind": 24,
+"Absorb": 27,
+"Vine Whip": 29,
+"PoisonPowder": 32,
+"Stun Spore": 36,
+"Sleep Powder": 39,
+"Slam": 45,
+"Growth": 48,
+"list": "end"
+}

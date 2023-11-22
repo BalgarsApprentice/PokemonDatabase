@@ -1,7 +1,0 @@
-politoed
-1      DoubleSlap
-1      Hypnosis
-1      Perish Song
-1      Water Gun
-35      Perish Song
-51      Swagger

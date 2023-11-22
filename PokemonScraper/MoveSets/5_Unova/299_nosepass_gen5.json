@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "nosepass",
+"Tackle": 1,
+"Harden": 7,
+"Rock Throw": 13,
+"Block": 19,
+"Thunder Wave": 25,
+"Rock Slide": 31,
+"Sandstorm": 37,
+"Rest": 43,
+"Power Gem": 49,
+"Discharge": 55,
+"Stone Edge": 61,
+"Zap Cannon": 67,
+"Lock-On": 73,
+"Earth Power": 79,
+"list": "end"
+}

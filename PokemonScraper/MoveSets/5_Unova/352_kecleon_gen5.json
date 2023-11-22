@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "kecleon",
+"Astonish": 1,
+"Lick": 1,
+"Scratch": 1,
+"Tail Whip": 1,
+"Thief": 1,
+"Bind": 4,
+"Faint Attack": 7,
+"Fury Swipes": 10,
+"Feint": 14,
+"Psybeam": 18,
+"Shadow Sneak": 22,
+"Slash": 27,
+"Screech": 32,
+"Substitute": 37,
+"Sucker Punch": 43,
+"Shadow Claw": 49,
+"AncientPower": 55,
+"Synchronoise": 58,
+"list": "end"
+}

@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "pupitar",
+"Bite": 1,
+"Leer": 1,
+"Sandstorm": 1,
+"Screech": 1,
+"Sandstorm": 5,
+"Screech": 10,
+"Chip Away": 14,
+"Rock Slide": 19,
+"Scary Face": 23,
+"Thrash": 28,
+"Dark Pulse": 34,
+"Payback": 41,
+"Crunch": 47,
+"Earthquake": 54,
+"Stone Edge": 60,
+"Hyper Beam": 67,
+"list": "end"
+}

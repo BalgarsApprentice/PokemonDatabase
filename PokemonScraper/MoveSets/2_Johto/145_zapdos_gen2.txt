@@ -1,9 +1,0 @@
-zapdos
-1      Peck
-1      ThunderShock
-13      Thunder Wave
-25      Agility
-37      Detect
-49      Drill Peck
-61      Light Screen
-73      Thunder

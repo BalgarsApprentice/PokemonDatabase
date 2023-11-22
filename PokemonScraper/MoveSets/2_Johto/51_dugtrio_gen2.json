@@ -1,0 +1,15 @@
+{
+"Region": "Johto",
+"Pokemon": "dugtrio",
+"Growl": 1,
+"Magnitude": 1,
+"Scratch": 1,
+"Growl": 5,
+"Magnitude": 9,
+"Dig": 17,
+"Sand-Attack": 25,
+"Slash": 37,
+"Earthquake": 49,
+"Fissure": 61,
+"list": "end"
+}

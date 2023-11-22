@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "dragonair",
+"Leer": 1,
+"Thunder Wave": 1,
+"Twister": 1,
+"Wrap": 1,
+"Thunder Wave": 5,
+"Twister": 11,
+"Dragon Rage": 15,
+"Slam": 21,
+"Agility": 25,
+"Aqua Tail": 33,
+"Dragon Rush": 39,
+"Safeguard": 47,
+"Dragon Dance": 53,
+"Outrage": 61,
+"Hyper Beam": 67,
+"list": "end"
+}

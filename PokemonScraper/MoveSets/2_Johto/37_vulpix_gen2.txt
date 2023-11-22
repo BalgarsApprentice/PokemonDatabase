@@ -1,9 +1,0 @@
-vulpix
-1      Ember
-1      Tail Whip
-7      Quick Attack
-13      Roar
-19      Confuse Ray
-25      Safeguard
-31      Flamethrower
-37      Fire Spin

@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "onix",
+"Bind": 1,
+"Harden": 1,
+"Mud Sport": 1,
+"Tackle": 1,
+"Screech": 6,
+"Rock Throw": 9,
+"Rage": 14,
+"Rock Tomb": 17,
+"Sandstorm": 22,
+"Slam": 25,
+"Rock Polish": 30,
+"DragonBreath": 33,
+"Iron Tail": 38,
+"Sand Tomb": 41,
+"Double-Edge": 46,
+"Stone Edge": 49,
+"list": "end"
+}

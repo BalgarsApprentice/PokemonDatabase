@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "geodude",
+"Defense Curl": 1,
+"Tackle": 1,
+"Mud Sport": 4,
+"Rock Polish": 8,
+"Rock Throw": 11,
+"Magnitude": 15,
+"Rollout": 18,
+"Rock Blast": 22,
+"Smack Down": 25,
+"Selfdestruct": 29,
+"Bulldoze": 32,
+"Stealth Rock": 36,
+"Earthquake": 39,
+"Explosion": 43,
+"Double-Edge": 46,
+"Stone Edge": 50,
+"list": "end"
+}

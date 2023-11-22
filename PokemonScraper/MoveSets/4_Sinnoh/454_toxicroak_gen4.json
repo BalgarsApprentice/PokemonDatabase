@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "toxicroak",
+"Astonish": 1,
+"Mud-Slap": 1,
+"Poison Sting": 1,
+"Mud-Slap": 3,
+"Poison Sting": 8,
+"Taunt": 10,
+"Pursuit": 15,
+"Faint Attack": 17,
+"Revenge": 22,
+"Swagger": 24,
+"Mud Bomb": 29,
+"Sucker Punch": 31,
+"Nasty Plot": 36,
+"Poison Jab": 41,
+"Sludge Bomb": 49,
+"Flatter": 54,
+"list": "end"
+}

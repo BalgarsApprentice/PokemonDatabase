@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "xatu",
+"Leer": 1,
+"Peck": 1,
+"Night Shade": 6,
+"Teleport": 9,
+"Lucky Chant": 12,
+"Miracle Eye": 17,
+"Me First": 20,
+"Confuse Ray": 23,
+"Tailwind": 27,
+"Wish": 30,
+"Psycho Shift": 37,
+"Future Sight": 42,
+"Stored Power": 47,
+"Ominous Wind": 54,
+"Power Swap": 54,
+"Guard Swap": 59,
+"Psychic": 66,
+"list": "end"
+}

@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "lugia",
+"Whirlwind": 1,
+"Safeguard": 9,
+"Gust": 15,
+"Recover": 23,
+"Hydro Pump": 29,
+"Rain Dance": 37,
+"Swift": 43,
+"Natural Gift": 51,
+"AncientPower": 57,
+"Extrasensory": 65,
+"Punishment": 71,
+"Future Sight": 79,
+"Aeroblast": 85,
+"Calm Mind": 93,
+"Sky Attack": 99,
+"list": "end"
+}

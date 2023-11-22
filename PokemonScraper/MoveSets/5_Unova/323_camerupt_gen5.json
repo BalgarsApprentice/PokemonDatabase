@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "camerupt",
+"Ember": 1,
+"Growl": 1,
+"Magnitude": 1,
+"Tackle": 1,
+"Ember": 5,
+"Magnitude": 11,
+"Focus Energy": 15,
+"Flame Burst": 21,
+"Take Down": 25,
+"Amnesia": 31,
+"Lava Plume": 33,
+"Rock Slide": 39,
+"Earth Power": 49,
+"Earthquake": 57,
+"Eruption": 67,
+"Fissure": 75,
+"list": "end"
+}

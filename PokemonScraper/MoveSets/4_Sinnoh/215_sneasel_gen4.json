@@ -1,0 +1,18 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "sneasel",
+"Leer": 1,
+"Scratch": 1,
+"Taunt": 1,
+"Quick Attack": 8,
+"Screech": 10,
+"Faint Attack": 14,
+"Fury Swipes": 21,
+"Agility": 24,
+"Icy Wind": 28,
+"Slash": 35,
+"Beat Up": 38,
+"Metal Claw": 42,
+"Ice Shard": 49,
+"list": "end"
+}

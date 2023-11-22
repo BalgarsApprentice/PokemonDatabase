@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "heatmor",
+"Incinerate": 1,
+"Lick": 1,
+"Odor Sleuth": 6,
+"Bind": 11,
+"Fire Spin": 16,
+"Fury Swipes": 21,
+"Snatch": 26,
+"Flame Burst": 31,
+"Bug Bite": 36,
+"Slash": 41,
+"Amnesia": 46,
+"Flamethrower": 51,
+"Spit Up": 56,
+"Stockpile": 56,
+"Swallow": 56,
+"Inferno": 61,
+"list": "end"
+}

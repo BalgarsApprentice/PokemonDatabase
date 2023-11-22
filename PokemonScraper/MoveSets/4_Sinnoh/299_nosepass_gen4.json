@@ -1,0 +1,18 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "nosepass",
+"Tackle": 1,
+"Harden": 7,
+"Rock Throw": 13,
+"Block": 19,
+"Thunder Wave": 25,
+"Rock Slide": 31,
+"Sandstorm": 37,
+"Rest": 43,
+"Discharge": 49,
+"Stone Edge": 55,
+"Zap Cannon": 61,
+"Lock-On": 67,
+"Earth Power": 73,
+"list": "end"
+}

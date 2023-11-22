@@ -1,9 +1,0 @@
-quagsire
-1      Tail Whip
-1      Water Gun
-11      Slam
-23      Amnesia
-35      Earthquake
-47      Rain Dance
-59      Haze
-59      Mist

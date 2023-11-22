@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "venonat",
+"Disable": 1,
+"Foresight": 1,
+"Tackle": 1,
+"Supersonic": 5,
+"Confusion": 11,
+"PoisonPowder": 13,
+"Leech Life": 17,
+"Stun Spore": 23,
+"Psybeam": 25,
+"Sleep Powder": 29,
+"Signal Beam": 35,
+"Zen Headbutt": 37,
+"Poison Fang": 41,
+"Psychic": 47,
+"list": "end"
+}

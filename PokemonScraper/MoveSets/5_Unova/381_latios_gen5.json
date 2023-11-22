@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "latios",
+"Psywave": 1,
+"Heal Block": 5,
+"Helping Hand": 10,
+"Safeguard": 15,
+"DragonBreath": 20,
+"Protect": 25,
+"Refresh": 30,
+"Luster Purge": 35,
+"Zen Headbutt": 40,
+"Recover": 45,
+"Psycho Shift": 50,
+"Dragon Dance": 55,
+"Psychic": 60,
+"Heal Pulse": 65,
+"Telekinesis": 70,
+"Power Split": 75,
+"Dragon Pulse": 80,
+"Memento": 85,
+"list": "end"
+}

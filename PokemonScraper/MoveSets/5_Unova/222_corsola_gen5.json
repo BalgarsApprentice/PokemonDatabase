@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "corsola",
+"Tackle": 1,
+"Harden": 4,
+"Bubble": 8,
+"Recover": 13,
+"Refresh": 16,
+"Rock Blast": 20,
+"BubbleBeam": 25,
+"Lucky Chant": 28,
+"AncientPower": 32,
+"Aqua Ring": 37,
+"Spike Cannon": 40,
+"Power Gem": 44,
+"Mirror Coat": 48,
+"Earth Power": 53,
+"list": "end"
+}

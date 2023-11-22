@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "amoonguss",
+"Absorb": 1,
+"Astonish": 1,
+"Bide": 1,
+"Growth": 1,
+"Growth": 6,
+"Astonish": 8,
+"Bide": 12,
+"Mega Drain": 15,
+"Ingrain": 18,
+"Faint Attack": 20,
+"Sweet Scent": 24,
+"Giga Drain": 28,
+"Toxic": 32,
+"Synthesis": 35,
+"Clear Smog": 43,
+"SolarBeam": 49,
+"Rage Powder": 54,
+"Spore": 62,
+"list": "end"
+}

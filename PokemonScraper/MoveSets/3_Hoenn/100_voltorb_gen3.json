@@ -1,0 +1,16 @@
+{
+"Region": "Hoenn",
+"Pokemon": "voltorb",
+"Charge": 1,
+"Tackle": 1,
+"Screech": 8,
+"SonicBoom": 15,
+"Spark": 21,
+"Selfdestruct": 27,
+"Rollout": 32,
+"Light Screen": 37,
+"Swift": 42,
+"Explosion": 46,
+"Mirror Coat": 49,
+"list": "end"
+}

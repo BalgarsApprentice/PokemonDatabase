@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "jellicent",
+"Absorb": 1,
+"Bubble": 1,
+"Night Shade": 1,
+"Water Sport": 1,
+"Absorb": 5,
+"Night Shade": 9,
+"BubbleBeam": 13,
+"Recover": 17,
+"Water Pulse": 22,
+"Ominous Wind": 27,
+"Brine": 32,
+"Rain Dance": 37,
+"Hex": 45,
+"Hydro Pump": 53,
+"Wring Out": 61,
+"Water Spout": 69,
+"list": "end"
+}

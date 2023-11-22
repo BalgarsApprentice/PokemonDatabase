@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "meganium",
+"Growl": 1,
+"PoisonPowder": 1,
+"Razor Leaf": 1,
+"Tackle": 1,
+"Razor Leaf": 6,
+"PoisonPowder": 9,
+"Synthesis": 12,
+"Reflect": 18,
+"Magical Leaf": 22,
+"Natural Gift": 26,
+"Petal Dance": 32,
+"Sweet Scent": 34,
+"Light Screen": 40,
+"Body Slam": 46,
+"Safeguard": 54,
+"Aromatherapy": 60,
+"SolarBeam": 66,
+"list": "end"
+}

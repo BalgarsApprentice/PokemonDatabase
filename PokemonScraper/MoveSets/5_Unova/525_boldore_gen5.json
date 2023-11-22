@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "boldore",
+"Harden": 1,
+"Headbutt": 1,
+"Sand-Attack": 1,
+"Tackle": 1,
+"Harden": 4,
+"Sand-Attack": 7,
+"Headbutt": 10,
+"Rock Blast": 14,
+"Mud-Slap": 17,
+"Iron Defense": 20,
+"Smack Down": 23,
+"Power Gem": 25,
+"Rock Slide": 30,
+"Stealth Rock": 36,
+"Sandstorm": 42,
+"Stone Edge": 48,
+"Explosion": 55,
+"list": "end"
+}

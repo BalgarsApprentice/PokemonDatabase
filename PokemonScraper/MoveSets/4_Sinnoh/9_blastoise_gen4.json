@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "blastoise",
+"Bubble": 1,
+"Flash Cannon": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Withdraw": 1,
+"Tail Whip": 4,
+"Bubble": 7,
+"Withdraw": 10,
+"Water Gun": 13,
+"Bite": 16,
+"Rapid Spin": 20,
+"Protect": 24,
+"Water Pulse": 28,
+"Aqua Tail": 32,
+"Skull Bash": 39,
+"Rain Dance": 46,
+"Hydro Pump": 53,
+"list": "end"
+}

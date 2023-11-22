@@ -1,5 +1,0 @@
-delcatty
-1      Attract
-1      DoubleSlap
-1      Fake Out
-1      Sing

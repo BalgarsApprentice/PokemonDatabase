@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "tropius",
+"Gust": 1,
+"Leer": 1,
+"Growth": 7,
+"Razor Leaf": 11,
+"Stomp": 17,
+"Sweet Scent": 21,
+"Whirlwind": 27,
+"Magical Leaf": 31,
+"Body Slam": 37,
+"Synthesis": 41,
+"Leaf Tornado": 47,
+"Air Slash": 51,
+"Bestow": 57,
+"SolarBeam": 61,
+"Natural Gift": 67,
+"Leaf Storm": 71,
+"list": "end"
+}

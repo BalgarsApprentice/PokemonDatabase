@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "lucario",
+"Dark Pulse": 1,
+"Detect": 1,
+"Foresight": 1,
+"Metal Claw": 1,
+"Quick Attack": 1,
+"Counter": 6,
+"Force Palm": 11,
+"Feint": 15,
+"Bone Rush": 19,
+"Metal Sound": 24,
+"Me First": 29,
+"Swords Dance": 33,
+"Aura Sphere": 37,
+"Close Combat": 42,
+"Dragon Pulse": 47,
+"ExtremeSpeed": 51,
+"list": "end"
+}

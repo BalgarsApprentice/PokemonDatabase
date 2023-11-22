@@ -1,9 +1,0 @@
-paras
-1      Scratch
-7      Stun Spore
-13      PoisonPowder
-19      Leech Life
-25      Spore
-31      Slash
-37      Growth
-43      Giga Drain

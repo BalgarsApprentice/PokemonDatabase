@@ -1,5 +1,0 @@
-raichu
-1      Quick Attack
-1      Tail Whip
-1      ThunderShock
-1      Thunderbolt

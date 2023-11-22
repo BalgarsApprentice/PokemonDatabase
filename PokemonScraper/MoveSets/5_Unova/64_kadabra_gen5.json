@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "kadabra",
+"Confusion": 1,
+"Kinesis": 1,
+"Teleport": 1,
+"Confusion": 16,
+"Disable": 18,
+"Miracle Eye": 22,
+"Ally Switch": 24,
+"Psybeam": 28,
+"Reflect": 30,
+"Telekinesis": 34,
+"Recover": 36,
+"Psycho Cut": 40,
+"Role Play": 42,
+"Psychic": 46,
+"Future Sight": 48,
+"Trick": 52,
+"list": "end"
+}

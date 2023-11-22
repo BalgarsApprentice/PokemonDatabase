@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "wailmer",
+"Splash": 1,
+"Growl": 4,
+"Water Gun": 7,
+"Rollout": 11,
+"Whirlpool": 14,
+"Astonish": 17,
+"Water Pulse": 21,
+"Mist": 24,
+"Rest": 27,
+"Brine": 31,
+"Water Spout": 34,
+"Amnesia": 37,
+"Dive": 41,
+"Bounce": 44,
+"Hydro Pump": 47,
+"Heavy Slam": 50,
+"list": "end"
+}

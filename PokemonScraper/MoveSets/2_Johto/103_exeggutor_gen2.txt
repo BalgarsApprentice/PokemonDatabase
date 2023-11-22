@@ -1,6 +1,0 @@
-exeggutor
-1      Barrage
-1      Confusion
-1      Hypnosis
-19      Stomp
-31      Egg Bomb

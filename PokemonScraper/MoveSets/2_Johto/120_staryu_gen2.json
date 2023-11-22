@@ -1,0 +1,15 @@
+{
+"Region": "Johto",
+"Pokemon": "staryu",
+"Harden": 1,
+"Tackle": 1,
+"Water Gun": 7,
+"Rapid Spin": 13,
+"Recover": 19,
+"Swift": 25,
+"BubbleBeam": 31,
+"Minimize": 37,
+"Light Screen": 43,
+"Hydro Pump": 50,
+"list": "end"
+}

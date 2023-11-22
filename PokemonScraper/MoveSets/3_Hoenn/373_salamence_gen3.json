@@ -1,0 +1,21 @@
+{
+"Region": "Hoenn",
+"Pokemon": "salamence",
+"Bite": 1,
+"Headbutt": 1,
+"Leer": 1,
+"Rage": 1,
+"Bite": 5,
+"Leer": 9,
+"Headbutt": 17,
+"Focus Energy": 21,
+"Ember": 25,
+"Protect": 30,
+"DragonBreath": 38,
+"Scary Face": 47,
+"Fly": 50,
+"Crunch": 61,
+"Dragon Claw": 79,
+"Double-Edge": 93,
+"list": "end"
+}

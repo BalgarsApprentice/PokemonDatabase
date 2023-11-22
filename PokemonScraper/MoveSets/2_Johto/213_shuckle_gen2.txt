@@ -1,8 +1,0 @@
-shuckle
-1      Constrict
-1      Withdraw
-9      Wrap
-14      Encore
-23      Safeguard
-28      Bide
-37      Rest

@@ -1,0 +1,17 @@
+{
+"Region": "Hoenn",
+"Pokemon": "deoxys",
+"Leer": 1,
+"Wrap": 1,
+"Night Shade": 5,
+"Teleport": 10,
+"Knock Off": 15,
+"Pursuit": 20,
+"Psychic": 25,
+"Snatch": 30,
+"Cosmic Power": 35,
+"Recover": 40,
+"Psycho Boost": 45,
+"Hyper Beam": 50,
+"list": "end"
+}

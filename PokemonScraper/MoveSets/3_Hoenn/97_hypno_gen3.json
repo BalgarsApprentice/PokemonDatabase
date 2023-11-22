@@ -1,0 +1,17 @@
+{
+"Region": "Hoenn",
+"Pokemon": "hypno",
+"Confusion": 1,
+"Disable": 1,
+"Hypnosis": 1,
+"Pound": 1,
+"Disable": 10,
+"Confusion": 18,
+"Headbutt": 25,
+"Poison Gas": 33,
+"Meditate": 40,
+"Psychic": 49,
+"Psych Up": 55,
+"Future Sight": 60,
+"list": "end"
+}

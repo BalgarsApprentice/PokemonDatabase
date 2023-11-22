@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "cyndaquil",
+"Leer": 1,
+"Tackle": 1,
+"SmokeScreen": 6,
+"Ember": 10,
+"Quick Attack": 13,
+"Flame Wheel": 19,
+"Defense Curl": 22,
+"Flame Charge": 28,
+"Swift": 31,
+"Lava Plume": 37,
+"Flamethrower": 40,
+"Inferno": 46,
+"Rollout": 49,
+"Double-Edge": 55,
+"Eruption": 58,
+"list": "end"
+}

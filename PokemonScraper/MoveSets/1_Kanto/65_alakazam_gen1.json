@@ -1,0 +1,23 @@
+{
+"Region": "Kanto",
+"Pokemon": "alakazam",
+"Confusion": 1,
+"Disable": 1,
+"Teleport": 1,
+"Confusion": 16,
+"Disable": 20,
+"Psybeam": 27,
+"Recover": 31,
+"Psychic": 38,
+"Reflect": 42,
+"Yellow Version": "alakazam",
+"Kinesis": 1,
+"Teleport": 1,
+"Confusion": 16,
+"Disable": 20,
+"Psybeam": 27,
+"Recover": 31,
+"Psychic": 38,
+"Reflect": 42,
+"list": "end"
+}

@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "wartortle",
+"Bubble": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Tail Whip": 4,
+"Bubble": 7,
+"Withdraw": 10,
+"Water Gun": 13,
+"Bite": 16,
+"Rapid Spin": 20,
+"Protect": 24,
+"Water Pulse": 28,
+"Aqua Tail": 32,
+"Skull Bash": 36,
+"Iron Defense": 40,
+"Rain Dance": 44,
+"Hydro Pump": 48,
+"list": "end"
+}

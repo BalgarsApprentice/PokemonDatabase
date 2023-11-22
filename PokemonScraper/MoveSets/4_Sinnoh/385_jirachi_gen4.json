@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "jirachi",
+"Confusion": 1,
+"Wish": 1,
+"Rest": 5,
+"Swift": 10,
+"Helping Hand": 15,
+"Psychic": 20,
+"Refresh": 25,
+"Rest": 30,
+"Zen Headbutt": 35,
+"Double-Edge": 40,
+"Gravity": 45,
+"Healing Wish": 50,
+"Future Sight": 55,
+"Cosmic Power": 60,
+"Last Resort": 65,
+"Doom Desire": 70,
+"list": "end"
+}

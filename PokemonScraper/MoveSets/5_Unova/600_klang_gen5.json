@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "klang",
+"Charge": 1,
+"Gear Grind": 1,
+"ThunderShock": 1,
+"ViceGrip": 1,
+"Charge": 6,
+"ThunderShock": 11,
+"Gear Grind": 16,
+"Bind": 21,
+"Charge Beam": 26,
+"Autotomize": 31,
+"Mirror Shot": 36,
+"Screech": 40,
+"Discharge": 44,
+"Metal Sound": 48,
+"Shift Gear": 52,
+"Lock-On": 56,
+"Zap Cannon": 60,
+"Hyper Beam": 64,
+"list": "end"
+}

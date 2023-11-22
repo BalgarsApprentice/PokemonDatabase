@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "aron",
+"Tackle": 1,
+"Harden": 4,
+"Mud-Slap": 8,
+"Headbutt": 11,
+"Metal Claw": 15,
+"Iron Defense": 18,
+"Roar": 22,
+"Take Down": 25,
+"Iron Head": 29,
+"Protect": 32,
+"Metal Sound": 36,
+"Iron Tail": 39,
+"Double-Edge": 43,
+"Metal Burst": 46,
+"list": "end"
+}

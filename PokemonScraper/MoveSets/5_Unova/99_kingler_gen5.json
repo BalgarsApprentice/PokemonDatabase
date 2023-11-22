@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "kingler",
+"Bubble": 1,
+"Leer": 1,
+"Mud Sport": 1,
+"ViceGrip": 1,
+"Wide Guard": 1,
+"ViceGrip": 5,
+"Leer": 9,
+"Harden": 11,
+"BubbleBeam": 15,
+"Mud Shot": 19,
+"Metal Claw": 21,
+"Stomp": 25,
+"Protect": 32,
+"Guillotine": 37,
+"Slam": 44,
+"Brine": 51,
+"Crabhammer": 56,
+"Flail": 63,
+"list": "end"
+}

@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "butterfree",
+"Confusion": 1,
+"Confusion": 10,
+"PoisonPowder": 12,
+"Sleep Powder": 12,
+"Stun Spore": 12,
+"Gust": 16,
+"Supersonic": 18,
+"Whirlwind": 22,
+"Psybeam": 24,
+"Silver Wind": 28,
+"Tailwind": 30,
+"Safeguard": 34,
+"Captivate": 36,
+"Bug Buzz": 40,
+"list": "end"
+}

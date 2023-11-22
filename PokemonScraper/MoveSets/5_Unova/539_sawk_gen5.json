@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "sawk",
+"Leer": 1,
+"Rock Smash": 1,
+"Bide": 5,
+"Focus Energy": 9,
+"Double Kick": 13,
+"Low Sweep": 17,
+"Counter": 21,
+"Karate Chop": 25,
+"Brick Break": 29,
+"Bulk Up": 33,
+"Retaliate": 37,
+"Endure": 41,
+"Quick Guard": 45,
+"Close Combat": 49,
+"Reversal": 53,
+"list": "end"
+}

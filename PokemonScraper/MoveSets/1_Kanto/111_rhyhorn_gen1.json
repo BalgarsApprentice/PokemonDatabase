@@ -1,0 +1,23 @@
+{
+"Region": "Kanto",
+"Pokemon": "rhyhorn",
+"Horn Attack": 1,
+"Stomp": 30,
+"Tail Whip": 35,
+"Fury Attack": 40,
+"Horn Drill": 45,
+"Leer": 50,
+"Take Down": 55,
+"Yellow Version": "rhyhorn",
+"Fury Attack": 1,
+"Horn Attack": 1,
+"Stomp": 1,
+"Tail Whip": 1,
+"Stomp": 30,
+"Tail Whip": 35,
+"Fury Attack": 40,
+"Horn Drill": 45,
+"Leer": 50,
+"Take Down": 55,
+"list": "end"
+}

@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "noctowl",
+"Foresight": 1,
+"Growl": 1,
+"Hypnosis": 1,
+"Sky Attack": 1,
+"Tackle": 1,
+"Foresight": 5,
+"Hypnosis": 9,
+"Peck": 13,
+"Reflect": 17,
+"Confusion": 22,
+"Take Down": 27,
+"Air Slash": 32,
+"Zen Headbutt": 37,
+"Extrasensory": 42,
+"Psycho Shift": 47,
+"Roost": 52,
+"Dream Eater": 57,
+"list": "end"
+}

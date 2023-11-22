@@ -1,7 +1,0 @@
-politoed
-1      BubbleBeam
-1      DoubleSlap
-1      Hypnosis
-1      Perish Song
-43      Bounce
-53      Swagger

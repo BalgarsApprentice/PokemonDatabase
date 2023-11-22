@@ -1,0 +1,22 @@
+{
+"Region": "Hoenn",
+"Pokemon": "medicham",
+"Bide": 1,
+"Confusion": 1,
+"Detect": 1,
+"Fire Punch": 1,
+"Ice Punch": 1,
+"Meditate": 1,
+"ThunderPunch": 1,
+"Meditate": 4,
+"Confusion": 9,
+"Detect": 12,
+"Hidden Power": 18,
+"Mind Reader": 22,
+"Calm Mind": 28,
+"Hi Jump Kick": 32,
+"Psych Up": 40,
+"Reversal": 46,
+"Recover": 54,
+"list": "end"
+}

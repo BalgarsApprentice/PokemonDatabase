@@ -1,7 +1,0 @@
-arcanine
-1      Bite
-1      Fire Fang
-1      Odor Sleuth
-1      Roar
-1      Thunder Fang
-39      ExtremeSpeed

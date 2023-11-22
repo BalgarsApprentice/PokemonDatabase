@@ -1,0 +1,17 @@
+{
+"Region": "Johto",
+"Pokemon": "tyranitar",
+"Bite": 1,
+"Leer": 1,
+"Sandstorm": 1,
+"Screech": 1,
+"Sandstorm": 8,
+"Screech": 15,
+"Rock Slide": 22,
+"Thrash": 29,
+"Scary Face": 38,
+"Crunch": 47,
+"Earthquake": 61,
+"Hyper Beam": 75,
+"list": "end"
+}

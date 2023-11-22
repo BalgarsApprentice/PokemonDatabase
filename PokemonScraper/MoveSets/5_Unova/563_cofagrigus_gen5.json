@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "cofagrigus",
+"Astonish": 1,
+"Disable": 1,
+"Haze": 1,
+"Protect": 1,
+"Disable": 5,
+"Haze": 9,
+"Night Shade": 13,
+"Hex": 17,
+"Will-O-Wisp": 21,
+"Ominous Wind": 25,
+"Curse": 29,
+"Guard Split": 33,
+"Power Split": 33,
+"Scary Face": 34,
+"Shadow Ball": 39,
+"Grudge": 45,
+"Mean Look": 51,
+"Destiny Bond": 57,
+"list": "end"
+}

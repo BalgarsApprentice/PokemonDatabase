@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "mewtwo",
+"Confusion": 1,
+"Disable": 1,
+"Barrier": 8,
+"Swift": 15,
+"Future Sight": 22,
+"Psych Up": 29,
+"Miracle Eye": 36,
+"Mist": 43,
+"Psycho Cut": 50,
+"Amnesia": 57,
+"Guard Swap": 64,
+"Power Swap": 64,
+"Psychic": 71,
+"Me First": 79,
+"Recover": 86,
+"Safeguard": 93,
+"Aura Sphere": 100,
+"list": "end"
+}

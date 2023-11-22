@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "hitmonchan",
+"Comet Punch": 1,
+"Revenge": 1,
+"Agility": 6,
+"Pursuit": 11,
+"Bullet Punch": 16,
+"Mach Punch": 16,
+"Feint": 21,
+"Vacuum Wave": 26,
+"Quick Guard": 31,
+"Fire Punch": 36,
+"Ice Punch": 36,
+"ThunderPunch": 36,
+"Sky Uppercut": 41,
+"Mega Punch": 46,
+"Detect": 51,
+"Focus Punch": 56,
+"Counter": 61,
+"Close Combat": 66,
+"list": "end"
+}

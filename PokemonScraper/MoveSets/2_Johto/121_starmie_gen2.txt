@@ -1,6 +1,0 @@
-starmie
-1      BubbleBeam
-1      Rapid Spin
-1      Recover
-1      Tackle
-37      Confuse Ray

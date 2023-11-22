@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "sudowoodo",
+"Copycat": 1,
+"Flail": 1,
+"Low Kick": 1,
+"Rock Throw": 1,
+"Wood Hammer": 1,
+"Flail": 6,
+"Low Kick": 9,
+"Rock Throw": 14,
+"Mimic": 17,
+"Block": 22,
+"Faint Attack": 25,
+"Rock Tomb": 30,
+"Rock Slide": 33,
+"Slam": 38,
+"Sucker Punch": 41,
+"Double-Edge": 46,
+"Hammer Arm": 49,
+"list": "end"
+}

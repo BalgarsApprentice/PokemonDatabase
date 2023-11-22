@@ -1,9 +1,0 @@
-spearow
-1      Growl
-1      Peck
-7      Leer
-13      Fury Attack
-25      Pursuit
-31      Mirror Move
-37      Drill Peck
-43      Agility

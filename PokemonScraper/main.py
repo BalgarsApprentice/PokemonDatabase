@@ -38,9 +38,9 @@ for i in range(lastgenincluded)[1:]:
         url = 'https://pokemondb.net/pokedex/' + j + '/moves/' + str(i)
         r = requests.get(url)
 
-        with open(str(n) + '_' + j + "_gen" + str(i) + '.txt', 'w') as f:
+        with open(str(n) + '_' + j + "_gen" + str(i) + '.json', 'w') as f:
             if r.status_code == 200:
-                f.write(j + "\n")
+                f.write('{\n\"Region\": \"' + allNineStr[i] + '\",\n\"Pokemon\": \"' + j + '\",\n')
                 soup = BeautifulSoup(r.text, features="html.parser")
                 narrow = soup.find(class_ = 'tabset-moves-game sv-tabs-wrapper')
                 datatablemax = len(narrow.find_all(class_ = 'data-table'))
@@ -49,15 +49,16 @@ for i in range(lastgenincluded)[1:]:
                 for cell in rows[1:]:
                     cellnum = cell.find(class_='cell-num')
                     cellname = cell.find(class_='cell-name')
-                    f.write(cellnum.text + '      ' + cellname.text + '\n')
+                    f.write('\"' + cellname.text + '\": ' + cellnum.text + ',\n')
                 if i == 1:
-                    f.write('\n\nYellow Version\n' + j + '\n')
+                    f.write('\"Yellow Version\": \"' + j + '\",\n')
                     datatable = soup.select('[class~=data-table]')[int(datatablemax / 2)]
                     rows = datatable.findAll('tr')
                     for cell in rows[1:]:
                         cellnum = cell.find(class_='cell-num')
                         cellname = cell.find(class_='cell-name')
-                        f.write(cellnum.text + '      ' + cellname.text + '\n')
+                        f.write('\"' + cellname.text + '\": ' + cellnum.text + ',\n')
+                f.write("\"list\": \"end\"\n}")
                 print(str(n) + ' ' + j + ' ' + allNineStr[i])
             else:
                 print(str(n) + ' ' + j + ' ' + allNineStr[i])

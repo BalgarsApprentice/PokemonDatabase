@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "torkoal",
+"Ember": 1,
+"Smog": 4,
+"Withdraw": 7,
+"Curse": 12,
+"Fire Spin": 17,
+"SmokeScreen": 20,
+"Rapid Spin": 23,
+"Flamethrower": 28,
+"Body Slam": 33,
+"Protect": 36,
+"Lava Plume": 39,
+"Iron Defense": 44,
+"Amnesia": 49,
+"Flail": 52,
+"Heat Wave": 55,
+"Inferno": 60,
+"Shell Smash": 65,
+"list": "end"
+}

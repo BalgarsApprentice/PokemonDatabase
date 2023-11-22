@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "pikachu",
+"Growl": 1,
+"ThunderShock": 1,
+"Tail Whip": 5,
+"Thunder Wave": 10,
+"Quick Attack": 13,
+"Electro Ball": 18,
+"Double Team": 21,
+"Slam": 26,
+"Thunderbolt": 29,
+"Feint": 34,
+"Agility": 37,
+"Discharge": 42,
+"Light Screen": 45,
+"Thunder": 50,
+"list": "end"
+}

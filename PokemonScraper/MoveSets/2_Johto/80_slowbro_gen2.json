@@ -1,0 +1,17 @@
+{
+"Region": "Johto",
+"Pokemon": "slowbro",
+"Curse": 1,
+"Growl": 1,
+"Tackle": 1,
+"Water Gun": 1,
+"Growl": 6,
+"Water Gun": 15,
+"Confusion": 20,
+"Disable": 29,
+"Headbutt": 34,
+"Withdraw": 37,
+"Amnesia": 46,
+"Psychic": 54,
+"list": "end"
+}

@@ -1,9 +1,0 @@
-pidgey
-1      Tackle
-5      Sand-Attack
-9      Gust
-15      Quick Attack
-21      Whirlwind
-29      Wing Attack
-37      Agility
-47      Mirror Move

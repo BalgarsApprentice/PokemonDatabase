@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "seismitoad",
+"Bubble": 1,
+"Growl": 1,
+"Round": 1,
+"Supersonic": 1,
+"Supersonic": 5,
+"Round": 9,
+"BubbleBeam": 12,
+"Mud Shot": 16,
+"Aqua Ring": 20,
+"Uproar": 23,
+"Muddy Water": 28,
+"Rain Dance": 33,
+"Acid": 36,
+"Flail": 39,
+"Drain Punch": 44,
+"Echoed Voice": 49,
+"Hydro Pump": 53,
+"Hyper Voice": 59,
+"list": "end"
+}

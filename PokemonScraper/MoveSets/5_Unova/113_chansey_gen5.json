@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "chansey",
+"Defense Curl": 1,
+"Growl": 1,
+"Pound": 1,
+"Tail Whip": 5,
+"Refresh": 9,
+"DoubleSlap": 12,
+"Softboiled": 16,
+"Bestow": 20,
+"Minimize": 23,
+"Take Down": 27,
+"Sing": 31,
+"Fling": 34,
+"Heal Pulse": 38,
+"Egg Bomb": 42,
+"Light Screen": 46,
+"Healing Wish": 50,
+"Double-Edge": 54,
+"list": "end"
+}

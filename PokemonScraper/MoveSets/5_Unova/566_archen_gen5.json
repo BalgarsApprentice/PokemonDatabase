@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "archen",
+"Leer": 1,
+"Quick Attack": 1,
+"Wing Attack": 1,
+"Rock Throw": 5,
+"Double Team": 8,
+"Scary Face": 11,
+"Pluck": 15,
+"AncientPower": 18,
+"Agility": 21,
+"Quick Guard": 25,
+"Acrobatics": 28,
+"DragonBreath": 31,
+"Crunch": 35,
+"Endeavor": 38,
+"U-turn": 41,
+"Rock Slide": 45,
+"Dragon Claw": 48,
+"Thrash": 51,
+"list": "end"
+}

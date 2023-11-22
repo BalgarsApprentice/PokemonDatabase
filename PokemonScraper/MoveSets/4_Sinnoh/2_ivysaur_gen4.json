@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "ivysaur",
+"Growl": 1,
+"Leech Seed": 1,
+"Tackle": 1,
+"Growl": 3,
+"Leech Seed": 7,
+"Vine Whip": 9,
+"PoisonPowder": 13,
+"Sleep Powder": 13,
+"Take Down": 15,
+"Razor Leaf": 20,
+"Sweet Scent": 23,
+"Growth": 28,
+"Double-Edge": 31,
+"Worry Seed": 36,
+"Synthesis": 39,
+"SolarBeam": 44,
+"list": "end"
+}

@@ -1,0 +1,17 @@
+{
+"Region": "Johto",
+"Pokemon": "bayleef",
+"Growl": 1,
+"Razor Leaf": 1,
+"Reflect": 1,
+"Tackle": 1,
+"Razor Leaf": 8,
+"Reflect": 12,
+"PoisonPowder": 15,
+"Synthesis": 23,
+"Body Slam": 31,
+"Light Screen": 39,
+"Safeguard": 47,
+"SolarBeam": 55,
+"list": "end"
+}

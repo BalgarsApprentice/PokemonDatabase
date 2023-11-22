@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "growlithe",
+"Bite": 1,
+"Roar": 1,
+"Ember": 6,
+"Leer": 9,
+"Odor Sleuth": 14,
+"Helping Hand": 17,
+"Flame Wheel": 20,
+"Reversal": 25,
+"Fire Fang": 28,
+"Take Down": 31,
+"Flamethrower": 34,
+"Agility": 39,
+"Crunch": 42,
+"Heat Wave": 45,
+"Flare Blitz": 48,
+"list": "end"
+}

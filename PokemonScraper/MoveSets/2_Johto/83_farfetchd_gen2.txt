@@ -1,9 +1,0 @@
-farfetchd
-1      Peck
-7      Sand-Attack
-13      Leer
-19      Fury Attack
-25      Swords Dance
-31      Agility
-37      Slash
-44      False Swipe

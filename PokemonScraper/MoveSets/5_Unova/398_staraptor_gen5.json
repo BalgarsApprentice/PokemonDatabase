@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "staraptor",
+"Growl": 1,
+"Quick Attack": 1,
+"Tackle": 1,
+"Wing Attack": 1,
+"Quick Attack": 5,
+"Wing Attack": 9,
+"Double Team": 13,
+"Endeavor": 18,
+"Whirlwind": 23,
+"Aerial Ace": 28,
+"Take Down": 33,
+"Close Combat": 34,
+"Agility": 41,
+"Brave Bird": 49,
+"Final Gambit": 57,
+"list": "end"
+}

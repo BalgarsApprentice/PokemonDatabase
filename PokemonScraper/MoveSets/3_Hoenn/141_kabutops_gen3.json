@@ -1,0 +1,17 @@
+{
+"Region": "Hoenn",
+"Pokemon": "kabutops",
+"Absorb": 1,
+"Harden": 1,
+"Scratch": 1,
+"Absorb": 13,
+"Leer": 19,
+"Mud Shot": 25,
+"Sand-Attack": 31,
+"Endure": 37,
+"Slash": 40,
+"Metal Sound": 46,
+"Mega Drain": 55,
+"AncientPower": 65,
+"list": "end"
+}

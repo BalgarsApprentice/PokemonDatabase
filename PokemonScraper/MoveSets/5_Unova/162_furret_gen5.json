@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "furret",
+"Defense Curl": 1,
+"Foresight": 1,
+"Quick Attack": 1,
+"Scratch": 1,
+"Defense Curl": 4,
+"Quick Attack": 7,
+"Fury Swipes": 13,
+"Helping Hand": 17,
+"Follow Me": 21,
+"Slam": 28,
+"Rest": 32,
+"Sucker Punch": 36,
+"Amnesia": 42,
+"Baton Pass": 46,
+"Me First": 50,
+"Hyper Voice": 56,
+"list": "end"
+}

@@ -1,0 +1,19 @@
+{
+"Region": "Hoenn",
+"Pokemon": "dusclops",
+"Bind": 1,
+"Disable": 1,
+"Leer": 1,
+"Night Shade": 1,
+"Disable": 5,
+"Foresight": 12,
+"Astonish": 16,
+"Confuse Ray": 23,
+"Pursuit": 27,
+"Curse": 34,
+"Shadow Punch": 37,
+"Will-O-Wisp": 41,
+"Mean Look": 51,
+"Future Sight": 58,
+"list": "end"
+}

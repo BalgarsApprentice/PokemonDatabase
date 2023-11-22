@@ -1,0 +1,18 @@
+{
+"Region": "Johto",
+"Pokemon": "wartortle",
+"Bubble": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Tail Whip": 4,
+"Bubble": 7,
+"Withdraw": 10,
+"Water Gun": 13,
+"Bite": 19,
+"Rapid Spin": 25,
+"Protect": 31,
+"Rain Dance": 37,
+"Skull Bash": 45,
+"Hydro Pump": 53,
+"list": "end"
+}

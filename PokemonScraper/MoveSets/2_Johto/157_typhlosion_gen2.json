@@ -1,0 +1,15 @@
+{
+"Region": "Johto",
+"Pokemon": "typhlosion",
+"Ember": 1,
+"Leer": 1,
+"SmokeScreen": 1,
+"Tackle": 1,
+"SmokeScreen": 6,
+"Ember": 12,
+"Quick Attack": 21,
+"Flame Wheel": 31,
+"Swift": 45,
+"Flamethrower": 60,
+"list": "end"
+}

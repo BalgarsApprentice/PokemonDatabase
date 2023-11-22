@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "swanna",
+"Defog": 1,
+"Water Gun": 1,
+"Water Sport": 1,
+"Wing Attack": 1,
+"Water Sport": 3,
+"Defog": 6,
+"Wing Attack": 9,
+"Water Pulse": 13,
+"Aerial Ace": 15,
+"BubbleBeam": 19,
+"FeatherDance": 21,
+"Aqua Ring": 24,
+"Air Slash": 27,
+"Roost": 30,
+"Rain Dance": 34,
+"Tailwind": 40,
+"Brave Bird": 47,
+"Hurricane": 55,
+"list": "end"
+}

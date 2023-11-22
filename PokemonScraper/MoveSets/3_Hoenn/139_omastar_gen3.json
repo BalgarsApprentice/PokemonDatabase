@@ -1,0 +1,17 @@
+{
+"Region": "Hoenn",
+"Pokemon": "omastar",
+"Bite": 1,
+"Constrict": 1,
+"Withdraw": 1,
+"Bite": 13,
+"Water Gun": 19,
+"Mud Shot": 25,
+"Leer": 31,
+"Protect": 37,
+"Spike Cannon": 40,
+"Tickle": 46,
+"AncientPower": 55,
+"Hydro Pump": 65,
+"list": "end"
+}

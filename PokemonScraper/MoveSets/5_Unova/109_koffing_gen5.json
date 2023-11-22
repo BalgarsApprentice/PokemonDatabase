@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "koffing",
+"Poison Gas": 1,
+"Tackle": 1,
+"Smog": 6,
+"SmokeScreen": 10,
+"Assurance": 15,
+"Clear Smog": 19,
+"Selfdestruct": 24,
+"Sludge": 28,
+"Haze": 33,
+"Gyro Ball": 37,
+"Explosion": 42,
+"Sludge Bomb": 46,
+"Destiny Bond": 51,
+"Memento": 55,
+"list": "end"
+}

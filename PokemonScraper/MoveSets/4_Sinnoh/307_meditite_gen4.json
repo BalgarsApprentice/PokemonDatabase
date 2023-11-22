@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "meditite",
+"Bide": 1,
+"Meditate": 4,
+"Confusion": 8,
+"Detect": 11,
+"Hidden Power": 15,
+"Mind Reader": 18,
+"Feint": 22,
+"Calm Mind": 25,
+"Force Palm": 29,
+"Hi Jump Kick": 32,
+"Psych Up": 36,
+"Power Trick": 39,
+"Reversal": 43,
+"Recover": 46,
+"list": "end"
+}

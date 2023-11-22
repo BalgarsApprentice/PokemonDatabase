@@ -1,0 +1,23 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "tyranitar",
+"Bite": 1,
+"Fire Fang": 1,
+"Ice Fang": 1,
+"Leer": 1,
+"Sandstorm": 1,
+"Screech": 1,
+"Thunder Fang": 1,
+"Sandstorm": 5,
+"Screech": 10,
+"Rock Slide": 14,
+"Scary Face": 19,
+"Thrash": 23,
+"Dark Pulse": 28,
+"Payback": 34,
+"Crunch": 41,
+"Earthquake": 47,
+"Stone Edge": 54,
+"Hyper Beam": 70,
+"list": "end"
+}

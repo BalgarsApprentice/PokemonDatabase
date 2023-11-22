@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "slowking",
+"Curse": 1,
+"Hidden Power": 1,
+"Tackle": 1,
+"Yawn": 1,
+"Growl": 6,
+"Water Gun": 11,
+"Confusion": 15,
+"Disable": 20,
+"Headbutt": 25,
+"Water Pulse": 29,
+"Zen Headbutt": 34,
+"Nasty Plot": 39,
+"Swagger": 43,
+"Psychic": 48,
+"Trump Card": 53,
+"Psych Up": 57,
+"list": "end"
+}

@@ -1,0 +1,17 @@
+{
+"Region": "Hoenn",
+"Pokemon": "staryu",
+"Harden": 1,
+"Tackle": 1,
+"Water Gun": 6,
+"Rapid Spin": 10,
+"Recover": 15,
+"Camouflage": 19,
+"Swift": 24,
+"BubbleBeam": 28,
+"Minimize": 33,
+"Light Screen": 37,
+"Cosmic Power": 42,
+"Hydro Pump": 46,
+"list": "end"
+}

@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "toxicroak",
+"Astonish": 1,
+"Mud-Slap": 1,
+"Poison Sting": 1,
+"Mud-Slap": 3,
+"Poison Sting": 8,
+"Taunt": 10,
+"Pursuit": 15,
+"Faint Attack": 17,
+"Revenge": 22,
+"Swagger": 24,
+"Mud Bomb": 29,
+"Sucker Punch": 31,
+"Venoshock": 36,
+"Nasty Plot": 41,
+"Poison Jab": 49,
+"Sludge Bomb": 54,
+"Flatter": 62,
+"list": "end"
+}

@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "baltoy",
+"Confusion": 1,
+"Harden": 3,
+"Rapid Spin": 5,
+"Mud-Slap": 7,
+"Psybeam": 11,
+"Rock Tomb": 15,
+"Selfdestruct": 19,
+"AncientPower": 25,
+"Power Trick": 31,
+"Sandstorm": 37,
+"Cosmic Power": 45,
+"Earth Power": 53,
+"Heal Block": 61,
+"Explosion": 71,
+"list": "end"
+}

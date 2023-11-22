@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "machamp",
+"Focus Energy": 1,
+"Karate Chop": 1,
+"Leer": 1,
+"Low Kick": 1,
+"Wide Guard": 1,
+"Focus Energy": 7,
+"Karate Chop": 10,
+"Low Sweep": 13,
+"Foresight": 19,
+"Seismic Toss": 22,
+"Revenge": 25,
+"Vital Throw": 32,
+"Submission": 36,
+"Wake-Up Slap": 40,
+"Cross Chop": 44,
+"Scary Face": 51,
+"DynamicPunch": 55,
+"list": "end"
+}

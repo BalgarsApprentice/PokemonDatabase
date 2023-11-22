@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "purugly",
+"Fake Out": 1,
+"Growl": 1,
+"Scratch": 1,
+"Scratch": 5,
+"Growl": 8,
+"Hypnosis": 13,
+"Faint Attack": 17,
+"Fury Swipes": 20,
+"Charm": 25,
+"Assist": 29,
+"Captivate": 32,
+"Slash": 37,
+"Swagger": 38,
+"Body Slam": 45,
+"Attract": 52,
+"Hone Claws": 60,
+"list": "end"
+}

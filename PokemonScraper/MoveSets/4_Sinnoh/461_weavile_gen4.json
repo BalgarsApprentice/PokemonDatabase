@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "weavile",
+"Assurance": 1,
+"Embargo": 1,
+"Leer": 1,
+"Quick Attack": 1,
+"Revenge": 1,
+"Scratch": 1,
+"Taunt": 1,
+"Quick Attack": 8,
+"Screech": 10,
+"Faint Attack": 14,
+"Fury Swipes": 21,
+"Nasty Plot": 24,
+"Icy Wind": 28,
+"Night Slash": 35,
+"Fling": 38,
+"Metal Claw": 42,
+"Dark Pulse": 49,
+"list": "end"
+}

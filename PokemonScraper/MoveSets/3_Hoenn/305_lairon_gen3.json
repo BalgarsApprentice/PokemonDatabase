@@ -1,0 +1,20 @@
+{
+"Region": "Hoenn",
+"Pokemon": "lairon",
+"Harden": 1,
+"Headbutt": 1,
+"Mud-Slap": 1,
+"Tackle": 1,
+"Harden": 4,
+"Mud-Slap": 7,
+"Headbutt": 10,
+"Metal Claw": 13,
+"Iron Defense": 17,
+"Roar": 21,
+"Take Down": 25,
+"Iron Tail": 29,
+"Protect": 37,
+"Metal Sound": 45,
+"Double-Edge": 53,
+"list": "end"
+}

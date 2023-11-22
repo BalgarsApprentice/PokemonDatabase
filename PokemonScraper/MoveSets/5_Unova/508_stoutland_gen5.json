@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "stoutland",
+"Bite": 1,
+"Fire Fang": 1,
+"Ice Fang": 1,
+"Leer": 1,
+"Odor Sleuth": 1,
+"Tackle": 1,
+"Thunder Fang": 1,
+"Odor Sleuth": 5,
+"Bite": 8,
+"Helping Hand": 12,
+"Take Down": 15,
+"Work Up": 20,
+"Crunch": 24,
+"Roar": 29,
+"Retaliate": 36,
+"Reversal": 42,
+"Last Resort": 51,
+"Giga Impact": 59,
+"list": "end"
+}

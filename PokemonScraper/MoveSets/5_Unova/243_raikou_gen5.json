@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "raikou",
+"Bite": 1,
+"Leer": 1,
+"ThunderShock": 8,
+"Roar": 15,
+"Quick Attack": 22,
+"Spark": 29,
+"Reflect": 36,
+"Crunch": 43,
+"Thunder Fang": 50,
+"Discharge": 57,
+"Extrasensory": 64,
+"Rain Dance": 71,
+"Calm Mind": 78,
+"Thunder": 85,
+"list": "end"
+}

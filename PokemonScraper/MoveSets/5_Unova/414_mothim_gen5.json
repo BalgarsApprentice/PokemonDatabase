@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "mothim",
+"Tackle": 1,
+"Protect": 10,
+"Bug Bite": 15,
+"Hidden Power": 20,
+"Confusion": 23,
+"Gust": 26,
+"PoisonPowder": 29,
+"Psybeam": 32,
+"Camouflage": 35,
+"Silver Wind": 38,
+"Air Slash": 41,
+"Psychic": 44,
+"Bug Buzz": 47,
+"Quiver Dance": 50,
+"list": "end"
+}

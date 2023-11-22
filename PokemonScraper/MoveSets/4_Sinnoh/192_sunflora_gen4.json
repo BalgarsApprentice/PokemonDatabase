@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "sunflora",
+"Absorb": 1,
+"Growth": 1,
+"Pound": 1,
+"Mega Drain": 5,
+"Ingrain": 9,
+"GrassWhistle": 13,
+"Leech Seed": 17,
+"Bullet Seed": 21,
+"Worry Seed": 25,
+"Razor Leaf": 29,
+"Petal Dance": 33,
+"Sunny Day": 37,
+"SolarBeam": 41,
+"Leaf Storm": 43,
+"list": "end"
+}

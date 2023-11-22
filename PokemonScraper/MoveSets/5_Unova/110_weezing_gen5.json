@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "weezing",
+"Poison Gas": 1,
+"Smog": 1,
+"SmokeScreen": 1,
+"Tackle": 1,
+"Smog": 6,
+"SmokeScreen": 10,
+"Assurance": 15,
+"Clear Smog": 19,
+"Selfdestruct": 24,
+"Sludge": 28,
+"Haze": 33,
+"Double Hit": 39,
+"Explosion": 46,
+"Sludge Bomb": 52,
+"Destiny Bond": 59,
+"Memento": 65,
+"list": "end"
+}

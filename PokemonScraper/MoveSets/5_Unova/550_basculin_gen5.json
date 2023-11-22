@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "basculin",
+"Tackle": 1,
+"Water Gun": 1,
+"Uproar": 4,
+"Headbutt": 7,
+"Bite": 10,
+"Aqua Jet": 13,
+"Chip Away": 16,
+"Take Down": 20,
+"Crunch": 24,
+"Aqua Tail": 28,
+"Soak": 32,
+"Double-Edge": 36,
+"Scary Face": 41,
+"Flail": 46,
+"Final Gambit": 51,
+"Thrash": 56,
+"list": "end"
+}

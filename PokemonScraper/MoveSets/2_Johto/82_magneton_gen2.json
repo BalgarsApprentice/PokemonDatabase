@@ -1,0 +1,17 @@
+{
+"Region": "Johto",
+"Pokemon": "magneton",
+"SonicBoom": 1,
+"Supersonic": 1,
+"Tackle": 1,
+"ThunderShock": 1,
+"ThunderShock": 6,
+"Supersonic": 11,
+"SonicBoom": 16,
+"Thunder Wave": 21,
+"Lock-On": 27,
+"Swift": 35,
+"Screech": 43,
+"Zap Cannon": 53,
+"list": "end"
+}

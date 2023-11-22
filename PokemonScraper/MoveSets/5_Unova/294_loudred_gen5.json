@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "loudred",
+"Astonish": 1,
+"Howl": 1,
+"Pound": 1,
+"Uproar": 1,
+"Uproar": 5,
+"Astonish": 11,
+"Howl": 15,
+"Bite": 20,
+"Supersonic": 23,
+"Stomp": 29,
+"Screech": 37,
+"Roar": 43,
+"Synchronoise": 51,
+"Rest": 57,
+"Sleep Talk": 57,
+"Hyper Voice": 65,
+"list": "end"
+}

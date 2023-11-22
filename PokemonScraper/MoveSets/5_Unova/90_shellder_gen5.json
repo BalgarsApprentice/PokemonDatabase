@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "shellder",
+"Tackle": 1,
+"Withdraw": 4,
+"Supersonic": 8,
+"Icicle Spear": 13,
+"Protect": 16,
+"Leer": 20,
+"Clamp": 25,
+"Ice Shard": 28,
+"Razor Shell": 32,
+"Aurora Beam": 37,
+"Whirlpool": 40,
+"Brine": 44,
+"Iron Defense": 49,
+"Ice Beam": 52,
+"Shell Smash": 56,
+"Hydro Pump": 61,
+"list": "end"
+}

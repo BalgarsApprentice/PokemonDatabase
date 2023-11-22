@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "quilava",
+"Leer": 1,
+"SmokeScreen": 1,
+"Tackle": 1,
+"SmokeScreen": 6,
+"Ember": 10,
+"Quick Attack": 13,
+"Flame Wheel": 20,
+"Defense Curl": 24,
+"Swift": 31,
+"Flame Charge": 35,
+"Lava Plume": 42,
+"Flamethrower": 46,
+"Inferno": 53,
+"Rollout": 57,
+"Double-Edge": 64,
+"Eruption": 68,
+"list": "end"
+}

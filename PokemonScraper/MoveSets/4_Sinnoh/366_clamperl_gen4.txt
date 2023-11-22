@@ -1,5 +1,0 @@
-clamperl
-1      Clamp
-1      Iron Defense
-1      Water Gun
-1      Whirlpool

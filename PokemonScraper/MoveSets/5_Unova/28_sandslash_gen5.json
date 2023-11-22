@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "sandslash",
+"Defense Curl": 1,
+"Sand-Attack": 1,
+"Scratch": 1,
+"Defense Curl": 3,
+"Sand-Attack": 7,
+"Poison Sting": 9,
+"Rapid Spin": 13,
+"Swift": 15,
+"Fury Swipes": 19,
+"Rollout": 21,
+"Crush Claw": 22,
+"Fury Cutter": 28,
+"Sand Tomb": 33,
+"Slash": 40,
+"Gyro Ball": 45,
+"Sandstorm": 52,
+"list": "end"
+}

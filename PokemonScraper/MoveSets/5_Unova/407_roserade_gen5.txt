@@ -1,6 +1,0 @@
-roserade
-1      Magical Leaf
-1      Mega Drain
-1      Poison Sting
-1      Sweet Scent
-1      Weather Ball

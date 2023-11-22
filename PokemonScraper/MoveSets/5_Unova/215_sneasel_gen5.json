@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "sneasel",
+"Leer": 1,
+"Scratch": 1,
+"Taunt": 1,
+"Quick Attack": 8,
+"Screech": 10,
+"Faint Attack": 14,
+"Fury Swipes": 21,
+"Agility": 24,
+"Icy Wind": 28,
+"Hone Claws": 35,
+"Slash": 38,
+"Beat Up": 42,
+"Metal Claw": 49,
+"Ice Shard": 51,
+"list": "end"
+}

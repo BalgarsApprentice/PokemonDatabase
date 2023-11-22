@@ -1,0 +1,18 @@
+{
+"Region": "Unova",
+"Pokemon": "wormadam",
+"Tackle": 1,
+"Protect": 10,
+"Bug Bite": 15,
+"Hidden Power": 20,
+"Confusion": 23,
+"Razor Leaf": 26,
+"Growth": 29,
+"Psybeam": 32,
+"Captivate": 35,
+"Flail": 38,
+"Attract": 41,
+"Psychic": 44,
+"Leaf Storm": 47,
+"list": "end"
+}

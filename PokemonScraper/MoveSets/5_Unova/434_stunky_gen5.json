@@ -1,0 +1,18 @@
+{
+"Region": "Unova",
+"Pokemon": "stunky",
+"Focus Energy": 1,
+"Scratch": 1,
+"Poison Gas": 4,
+"Screech": 7,
+"Fury Swipes": 10,
+"SmokeScreen": 14,
+"Feint": 18,
+"Slash": 22,
+"Toxic": 27,
+"Acid Spray": 32,
+"Night Slash": 37,
+"Memento": 43,
+"Explosion": 49,
+"list": "end"
+}

@@ -1,9 +1,0 @@
-mantine
-1      Bubble
-1      Tackle
-10      Supersonic
-18      BubbleBeam
-25      Take Down
-32      Agility
-40      Wing Attack
-49      Confuse Ray

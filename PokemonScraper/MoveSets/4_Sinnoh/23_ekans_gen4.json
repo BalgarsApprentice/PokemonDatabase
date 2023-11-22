@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "ekans",
+"Leer": 1,
+"Wrap": 1,
+"Poison Sting": 4,
+"Bite": 9,
+"Glare": 12,
+"Screech": 17,
+"Acid": 20,
+"Spit Up": 25,
+"Stockpile": 25,
+"Swallow": 25,
+"Mud Bomb": 28,
+"Gastro Acid": 33,
+"Haze": 36,
+"Gunk Shot": 41,
+"list": "end"
+}

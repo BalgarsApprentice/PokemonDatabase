@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "cottonee",
+"Absorb": 1,
+"Growth": 4,
+"Leech Seed": 8,
+"Stun Spore": 10,
+"Mega Drain": 13,
+"Cotton Spore": 17,
+"Razor Leaf": 19,
+"PoisonPowder": 22,
+"Giga Drain": 26,
+"Charm": 28,
+"Helping Hand": 31,
+"Energy Ball": 35,
+"Cotton Guard": 37,
+"Sunny Day": 40,
+"Endeavor": 44,
+"SolarBeam": 46,
+"list": "end"
+}

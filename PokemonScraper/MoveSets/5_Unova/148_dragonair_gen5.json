@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "dragonair",
+"Leer": 1,
+"Thunder Wave": 1,
+"Twister": 1,
+"Wrap": 1,
+"Thunder Wave": 5,
+"Twister": 11,
+"Dragon Rage": 15,
+"Slam": 21,
+"Agility": 25,
+"Dragon Tail": 33,
+"Aqua Tail": 39,
+"Dragon Rush": 47,
+"Safeguard": 53,
+"Dragon Dance": 61,
+"Outrage": 67,
+"Hyper Beam": 75,
+"list": "end"
+}

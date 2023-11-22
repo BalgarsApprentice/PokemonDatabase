@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "carnivine",
+"Bind": 1,
+"Growth": 1,
+"Bite": 7,
+"Vine Whip": 11,
+"Sweet Scent": 17,
+"Ingrain": 21,
+"Faint Attack": 27,
+"Leaf Tornado": 31,
+"Spit Up": 37,
+"Stockpile": 37,
+"Swallow": 37,
+"Crunch": 41,
+"Wring Out": 47,
+"Power Whip": 51,
+"list": "end"
+}

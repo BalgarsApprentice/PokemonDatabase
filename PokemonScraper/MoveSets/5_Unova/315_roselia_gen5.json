@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "roselia",
+"Absorb": 1,
+"Growth": 4,
+"Poison Sting": 7,
+"Stun Spore": 10,
+"Mega Drain": 13,
+"Leech Seed": 16,
+"Magical Leaf": 19,
+"GrassWhistle": 22,
+"Giga Drain": 25,
+"Toxic Spikes": 28,
+"Sweet Scent": 31,
+"Ingrain": 34,
+"Toxic": 37,
+"Petal Dance": 40,
+"Aromatherapy": 43,
+"Synthesis": 46,
+"list": "end"
+}

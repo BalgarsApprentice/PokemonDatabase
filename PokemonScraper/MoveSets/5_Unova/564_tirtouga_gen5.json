@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "tirtouga",
+"Bide": 1,
+"Water Gun": 1,
+"Withdraw": 1,
+"Rollout": 5,
+"Bite": 8,
+"Protect": 11,
+"Aqua Jet": 15,
+"AncientPower": 18,
+"Crunch": 21,
+"Wide Guard": 25,
+"Brine": 28,
+"Smack Down": 31,
+"Curse": 35,
+"Shell Smash": 38,
+"Aqua Tail": 41,
+"Rock Slide": 45,
+"Rain Dance": 48,
+"Hydro Pump": 51,
+"list": "end"
+}

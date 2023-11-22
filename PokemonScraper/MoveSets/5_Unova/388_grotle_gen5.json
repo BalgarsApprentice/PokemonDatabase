@@ -1,0 +1,18 @@
+{
+"Region": "Unova",
+"Pokemon": "grotle",
+"Tackle": 1,
+"Withdraw": 1,
+"Withdraw": 5,
+"Absorb": 9,
+"Razor Leaf": 13,
+"Curse": 17,
+"Bite": 22,
+"Mega Drain": 27,
+"Leech Seed": 32,
+"Synthesis": 37,
+"Crunch": 42,
+"Giga Drain": 47,
+"Leaf Storm": 52,
+"list": "end"
+}

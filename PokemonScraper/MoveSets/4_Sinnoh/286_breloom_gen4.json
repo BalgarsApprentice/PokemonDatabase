@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "breloom",
+"Absorb": 1,
+"Leech Seed": 1,
+"Stun Spore": 1,
+"Tackle": 1,
+"Tackle": 5,
+"Stun Spore": 9,
+"Leech Seed": 13,
+"Mega Drain": 17,
+"Headbutt": 21,
+"Mach Punch": 23,
+"Counter": 25,
+"Force Palm": 29,
+"Sky Uppercut": 33,
+"Mind Reader": 37,
+"Seed Bomb": 41,
+"DynamicPunch": 45,
+"list": "end"
+}

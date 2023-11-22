@@ -1,0 +1,18 @@
+{
+"Region": "Hoenn",
+"Pokemon": "electrode",
+"Charge": 1,
+"Screech": 1,
+"SonicBoom": 1,
+"Tackle": 1,
+"Screech": 8,
+"SonicBoom": 15,
+"Spark": 21,
+"Selfdestruct": 27,
+"Rollout": 34,
+"Light Screen": 41,
+"Swift": 48,
+"Explosion": 54,
+"Mirror Coat": 59,
+"list": "end"
+}

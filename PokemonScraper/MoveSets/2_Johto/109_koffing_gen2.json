@@ -1,0 +1,14 @@
+{
+"Region": "Johto",
+"Pokemon": "koffing",
+"Poison Gas": 1,
+"Tackle": 1,
+"Smog": 9,
+"Selfdestruct": 17,
+"Sludge": 21,
+"SmokeScreen": 25,
+"Haze": 33,
+"Explosion": 41,
+"Destiny Bond": 45,
+"list": "end"
+}

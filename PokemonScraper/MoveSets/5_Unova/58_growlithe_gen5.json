@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "growlithe",
+"Bite": 1,
+"Roar": 1,
+"Ember": 6,
+"Leer": 9,
+"Odor Sleuth": 14,
+"Helping Hand": 17,
+"Flame Wheel": 20,
+"Reversal": 25,
+"Fire Fang": 28,
+"Flame Burst": 31,
+"Take Down": 34,
+"Flamethrower": 39,
+"Agility": 42,
+"Crunch": 45,
+"Retaliate": 48,
+"Heat Wave": 51,
+"Flare Blitz": 56,
+"list": "end"
+}

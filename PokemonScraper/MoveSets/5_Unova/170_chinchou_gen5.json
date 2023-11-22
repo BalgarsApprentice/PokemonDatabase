@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "chinchou",
+"Bubble": 1,
+"Supersonic": 1,
+"Thunder Wave": 6,
+"Flail": 9,
+"Confuse Ray": 12,
+"Water Gun": 17,
+"Spark": 20,
+"Take Down": 23,
+"Electro Ball": 28,
+"BubbleBeam": 31,
+"Signal Beam": 34,
+"Discharge": 39,
+"Aqua Ring": 42,
+"Hydro Pump": 45,
+"Charge": 50,
+"list": "end"
+}

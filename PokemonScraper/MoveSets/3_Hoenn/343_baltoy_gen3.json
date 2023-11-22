@@ -1,0 +1,16 @@
+{
+"Region": "Hoenn",
+"Pokemon": "baltoy",
+"Confusion": 1,
+"Harden": 3,
+"Rapid Spin": 5,
+"Mud-Slap": 7,
+"Psybeam": 11,
+"Rock Tomb": 15,
+"Selfdestruct": 19,
+"AncientPower": 25,
+"Sandstorm": 31,
+"Cosmic Power": 37,
+"Explosion": 45,
+"list": "end"
+}

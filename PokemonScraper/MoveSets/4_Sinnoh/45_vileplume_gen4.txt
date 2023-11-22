@@ -1,7 +1,0 @@
-vileplume
-1      Aromatherapy
-1      Mega Drain
-1      PoisonPowder
-1      Stun Spore
-53      Petal Dance
-65      SolarBeam

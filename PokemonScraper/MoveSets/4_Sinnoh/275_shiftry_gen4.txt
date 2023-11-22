@@ -1,6 +1,0 @@
-shiftry
-1      Faint Attack
-1      Nasty Plot
-1      Razor Leaf
-1      Whirlwind
-49      Leaf Storm

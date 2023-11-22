@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "zangoose",
+"Leer": 1,
+"Scratch": 1,
+"Quick Attack": 5,
+"Swords Dance": 9,
+"Fury Cutter": 14,
+"Slash": 18,
+"Pursuit": 22,
+"Embargo": 27,
+"Crush Claw": 31,
+"Taunt": 35,
+"Detect": 40,
+"False Swipe": 44,
+"X-Scissor": 48,
+"Close Combat": 53,
+"list": "end"
+}

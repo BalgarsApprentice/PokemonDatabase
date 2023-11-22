@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "deerling",
+"Camouflage": 1,
+"Tackle": 1,
+"Growl": 4,
+"Sand-Attack": 7,
+"Double Kick": 10,
+"Leech Seed": 13,
+"Faint Attack": 16,
+"Take Down": 20,
+"Jump Kick": 24,
+"Aromatherapy": 28,
+"Energy Ball": 32,
+"Charm": 36,
+"Nature Power": 41,
+"Double-Edge": 46,
+"SolarBeam": 51,
+"list": "end"
+}

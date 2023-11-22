@@ -1,6 +1,0 @@
-nidoqueen
-1      Double Kick
-1      Poison Sting
-1      Scratch
-1      Tail Whip
-23      Body Slam

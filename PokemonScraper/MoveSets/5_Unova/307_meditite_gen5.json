@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "meditite",
+"Bide": 1,
+"Meditate": 4,
+"Confusion": 8,
+"Detect": 11,
+"Hidden Power": 15,
+"Mind Reader": 18,
+"Feint": 22,
+"Calm Mind": 25,
+"Force Palm": 29,
+"Hi Jump Kick": 32,
+"Psych Up": 36,
+"Acupressure": 39,
+"Power Trick": 43,
+"Reversal": 46,
+"Recover": 50,
+"list": "end"
+}

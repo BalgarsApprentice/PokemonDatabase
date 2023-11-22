@@ -1,7 +1,0 @@
-sunkern
-1      Absorb
-4      Growth
-10      Mega Drain
-19      Sunny Day
-31      Synthesis
-46      Giga Drain

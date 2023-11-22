@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "ampharos",
+"Fire Punch": 1,
+"Growl": 1,
+"Tackle": 1,
+"ThunderShock": 1,
+"Thunder Wave": 1,
+"Growl": 5,
+"ThunderShock": 10,
+"Thunder Wave": 14,
+"Cotton Spore": 20,
+"Charge": 25,
+"ThunderPunch": 30,
+"Discharge": 34,
+"Signal Beam": 42,
+"Light Screen": 51,
+"Power Gem": 59,
+"Thunder": 68,
+"list": "end"
+}

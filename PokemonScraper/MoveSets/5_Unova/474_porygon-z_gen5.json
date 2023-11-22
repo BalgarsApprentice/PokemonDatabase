@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "porygon-z",
+"Conversion": 1,
+"Conversion 2": 1,
+"Nasty Plot": 1,
+"Tackle": 1,
+"Trick Room": 1,
+"Psybeam": 7,
+"Agility": 12,
+"Recover": 18,
+"Magnet Rise": 23,
+"Signal Beam": 29,
+"Embargo": 34,
+"Discharge": 40,
+"Lock-On": 45,
+"Tri Attack": 51,
+"Magic Coat": 56,
+"Zap Cannon": 62,
+"Hyper Beam": 67,
+"list": "end"
+}

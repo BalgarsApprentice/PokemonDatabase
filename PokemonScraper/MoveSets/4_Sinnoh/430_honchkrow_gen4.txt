@@ -1,9 +1,0 @@
-honchkrow
-1      Astonish
-1      Haze
-1      Pursuit
-1      Wing Attack
-25      Swagger
-35      Nasty Plot
-45      Night Slash
-55      Dark Pulse

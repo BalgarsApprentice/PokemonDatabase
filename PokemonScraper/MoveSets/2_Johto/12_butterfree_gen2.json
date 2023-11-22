@@ -1,0 +1,15 @@
+{
+"Region": "Johto",
+"Pokemon": "butterfree",
+"Confusion": 1,
+"Confusion": 10,
+"PoisonPowder": 13,
+"Stun Spore": 14,
+"Sleep Powder": 15,
+"Supersonic": 18,
+"Whirlwind": 23,
+"Gust": 28,
+"Psybeam": 34,
+"Safeguard": 40,
+"list": "end"
+}

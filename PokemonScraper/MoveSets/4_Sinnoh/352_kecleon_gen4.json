@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "kecleon",
+"Astonish": 1,
+"Lick": 1,
+"Scratch": 1,
+"Tail Whip": 1,
+"Thief": 1,
+"Bind": 4,
+"Faint Attack": 7,
+"Fury Swipes": 10,
+"Psybeam": 15,
+"Shadow Sneak": 20,
+"Slash": 25,
+"Screech": 32,
+"Substitute": 39,
+"Sucker Punch": 46,
+"Shadow Claw": 55,
+"AncientPower": 64,
+"list": "end"
+}

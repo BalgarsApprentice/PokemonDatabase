@@ -1,9 +1,0 @@
-flaaffy
-1      Growl
-1      Tackle
-1      ThunderShock
-9      ThunderShock
-18      Thunder Wave
-27      Cotton Spore
-36      Light Screen
-45      Thunder

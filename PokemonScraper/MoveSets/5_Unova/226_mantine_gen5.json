@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "mantine",
+"Bubble": 1,
+"BubbleBeam": 1,
+"Bullet Seed": 1,
+"Psybeam": 1,
+"Signal Beam": 1,
+"Supersonic": 1,
+"Tackle": 1,
+"Supersonic": 4,
+"BubbleBeam": 10,
+"Headbutt": 13,
+"Agility": 19,
+"Wing Attack": 22,
+"Water Pulse": 28,
+"Take Down": 31,
+"Confuse Ray": 37,
+"Bounce": 40,
+"Aqua Ring": 46,
+"Hydro Pump": 49,
+"list": "end"
+}

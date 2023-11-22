@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "hitmontop",
+"Revenge": 1,
+"Rolling Kick": 1,
+"Focus Energy": 6,
+"Pursuit": 10,
+"Quick Attack": 15,
+"Triple Kick": 19,
+"Rapid Spin": 24,
+"Counter": 28,
+"Feint": 33,
+"Agility": 37,
+"Gyro Ball": 42,
+"Quick Guard": 46,
+"Wide Guard": 46,
+"Detect": 51,
+"Close Combat": 55,
+"Endeavor": 60,
+"list": "end"
+}

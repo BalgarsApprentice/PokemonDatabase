@@ -1,9 +1,0 @@
-caterpie
-1      String Shot
-1      Tackle
-
-
-Yellow Version
-caterpie
-1      String Shot
-1      Tackle

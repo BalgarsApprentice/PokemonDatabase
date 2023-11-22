@@ -1,0 +1,17 @@
+{
+"Region": "Hoenn",
+"Pokemon": "kadabra",
+"Confusion": 1,
+"Kinesis": 1,
+"Teleport": 1,
+"Confusion": 16,
+"Disable": 18,
+"Psybeam": 21,
+"Reflect": 23,
+"Recover": 25,
+"Future Sight": 30,
+"Role Play": 33,
+"Psychic": 36,
+"Trick": 43,
+"list": "end"
+}

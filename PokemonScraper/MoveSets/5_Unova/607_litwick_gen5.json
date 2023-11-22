@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "litwick",
+"Astonish": 1,
+"Ember": 1,
+"Minimize": 3,
+"Smog": 5,
+"Fire Spin": 7,
+"Confuse Ray": 10,
+"Night Shade": 13,
+"Will-O-Wisp": 16,
+"Flame Burst": 20,
+"Imprison": 24,
+"Hex": 28,
+"Memento": 33,
+"Inferno": 38,
+"Curse": 43,
+"Shadow Ball": 49,
+"Pain Split": 55,
+"Overheat": 61,
+"list": "end"
+}

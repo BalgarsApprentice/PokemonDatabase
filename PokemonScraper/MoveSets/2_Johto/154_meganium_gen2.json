@@ -1,0 +1,17 @@
+{
+"Region": "Johto",
+"Pokemon": "meganium",
+"Growl": 1,
+"Razor Leaf": 1,
+"Reflect": 1,
+"Tackle": 1,
+"Razor Leaf": 8,
+"Reflect": 12,
+"PoisonPowder": 15,
+"Synthesis": 23,
+"Body Slam": 31,
+"Light Screen": 41,
+"Safeguard": 51,
+"SolarBeam": 61,
+"list": "end"
+}

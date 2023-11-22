@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "yamask",
+"Astonish": 1,
+"Protect": 1,
+"Disable": 5,
+"Haze": 9,
+"Night Shade": 13,
+"Hex": 17,
+"Will-O-Wisp": 21,
+"Ominous Wind": 25,
+"Curse": 29,
+"Guard Split": 33,
+"Power Split": 33,
+"Shadow Ball": 37,
+"Grudge": 41,
+"Mean Look": 45,
+"Destiny Bond": 49,
+"list": "end"
+}

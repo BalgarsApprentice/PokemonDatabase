@@ -1,0 +1,17 @@
+{
+"Region": "Johto",
+"Pokemon": "electrode",
+"Screech": 1,
+"Selfdestruct": 1,
+"SonicBoom": 1,
+"Tackle": 1,
+"Screech": 9,
+"SonicBoom": 17,
+"Selfdestruct": 23,
+"Rollout": 29,
+"Light Screen": 34,
+"Swift": 40,
+"Explosion": 44,
+"Mirror Coat": 48,
+"list": "end"
+}

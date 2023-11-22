@@ -1,0 +1,23 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "gallade",
+"Confusion": 1,
+"Double Team": 1,
+"Leaf Blade": 1,
+"Leer": 1,
+"Night Slash": 1,
+"Teleport": 1,
+"Confusion": 6,
+"Double Team": 10,
+"Teleport": 12,
+"Fury Cutter": 17,
+"Slash": 22,
+"Swords Dance": 25,
+"Psycho Cut": 31,
+"Helping Hand": 36,
+"Feint": 39,
+"False Swipe": 45,
+"Protect": 50,
+"Close Combat": 53,
+"list": "end"
+}

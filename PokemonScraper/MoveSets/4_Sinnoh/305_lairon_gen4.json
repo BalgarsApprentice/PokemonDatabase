@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "lairon",
+"Harden": 1,
+"Headbutt": 1,
+"Mud-Slap": 1,
+"Tackle": 1,
+"Harden": 4,
+"Mud-Slap": 8,
+"Headbutt": 11,
+"Metal Claw": 15,
+"Iron Defense": 18,
+"Roar": 22,
+"Take Down": 25,
+"Iron Head": 29,
+"Protect": 34,
+"Metal Sound": 40,
+"Iron Tail": 45,
+"Double-Edge": 51,
+"Metal Burst": 56,
+"list": "end"
+}

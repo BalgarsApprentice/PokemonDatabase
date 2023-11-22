@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "baltoy",
+"Confusion": 1,
+"Harden": 4,
+"Rapid Spin": 7,
+"Mud-Slap": 11,
+"Psybeam": 15,
+"Rock Tomb": 18,
+"Selfdestruct": 21,
+"AncientPower": 26,
+"Power Trick": 31,
+"Sandstorm": 34,
+"Cosmic Power": 37,
+"Extrasensory": 43,
+"Guard Split": 48,
+"Power Split": 48,
+"Earth Power": 51,
+"Heal Block": 54,
+"Explosion": 60,
+"list": "end"
+}

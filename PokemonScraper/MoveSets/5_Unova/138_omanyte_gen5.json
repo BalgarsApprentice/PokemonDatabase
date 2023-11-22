@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "omanyte",
+"Constrict": 1,
+"Withdraw": 1,
+"Bite": 7,
+"Water Gun": 10,
+"Rollout": 16,
+"Leer": 19,
+"Mud Shot": 25,
+"Brine": 28,
+"Protect": 34,
+"AncientPower": 37,
+"Tickle": 43,
+"Rock Blast": 46,
+"Shell Smash": 52,
+"Hydro Pump": 55,
+"list": "end"
+}

@@ -1,5 +1,0 @@
-simisear
-1      Flame Burst
-1      Fury Swipes
-1      Leer
-1      Lick

@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "zweilous",
+"Bite": 1,
+"Double Hit": 1,
+"Dragon Rage": 1,
+"Focus Energy": 1,
+"Focus Energy": 4,
+"Bite": 9,
+"Headbutt": 12,
+"DragonBreath": 17,
+"Roar": 20,
+"Crunch": 25,
+"Slam": 28,
+"Dragon Pulse": 32,
+"Work Up": 38,
+"Dragon Rush": 42,
+"Body Slam": 48,
+"Scary Face": 55,
+"Hyper Voice": 64,
+"Outrage": 71,
+"list": "end"
+}

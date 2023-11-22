@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "sigilyph",
+"Gust": 1,
+"Miracle Eye": 1,
+"Hypnosis": 4,
+"Psywave": 8,
+"Tailwind": 11,
+"Whirlwind": 14,
+"Psybeam": 18,
+"Air Cutter": 21,
+"Light Screen": 24,
+"Reflect": 28,
+"Synchronoise": 31,
+"Mirror Move": 34,
+"Gravity": 38,
+"Air Slash": 41,
+"Psychic": 44,
+"Cosmic Power": 48,
+"Sky Attack": 51,
+"list": "end"
+}

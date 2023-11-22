@@ -1,0 +1,16 @@
+{
+"Region": "Johto",
+"Pokemon": "mewtwo",
+"Confusion": 1,
+"Disable": 1,
+"Barrier": 11,
+"Swift": 22,
+"Psych Up": 33,
+"Future Sight": 44,
+"Mist": 55,
+"Psychic": 66,
+"Amnesia": 77,
+"Recover": 88,
+"Safeguard": 99,
+"list": "end"
+}

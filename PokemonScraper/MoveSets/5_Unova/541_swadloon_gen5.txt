@@ -1,7 +1,0 @@
-swadloon
-1      Bug Bite
-1      GrassWhistle
-1      Razor Leaf
-1      String Shot
-1      Tackle
-20      Protect

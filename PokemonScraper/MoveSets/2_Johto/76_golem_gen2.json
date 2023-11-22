@@ -1,0 +1,17 @@
+{
+"Region": "Johto",
+"Pokemon": "golem",
+"Defense Curl": 1,
+"Magnitude": 1,
+"Rock Throw": 1,
+"Tackle": 1,
+"Defense Curl": 6,
+"Rock Throw": 11,
+"Magnitude": 16,
+"Selfdestruct": 21,
+"Harden": 27,
+"Rollout": 34,
+"Earthquake": 41,
+"Explosion": 48,
+"list": "end"
+}

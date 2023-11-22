@@ -1,0 +1,15 @@
+{
+"Region": "Johto",
+"Pokemon": "alakazam",
+"Confusion": 1,
+"Kinesis": 1,
+"Teleport": 1,
+"Confusion": 16,
+"Disable": 18,
+"Psybeam": 21,
+"Recover": 26,
+"Future Sight": 31,
+"Psychic": 38,
+"Reflect": 45,
+"list": "end"
+}

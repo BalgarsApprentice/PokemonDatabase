@@ -1,0 +1,20 @@
+{
+"Region": "Hoenn",
+"Pokemon": "roselia",
+"Absorb": 1,
+"Growth": 5,
+"Poison Sting": 9,
+"Stun Spore": 13,
+"Mega Drain": 17,
+"Leech Seed": 21,
+"Magical Leaf": 25,
+"GrassWhistle": 29,
+"Giga Drain": 33,
+"Sweet Scent": 37,
+"Ingrain": 41,
+"Toxic": 45,
+"Petal Dance": 49,
+"Aromatherapy": 53,
+"Synthesis": 57,
+"list": "end"
+}

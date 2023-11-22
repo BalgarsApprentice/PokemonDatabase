@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "latias",
+"Psywave": 1,
+"Wish": 5,
+"Helping Hand": 10,
+"Safeguard": 15,
+"DragonBreath": 20,
+"Water Sport": 25,
+"Refresh": 30,
+"Mist Ball": 35,
+"Zen Headbutt": 40,
+"Recover": 45,
+"Psycho Shift": 50,
+"Charm": 55,
+"Psychic": 60,
+"Heal Pulse": 65,
+"Reflect Type": 70,
+"Guard Split": 75,
+"Dragon Pulse": 80,
+"Healing Wish": 85,
+"list": "end"
+}

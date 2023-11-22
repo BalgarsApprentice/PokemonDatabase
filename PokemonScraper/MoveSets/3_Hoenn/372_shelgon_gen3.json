@@ -1,0 +1,20 @@
+{
+"Region": "Hoenn",
+"Pokemon": "shelgon",
+"Bite": 1,
+"Headbutt": 1,
+"Leer": 1,
+"Rage": 1,
+"Bite": 5,
+"Leer": 9,
+"Headbutt": 17,
+"Focus Energy": 21,
+"Ember": 25,
+"Protect": 30,
+"DragonBreath": 38,
+"Scary Face": 47,
+"Crunch": 56,
+"Dragon Claw": 69,
+"Double-Edge": 78,
+"list": "end"
+}

@@ -1,0 +1,18 @@
+{
+"Region": "Hoenn",
+"Pokemon": "snorlax",
+"Tackle": 1,
+"Amnesia": 6,
+"Defense Curl": 10,
+"Belly Drum": 15,
+"Headbutt": 19,
+"Yawn": 24,
+"Rest": 28,
+"Snore": 28,
+"Body Slam": 33,
+"Block": 37,
+"Covet": 42,
+"Rollout": 46,
+"Hyper Beam": 51,
+"list": "end"
+}

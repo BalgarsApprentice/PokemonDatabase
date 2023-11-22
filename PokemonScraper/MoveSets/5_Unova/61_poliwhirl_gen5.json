@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "poliwhirl",
+"Bubble": 1,
+"Hypnosis": 1,
+"Water Sport": 1,
+"Bubble": 5,
+"Hypnosis": 8,
+"Water Gun": 11,
+"DoubleSlap": 15,
+"Rain Dance": 18,
+"Body Slam": 21,
+"BubbleBeam": 27,
+"Mud Shot": 32,
+"Belly Drum": 37,
+"Wake-Up Slap": 43,
+"Hydro Pump": 48,
+"Mud Bomb": 53,
+"list": "end"
+}

@@ -1,0 +1,15 @@
+{
+"Region": "Hoenn",
+"Pokemon": "corsola",
+"Tackle": 1,
+"Harden": 6,
+"Bubble": 12,
+"Recover": 17,
+"Refresh": 17,
+"BubbleBeam": 23,
+"Spike Cannon": 28,
+"Rock Blast": 34,
+"Mirror Coat": 39,
+"AncientPower": 45,
+"list": "end"
+}

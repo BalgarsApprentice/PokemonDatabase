@@ -1,3 +1,0 @@
-metapod
-1      Harden
-7      Harden

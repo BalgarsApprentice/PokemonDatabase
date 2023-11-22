@@ -1,9 +1,0 @@
-magikarp
-1      Splash
-15      Tackle
-
-
-Yellow Version
-magikarp
-1      Splash
-15      Tackle

@@ -1,0 +1,23 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "charizard",
+"Air Slash": 1,
+"Dragon Claw": 1,
+"Ember": 1,
+"Growl": 1,
+"Scratch": 1,
+"Shadow Claw": 1,
+"SmokeScreen": 1,
+"Ember": 7,
+"SmokeScreen": 10,
+"Dragon Rage": 17,
+"Scary Face": 21,
+"Fire Fang": 28,
+"Slash": 32,
+"Wing Attack": 36,
+"Flamethrower": 42,
+"Fire Spin": 49,
+"Heat Wave": 59,
+"Flare Blitz": 66,
+"list": "end"
+}

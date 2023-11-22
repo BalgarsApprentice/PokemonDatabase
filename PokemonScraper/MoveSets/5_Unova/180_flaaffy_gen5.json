@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "flaaffy",
+"Growl": 1,
+"Tackle": 1,
+"ThunderShock": 1,
+"Growl": 5,
+"ThunderShock": 10,
+"Thunder Wave": 14,
+"Cotton Spore": 20,
+"Charge": 25,
+"Electro Ball": 31,
+"Cotton Guard": 36,
+"Discharge": 42,
+"Signal Beam": 47,
+"Light Screen": 53,
+"Power Gem": 59,
+"Thunder": 65,
+"list": "end"
+}

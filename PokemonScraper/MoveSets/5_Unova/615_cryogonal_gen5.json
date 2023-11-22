@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "cryogonal",
+"Bind": 1,
+"Ice Shard": 5,
+"Sharpen": 9,
+"Rapid Spin": 13,
+"Icy Wind": 17,
+"Haze": 21,
+"Mist": 21,
+"Aurora Beam": 25,
+"Acid Armor": 29,
+"Ice Beam": 33,
+"Light Screen": 37,
+"Reflect": 37,
+"Slash": 41,
+"Confuse Ray": 45,
+"Recover": 49,
+"SolarBeam": 53,
+"Night Slash": 57,
+"Sheer Cold": 61,
+"list": "end"
+}

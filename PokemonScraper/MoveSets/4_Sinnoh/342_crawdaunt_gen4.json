@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "crawdaunt",
+"Bubble": 1,
+"Harden": 1,
+"Leer": 1,
+"ViceGrip": 1,
+"Harden": 7,
+"ViceGrip": 10,
+"Leer": 13,
+"BubbleBeam": 20,
+"Protect": 23,
+"Knock Off": 26,
+"Swift": 30,
+"Taunt": 34,
+"Night Slash": 39,
+"Crabhammer": 44,
+"Swords Dance": 52,
+"Crunch": 57,
+"Guillotine": 65,
+"list": "end"
+}

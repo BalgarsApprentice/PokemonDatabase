@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "linoone",
+"Growl": 1,
+"Headbutt": 1,
+"Switcheroo": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Tail Whip": 5,
+"Headbutt": 9,
+"Sand-Attack": 13,
+"Odor Sleuth": 17,
+"Mud Sport": 23,
+"Fury Swipes": 29,
+"Covet": 35,
+"Bestow": 41,
+"Slash": 47,
+"Rest": 53,
+"Belly Drum": 59,
+"Fling": 65,
+"list": "end"
+}

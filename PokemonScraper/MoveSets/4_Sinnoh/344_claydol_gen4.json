@@ -1,0 +1,23 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "claydol",
+"Confusion": 1,
+"Harden": 1,
+"Rapid Spin": 1,
+"Teleport": 1,
+"Harden": 3,
+"Rapid Spin": 5,
+"Mud-Slap": 7,
+"Psybeam": 11,
+"Rock Tomb": 15,
+"Selfdestruct": 19,
+"AncientPower": 25,
+"Power Trick": 31,
+"Hyper Beam": 36,
+"Sandstorm": 40,
+"Cosmic Power": 51,
+"Earth Power": 62,
+"Heal Block": 73,
+"Explosion": 86,
+"list": "end"
+}

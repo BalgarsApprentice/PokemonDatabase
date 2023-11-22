@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "latios",
+"Psywave": 1,
+"Heal Block": 5,
+"Helping Hand": 10,
+"Safeguard": 15,
+"DragonBreath": 20,
+"Protect": 25,
+"Refresh": 30,
+"Luster Purge": 35,
+"Zen Headbutt": 40,
+"Recover": 45,
+"Psycho Shift": 50,
+"Dragon Dance": 55,
+"Memento": 60,
+"Psychic": 65,
+"Dragon Pulse": 70,
+"list": "end"
+}

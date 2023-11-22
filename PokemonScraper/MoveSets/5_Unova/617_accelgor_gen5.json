@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "accelgor",
+"Acid Spray": 1,
+"Double Team": 1,
+"Leech Life": 1,
+"Quick Attack": 1,
+"Acid Spray": 4,
+"Double Team": 8,
+"Quick Attack": 13,
+"Struggle Bug": 16,
+"Mega Drain": 20,
+"Swift": 25,
+"Me First": 28,
+"Agility": 32,
+"Giga Drain": 37,
+"U-turn": 40,
+"Bug Buzz": 44,
+"Recover": 49,
+"Power Swap": 52,
+"Final Gambit": 56,
+"list": "end"
+}

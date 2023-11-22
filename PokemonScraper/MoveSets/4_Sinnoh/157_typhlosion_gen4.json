@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "typhlosion",
+"Ember": 1,
+"Gyro Ball": 1,
+"Leer": 1,
+"SmokeScreen": 1,
+"Tackle": 1,
+"SmokeScreen": 4,
+"Ember": 10,
+"Quick Attack": 13,
+"Flame Wheel": 20,
+"Defense Curl": 24,
+"Swift": 31,
+"Lava Plume": 35,
+"Flamethrower": 42,
+"Rollout": 46,
+"Double-Edge": 53,
+"Eruption": 57,
+"list": "end"
+}

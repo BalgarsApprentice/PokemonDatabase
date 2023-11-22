@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "omastar",
+"Bite": 1,
+"Constrict": 1,
+"Withdraw": 1,
+"Bite": 7,
+"Water Gun": 10,
+"Rollout": 16,
+"Leer": 19,
+"Mud Shot": 25,
+"Brine": 28,
+"Protect": 34,
+"AncientPower": 37,
+"Spike Cannon": 40,
+"Tickle": 48,
+"Rock Blast": 56,
+"Shell Smash": 67,
+"Hydro Pump": 75,
+"list": "end"
+}

@@ -1,8 +1,0 @@
-dunsparce
-1      Rage
-5      Defense Curl
-13      Glare
-18      Spite
-26      Pursuit
-30      Screech
-38      Take Down

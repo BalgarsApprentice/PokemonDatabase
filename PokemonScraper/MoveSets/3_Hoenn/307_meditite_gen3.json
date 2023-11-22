@@ -1,0 +1,16 @@
+{
+"Region": "Hoenn",
+"Pokemon": "meditite",
+"Bide": 1,
+"Meditate": 4,
+"Confusion": 9,
+"Detect": 12,
+"Hidden Power": 18,
+"Mind Reader": 22,
+"Calm Mind": 28,
+"Hi Jump Kick": 32,
+"Psych Up": 38,
+"Reversal": 42,
+"Recover": 48,
+"list": "end"
+}

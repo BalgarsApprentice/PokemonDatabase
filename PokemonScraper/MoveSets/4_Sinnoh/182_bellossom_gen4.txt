@@ -1,7 +1,0 @@
-bellossom
-1      Mega Drain
-1      Stun Spore
-1      Sunny Day
-1      Sweet Scent
-23      Magical Leaf
-53      Leaf Storm

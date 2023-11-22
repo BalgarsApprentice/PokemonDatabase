@@ -1,6 +1,0 @@
-pichu
-1      Charm
-1      ThunderShock
-6      Tail Whip
-8      Thunder Wave
-11      Sweet Kiss

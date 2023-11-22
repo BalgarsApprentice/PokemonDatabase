@@ -1,6 +1,0 @@
-cleffa
-1      Charm
-1      Pound
-4      Encore
-8      Sing
-13      Sweet Kiss

@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "slowpoke",
+"Curse": 1,
+"Tackle": 1,
+"Yawn": 1,
+"Growl": 5,
+"Water Gun": 9,
+"Confusion": 14,
+"Disable": 19,
+"Headbutt": 23,
+"Water Pulse": 28,
+"Zen Headbutt": 32,
+"Slack Off": 36,
+"Amnesia": 41,
+"Psychic": 45,
+"Rain Dance": 49,
+"Psych Up": 54,
+"Heal Pulse": 58,
+"list": "end"
+}

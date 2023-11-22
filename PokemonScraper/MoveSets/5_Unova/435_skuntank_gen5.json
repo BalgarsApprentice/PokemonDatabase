@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "skuntank",
+"Focus Energy": 1,
+"Poison Gas": 1,
+"Scratch": 1,
+"Poison Gas": 4,
+"Screech": 7,
+"Fury Swipes": 10,
+"SmokeScreen": 14,
+"Feint": 18,
+"Slash": 22,
+"Toxic": 27,
+"Acid Spray": 32,
+"Flamethrower": 34,
+"Night Slash": 41,
+"Memento": 51,
+"Explosion": 61,
+"list": "end"
+}

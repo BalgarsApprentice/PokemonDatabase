@@ -1,0 +1,17 @@
+{
+"Region": "Hoenn",
+"Pokemon": "azumarill",
+"Defense Curl": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Water Gun": 1,
+"Defense Curl": 3,
+"Tail Whip": 6,
+"Water Gun": 10,
+"Rollout": 15,
+"BubbleBeam": 24,
+"Double-Edge": 34,
+"Rain Dance": 45,
+"Hydro Pump": 57,
+"list": "end"
+}

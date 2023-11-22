@@ -1,0 +1,23 @@
+{
+"Region": "Kanto",
+"Pokemon": "rhydon",
+"Fury Attack": 1,
+"Horn Attack": 1,
+"Stomp": 1,
+"Tail Whip": 1,
+"Stomp": 30,
+"Tail Whip": 35,
+"Fury Attack": 40,
+"Horn Drill": 48,
+"Leer": 55,
+"Take Down": 64,
+"Yellow Version": "rhydon",
+"Horn Attack": 1,
+"Stomp": 30,
+"Tail Whip": 35,
+"Fury Attack": 40,
+"Horn Drill": 48,
+"Leer": 55,
+"Take Down": 64,
+"list": "end"
+}

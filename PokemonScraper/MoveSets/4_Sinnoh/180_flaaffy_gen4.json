@@ -1,0 +1,18 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "flaaffy",
+"Growl": 1,
+"Tackle": 1,
+"ThunderShock": 1,
+"Growl": 5,
+"ThunderShock": 10,
+"Thunder Wave": 14,
+"Cotton Spore": 20,
+"Charge": 25,
+"Discharge": 31,
+"Signal Beam": 36,
+"Light Screen": 42,
+"Power Gem": 47,
+"Thunder": 53,
+"list": "end"
+}

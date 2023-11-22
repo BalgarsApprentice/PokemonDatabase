@@ -1,5 +1,0 @@
-musharna
-1      Defense Curl
-1      Hypnosis
-1      Lucky Chant
-1      Psybeam

@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "electrode",
+"Charge": 1,
+"SonicBoom": 1,
+"Spark": 1,
+"Tackle": 1,
+"Tackle": 5,
+"SonicBoom": 8,
+"Spark": 12,
+"Rollout": 15,
+"Screech": 19,
+"Light Screen": 22,
+"Charge Beam": 26,
+"Selfdestruct": 29,
+"Swift": 35,
+"Magnet Rise": 40,
+"Gyro Ball": 46,
+"Explosion": 51,
+"Mirror Coat": 57,
+"list": "end"
+}

@@ -1,9 +1,0 @@
-growlithe
-1      Bite
-1      Roar
-9      Ember
-18      Leer
-26      Take Down
-34      Flame Wheel
-42      Agility
-50      Flamethrower

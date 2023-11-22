@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "shelgon",
+"Bite": 1,
+"Headbutt": 1,
+"Leer": 1,
+"Rage": 1,
+"Bite": 5,
+"Leer": 10,
+"Headbutt": 16,
+"Focus Energy": 20,
+"Ember": 25,
+"Protect": 30,
+"DragonBreath": 32,
+"Zen Headbutt": 37,
+"Scary Face": 43,
+"Crunch": 50,
+"Dragon Claw": 55,
+"Double-Edge": 61,
+"list": "end"
+}

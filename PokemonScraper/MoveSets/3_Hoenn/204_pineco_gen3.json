@@ -1,0 +1,14 @@
+{
+"Region": "Hoenn",
+"Pokemon": "pineco",
+"Protect": 1,
+"Tackle": 1,
+"Selfdestruct": 8,
+"Take Down": 15,
+"Rapid Spin": 22,
+"Bide": 29,
+"Explosion": 36,
+"Spikes": 43,
+"Double-Edge": 50,
+"list": "end"
+}

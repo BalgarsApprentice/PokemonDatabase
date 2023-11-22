@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "solrock",
+"Confusion": 1,
+"Harden": 1,
+"Tackle": 1,
+"Rock Throw": 9,
+"Fire Spin": 12,
+"Rock Polish": 20,
+"Psywave": 23,
+"Embargo": 31,
+"Cosmic Power": 34,
+"Heal Block": 42,
+"Rock Slide": 45,
+"SolarBeam": 53,
+"Explosion": 56,
+"Wonder Room": 64,
+"list": "end"
+}

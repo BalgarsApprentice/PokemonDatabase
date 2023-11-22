@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "togetic",
+"Charm": 1,
+"Growl": 1,
+"Magical Leaf": 1,
+"Metronome": 1,
+"Sweet Kiss": 1,
+"Metronome": 5,
+"Sweet Kiss": 9,
+"Yawn": 13,
+"Encore": 17,
+"Follow Me": 21,
+"Bestow": 25,
+"Wish": 29,
+"AncientPower": 33,
+"Safeguard": 37,
+"Baton Pass": 41,
+"Double-Edge": 45,
+"Last Resort": 49,
+"After You": 53,
+"list": "end"
+}

@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "slowking",
+"Curse": 1,
+"Hidden Power": 1,
+"Power Gem": 1,
+"Tackle": 1,
+"Yawn": 1,
+"Growl": 5,
+"Water Gun": 9,
+"Confusion": 14,
+"Disable": 19,
+"Headbutt": 23,
+"Water Pulse": 28,
+"Zen Headbutt": 32,
+"Nasty Plot": 36,
+"Swagger": 41,
+"Psychic": 45,
+"Trump Card": 49,
+"Psych Up": 54,
+"Heal Pulse": 58,
+"list": "end"
+}

@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "bayleef",
+"Growl": 1,
+"PoisonPowder": 1,
+"Razor Leaf": 1,
+"Tackle": 1,
+"Razor Leaf": 6,
+"PoisonPowder": 9,
+"Synthesis": 12,
+"Reflect": 18,
+"Magical Leaf": 22,
+"Natural Gift": 26,
+"Sweet Scent": 32,
+"Light Screen": 36,
+"Body Slam": 40,
+"Safeguard": 46,
+"Aromatherapy": 50,
+"SolarBeam": 54,
+"list": "end"
+}

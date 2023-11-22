@@ -1,0 +1,16 @@
+{
+"Region": "Johto",
+"Pokemon": "pidgeot",
+"Gust": 1,
+"Quick Attack": 1,
+"Sand-Attack": 1,
+"Tackle": 1,
+"Sand-Attack": 5,
+"Gust": 9,
+"Quick Attack": 15,
+"Whirlwind": 23,
+"Wing Attack": 33,
+"Agility": 46,
+"Mirror Move": 61,
+"list": "end"
+}

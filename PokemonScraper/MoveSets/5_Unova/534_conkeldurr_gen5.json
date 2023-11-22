@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "conkeldurr",
+"Bide": 1,
+"Focus Energy": 1,
+"Leer": 1,
+"Pound": 1,
+"Focus Energy": 4,
+"Bide": 8,
+"Low Kick": 12,
+"Rock Throw": 16,
+"Wake-Up Slap": 20,
+"Chip Away": 24,
+"Bulk Up": 29,
+"Rock Slide": 33,
+"DynamicPunch": 37,
+"Scary Face": 41,
+"Hammer Arm": 45,
+"Stone Edge": 49,
+"Focus Punch": 53,
+"Superpower": 57,
+"list": "end"
+}

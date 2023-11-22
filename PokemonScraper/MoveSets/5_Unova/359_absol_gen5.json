@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "absol",
+"Feint": 1,
+"Scratch": 1,
+"Leer": 4,
+"Taunt": 9,
+"Quick Attack": 12,
+"Razor Wind": 17,
+"Pursuit": 20,
+"Swords Dance": 25,
+"Bite": 28,
+"Double Team": 33,
+"Slash": 36,
+"Future Sight": 41,
+"Sucker Punch": 44,
+"Detect": 49,
+"Night Slash": 52,
+"Me First": 57,
+"Psycho Cut": 60,
+"Perish Song": 65,
+"list": "end"
+}

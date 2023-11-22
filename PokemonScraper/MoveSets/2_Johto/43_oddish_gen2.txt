@@ -1,9 +1,0 @@
-oddish
-1      Absorb
-7      Sweet Scent
-14      PoisonPowder
-16      Stun Spore
-18      Sleep Powder
-23      Acid
-32      Moonlight
-39      Petal Dance

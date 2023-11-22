@@ -1,0 +1,18 @@
+{
+"Region": "Hoenn",
+"Pokemon": "kirlia",
+"Confusion": 1,
+"Double Team": 1,
+"Growl": 1,
+"Teleport": 1,
+"Confusion": 6,
+"Double Team": 11,
+"Teleport": 16,
+"Calm Mind": 21,
+"Psychic": 26,
+"Imprison": 33,
+"Future Sight": 40,
+"Hypnosis": 47,
+"Dream Eater": 54,
+"list": "end"
+}

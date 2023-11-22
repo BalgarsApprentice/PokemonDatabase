@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "karrablast",
+"Peck": 1,
+"Leer": 4,
+"Endure": 8,
+"Fury Cutter": 13,
+"Fury Attack": 16,
+"Headbutt": 20,
+"False Swipe": 25,
+"Bug Buzz": 28,
+"Slash": 32,
+"Take Down": 37,
+"Scary Face": 40,
+"X-Scissor": 44,
+"Flail": 49,
+"Swords Dance": 52,
+"Double-Edge": 56,
+"list": "end"
+}

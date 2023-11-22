@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "butterfree",
+"Confusion": 1,
+"Confusion": 10,
+"PoisonPowder": 12,
+"Sleep Powder": 12,
+"Stun Spore": 12,
+"Gust": 16,
+"Supersonic": 18,
+"Whirlwind": 22,
+"Psybeam": 24,
+"Silver Wind": 28,
+"Tailwind": 30,
+"Rage Powder": 34,
+"Safeguard": 36,
+"Captivate": 40,
+"Bug Buzz": 42,
+"Quiver Dance": 46,
+"list": "end"
+}

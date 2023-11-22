@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "pineco",
+"Protect": 1,
+"Tackle": 1,
+"Selfdestruct": 6,
+"Bug Bite": 9,
+"Take Down": 12,
+"Rapid Spin": 17,
+"Bide": 20,
+"Natural Gift": 23,
+"Spikes": 28,
+"Payback": 31,
+"Explosion": 34,
+"Iron Defense": 39,
+"Gyro Ball": 42,
+"Double-Edge": 45,
+"list": "end"
+}

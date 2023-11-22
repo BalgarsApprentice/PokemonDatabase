@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "shelmet",
+"Leech Life": 1,
+"Acid": 4,
+"Bide": 8,
+"Curse": 13,
+"Struggle Bug": 16,
+"Mega Drain": 20,
+"Yawn": 25,
+"Protect": 28,
+"Acid Armor": 32,
+"Giga Drain": 37,
+"Body Slam": 40,
+"Bug Buzz": 44,
+"Recover": 49,
+"Guard Swap": 52,
+"Final Gambit": 56,
+"list": "end"
+}

@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "whirlipede",
+"Defense Curl": 1,
+"Poison Sting": 1,
+"Rollout": 1,
+"Screech": 1,
+"Poison Sting": 5,
+"Screech": 8,
+"Pursuit": 12,
+"Protect": 15,
+"Poison Tail": 19,
+"Iron Defense": 22,
+"Bug Bite": 23,
+"Venoshock": 28,
+"Agility": 32,
+"Steamroller": 37,
+"Toxic": 41,
+"Rock Climb": 46,
+"Double-Edge": 50,
+"list": "end"
+}

@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "ralts",
+"Growl": 1,
+"Confusion": 6,
+"Double Team": 10,
+"Teleport": 12,
+"Lucky Chant": 17,
+"Magical Leaf": 21,
+"Heal Pulse": 23,
+"Calm Mind": 28,
+"Psychic": 32,
+"Imprison": 34,
+"Future Sight": 39,
+"Charm": 43,
+"Hypnosis": 45,
+"Dream Eater": 50,
+"Stored Power": 54,
+"list": "end"
+}

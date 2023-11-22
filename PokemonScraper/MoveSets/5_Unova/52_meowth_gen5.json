@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "meowth",
+"Growl": 1,
+"Scratch": 1,
+"Bite": 6,
+"Fake Out": 9,
+"Fury Swipes": 14,
+"Screech": 17,
+"Faint Attack": 22,
+"Taunt": 25,
+"Pay Day": 30,
+"Slash": 33,
+"Nasty Plot": 38,
+"Assurance": 41,
+"Captivate": 46,
+"Night Slash": 49,
+"Feint": 54,
+"list": "end"
+}

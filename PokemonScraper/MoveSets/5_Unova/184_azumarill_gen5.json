@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "azumarill",
+"Defense Curl": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Water Gun": 1,
+"Defense Curl": 2,
+"Tail Whip": 7,
+"Water Gun": 10,
+"Rollout": 15,
+"BubbleBeam": 20,
+"Aqua Ring": 27,
+"Double-Edge": 33,
+"Rain Dance": 40,
+"Aqua Tail": 47,
+"Hydro Pump": 54,
+"list": "end"
+}

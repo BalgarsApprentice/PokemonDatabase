@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "drowzee",
+"Hypnosis": 1,
+"Pound": 1,
+"Disable": 7,
+"Confusion": 9,
+"Headbutt": 15,
+"Poison Gas": 18,
+"Meditate": 21,
+"Psybeam": 26,
+"Psych Up": 29,
+"Headbutt": 32,
+"Swagger": 37,
+"Psychic": 40,
+"Nasty Plot": 43,
+"Zen Headbutt": 50,
+"Future Sight": 53,
+"list": "end"
+}

@@ -1,0 +1,19 @@
+{
+"Region": "Hoenn",
+"Pokemon": "sceptile",
+"Absorb": 1,
+"Leer": 1,
+"Pound": 1,
+"Quick Attack": 1,
+"Absorb": 6,
+"Quick Attack": 11,
+"Fury Cutter": 16,
+"Pursuit": 17,
+"Screech": 23,
+"Leaf Blade": 29,
+"Agility": 35,
+"Slam": 43,
+"Detect": 51,
+"False Swipe": 59,
+"list": "end"
+}

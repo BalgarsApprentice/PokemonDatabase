@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "torterra",
+"Absorb": 1,
+"Razor Leaf": 1,
+"Tackle": 1,
+"Withdraw": 1,
+"Wood Hammer": 1,
+"Withdraw": 5,
+"Absorb": 9,
+"Razor Leaf": 13,
+"Curse": 17,
+"Bite": 22,
+"Mega Drain": 27,
+"Earthquake": 32,
+"Leech Seed": 33,
+"Synthesis": 39,
+"Crunch": 45,
+"Giga Drain": 51,
+"Leaf Storm": 57,
+"list": "end"
+}

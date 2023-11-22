@@ -1,0 +1,22 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "banette",
+"Curse": 1,
+"Knock Off": 1,
+"Night Shade": 1,
+"Screech": 1,
+"Night Shade": 5,
+"Screech": 8,
+"Curse": 13,
+"Spite": 16,
+"Shadow Sneak": 20,
+"Will-O-Wisp": 23,
+"Faint Attack": 28,
+"Shadow Ball": 31,
+"Sucker Punch": 35,
+"Embargo": 42,
+"Snatch": 51,
+"Grudge": 58,
+"Trick": 66,
+"list": "end"
+}

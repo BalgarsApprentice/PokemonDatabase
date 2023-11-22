@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "snorlax",
+"Tackle": 1,
+"Defense Curl": 4,
+"Amnesia": 9,
+"Lick": 12,
+"Belly Drum": 17,
+"Yawn": 20,
+"Chip Away": 25,
+"Rest": 28,
+"Snore": 28,
+"Sleep Talk": 33,
+"Body Slam": 36,
+"Block": 41,
+"Rollout": 44,
+"Crunch": 49,
+"Heavy Slam": 52,
+"Giga Impact": 57,
+"list": "end"
+}

@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "kabutops",
+"Absorb": 1,
+"Feint": 1,
+"Harden": 1,
+"Leer": 1,
+"Scratch": 1,
+"Absorb": 6,
+"Leer": 11,
+"Mud Shot": 16,
+"Sand-Attack": 21,
+"Endure": 26,
+"Aqua Jet": 31,
+"Mega Drain": 36,
+"Slash": 40,
+"Metal Sound": 45,
+"AncientPower": 54,
+"Wring Out": 63,
+"Night Slash": 72,
+"list": "end"
+}

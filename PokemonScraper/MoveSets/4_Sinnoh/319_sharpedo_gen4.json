@@ -1,0 +1,23 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "sharpedo",
+"Bite": 1,
+"Focus Energy": 1,
+"Leer": 1,
+"Rage": 1,
+"Rage": 6,
+"Focus Energy": 8,
+"Scary Face": 11,
+"Ice Fang": 16,
+"Screech": 18,
+"Swagger": 21,
+"Assurance": 26,
+"Crunch": 28,
+"Slash": 30,
+"Aqua Jet": 34,
+"Taunt": 40,
+"Agility": 45,
+"Skull Bash": 50,
+"Night Slash": 56,
+"list": "end"
+}

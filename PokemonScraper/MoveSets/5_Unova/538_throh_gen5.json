@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "throh",
+"Bind": 1,
+"Leer": 1,
+"Bide": 5,
+"Focus Energy": 9,
+"Seismic Toss": 13,
+"Vital Throw": 17,
+"Revenge": 21,
+"Storm Throw": 25,
+"Body Slam": 29,
+"Bulk Up": 33,
+"Circle Throw": 37,
+"Endure": 41,
+"Wide Guard": 45,
+"Superpower": 49,
+"Reversal": 53,
+"list": "end"
+}

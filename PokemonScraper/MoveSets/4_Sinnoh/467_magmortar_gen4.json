@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "magmortar",
+"Ember": 1,
+"Leer": 1,
+"Smog": 1,
+"SmokeScreen": 1,
+"ThunderPunch": 1,
+"Ember": 7,
+"SmokeScreen": 10,
+"Faint Attack": 16,
+"Fire Spin": 19,
+"Confuse Ray": 25,
+"Fire Punch": 28,
+"Lava Plume": 37,
+"Flamethrower": 43,
+"Sunny Day": 52,
+"Fire Blast": 58,
+"Hyper Beam": 67,
+"list": "end"
+}

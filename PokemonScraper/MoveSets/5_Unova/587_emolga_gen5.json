@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "emolga",
+"ThunderShock": 1,
+"Quick Attack": 4,
+"Tail Whip": 7,
+"Charge": 10,
+"Spark": 13,
+"Pursuit": 16,
+"Double Team": 19,
+"Shock Wave": 22,
+"Electro Ball": 26,
+"Acrobatics": 30,
+"Light Screen": 34,
+"Encore": 38,
+"Volt Switch": 42,
+"Agility": 46,
+"Discharge": 50,
+"list": "end"
+}

@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "weavile",
+"Assurance": 1,
+"Embargo": 1,
+"Leer": 1,
+"Quick Attack": 1,
+"Revenge": 1,
+"Scratch": 1,
+"Taunt": 1,
+"Quick Attack": 8,
+"Screech": 10,
+"Faint Attack": 14,
+"Fury Swipes": 21,
+"Nasty Plot": 24,
+"Icy Wind": 28,
+"Hone Claws": 35,
+"Night Slash": 38,
+"Fling": 42,
+"Metal Claw": 49,
+"Dark Pulse": 51,
+"list": "end"
+}

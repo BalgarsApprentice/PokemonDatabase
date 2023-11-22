@@ -1,0 +1,22 @@
+{
+"Region": "Unova",
+"Pokemon": "ninjask",
+"Bug Bite": 1,
+"Harden": 1,
+"Leech Life": 1,
+"Sand-Attack": 1,
+"Scratch": 1,
+"Leech Life": 5,
+"Sand-Attack": 9,
+"Fury Swipes": 14,
+"Mind Reader": 19,
+"Double Team": 20,
+"Fury Cutter": 20,
+"Screech": 20,
+"Swords Dance": 25,
+"Slash": 31,
+"Agility": 38,
+"Baton Pass": 45,
+"X-Scissor": 52,
+"list": "end"
+}

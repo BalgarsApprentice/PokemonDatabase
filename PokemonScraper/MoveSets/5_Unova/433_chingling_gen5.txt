@@ -1,8 +1,0 @@
-chingling
-1      Wrap
-6      Growl
-9      Astonish
-14      Confusion
-17      Uproar
-22      Last Resort
-25      Entrainment

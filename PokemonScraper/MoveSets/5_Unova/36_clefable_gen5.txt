@@ -1,5 +1,0 @@
-clefable
-1      DoubleSlap
-1      Metronome
-1      Minimize
-1      Sing

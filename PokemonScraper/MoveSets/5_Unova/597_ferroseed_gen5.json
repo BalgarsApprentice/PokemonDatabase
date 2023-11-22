@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "ferroseed",
+"Harden": 1,
+"Tackle": 1,
+"Rollout": 6,
+"Curse": 9,
+"Metal Claw": 14,
+"Pin Missile": 18,
+"Gyro Ball": 21,
+"Iron Defense": 26,
+"Mirror Shot": 30,
+"Ingrain": 35,
+"Selfdestruct": 38,
+"Iron Head": 43,
+"Payback": 47,
+"Flash Cannon": 52,
+"Explosion": 55,
+"list": "end"
+}

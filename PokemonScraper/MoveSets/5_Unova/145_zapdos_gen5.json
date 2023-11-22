@@ -1,0 +1,19 @@
+{
+"Region": "Unova",
+"Pokemon": "zapdos",
+"Peck": 1,
+"ThunderShock": 1,
+"Thunder Wave": 8,
+"Detect": 15,
+"Pluck": 22,
+"AncientPower": 29,
+"Charge": 36,
+"Agility": 43,
+"Discharge": 50,
+"Roost": 57,
+"Light Screen": 64,
+"Drill Peck": 71,
+"Thunder": 78,
+"Rain Dance": 85,
+"list": "end"
+}

@@ -1,0 +1,23 @@
+{
+"Region": "Unova",
+"Pokemon": "crustle",
+"Rock Blast": 1,
+"Sand-Attack": 1,
+"Shell Smash": 1,
+"Withdraw": 1,
+"Rock Blast": 5,
+"Withdraw": 7,
+"Sand-Attack": 11,
+"Faint Attack": 13,
+"Smack Down": 17,
+"Rock Polish": 19,
+"Bug Bite": 23,
+"Stealth Rock": 24,
+"Rock Slide": 29,
+"Slash": 31,
+"X-Scissor": 38,
+"Shell Smash": 43,
+"Flail": 50,
+"Rock Wrecker": 55,
+"list": "end"
+}

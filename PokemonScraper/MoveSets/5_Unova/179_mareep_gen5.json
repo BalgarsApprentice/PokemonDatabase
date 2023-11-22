@@ -1,0 +1,18 @@
+{
+"Region": "Unova",
+"Pokemon": "mareep",
+"Tackle": 1,
+"Growl": 5,
+"ThunderShock": 10,
+"Thunder Wave": 14,
+"Cotton Spore": 19,
+"Charge": 23,
+"Electro Ball": 28,
+"Cotton Guard": 32,
+"Discharge": 37,
+"Signal Beam": 41,
+"Light Screen": 46,
+"Power Gem": 50,
+"Thunder": 55,
+"list": "end"
+}

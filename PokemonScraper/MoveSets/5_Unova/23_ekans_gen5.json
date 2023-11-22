@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "ekans",
+"Leer": 1,
+"Wrap": 1,
+"Poison Sting": 4,
+"Bite": 9,
+"Glare": 12,
+"Screech": 17,
+"Acid": 20,
+"Spit Up": 25,
+"Stockpile": 25,
+"Swallow": 25,
+"Acid Spray": 28,
+"Mud Bomb": 33,
+"Gastro Acid": 36,
+"Haze": 41,
+"Coil": 44,
+"Gunk Shot": 49,
+"list": "end"
+}

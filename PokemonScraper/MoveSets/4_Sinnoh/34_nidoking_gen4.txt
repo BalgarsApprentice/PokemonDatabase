@@ -1,8 +1,0 @@
-nidoking
-1      Double Kick
-1      Focus Energy
-1      Peck
-1      Poison Sting
-23      Thrash
-43      Earth Power
-58      Megahorn

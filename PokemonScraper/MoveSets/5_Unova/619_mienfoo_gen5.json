@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "mienfoo",
+"Pound": 1,
+"Meditate": 5,
+"Detect": 9,
+"Fake Out": 13,
+"DoubleSlap": 17,
+"Swift": 21,
+"Calm Mind": 25,
+"Force Palm": 29,
+"Drain Punch": 33,
+"Jump Kick": 37,
+"U-turn": 41,
+"Quick Guard": 45,
+"Bounce": 49,
+"Hi Jump Kick": 53,
+"Reversal": 57,
+"Aura Sphere": 61,
+"list": "end"
+}

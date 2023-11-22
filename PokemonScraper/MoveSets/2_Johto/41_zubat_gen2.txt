@@ -1,8 +1,0 @@
-zubat
-1      Leech Life
-6      Supersonic
-12      Bite
-19      Confuse Ray
-27      Wing Attack
-36      Mean Look
-46      Haze

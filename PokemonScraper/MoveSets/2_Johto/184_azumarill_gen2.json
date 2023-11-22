@@ -1,0 +1,16 @@
+{
+"Region": "Johto",
+"Pokemon": "azumarill",
+"Defense Curl": 1,
+"Tackle": 1,
+"Tail Whip": 1,
+"Water Gun": 1,
+"Defense Curl": 3,
+"Tail Whip": 6,
+"Water Gun": 10,
+"Rollout": 15,
+"BubbleBeam": 25,
+"Double-Edge": 36,
+"Rain Dance": 48,
+"list": "end"
+}

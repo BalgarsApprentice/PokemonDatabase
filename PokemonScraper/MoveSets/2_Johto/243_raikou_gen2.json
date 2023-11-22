@@ -1,0 +1,14 @@
+{
+"Region": "Johto",
+"Pokemon": "raikou",
+"Bite": 1,
+"Leer": 1,
+"ThunderShock": 11,
+"Roar": 21,
+"Quick Attack": 31,
+"Spark": 41,
+"Reflect": 51,
+"Crunch": 61,
+"Thunder": 71,
+"list": "end"
+}

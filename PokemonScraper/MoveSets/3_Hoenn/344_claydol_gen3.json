@@ -1,0 +1,20 @@
+{
+"Region": "Hoenn",
+"Pokemon": "claydol",
+"Confusion": 1,
+"Harden": 1,
+"Rapid Spin": 1,
+"Teleport": 1,
+"Harden": 3,
+"Rapid Spin": 5,
+"Mud-Slap": 7,
+"Psybeam": 11,
+"Rock Tomb": 15,
+"Selfdestruct": 19,
+"AncientPower": 25,
+"Sandstorm": 31,
+"Hyper Beam": 36,
+"Cosmic Power": 42,
+"Explosion": 55,
+"list": "end"
+}

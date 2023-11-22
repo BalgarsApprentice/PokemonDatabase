@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "pidgeotto",
+"Gust": 1,
+"Sand-Attack": 1,
+"Tackle": 1,
+"Sand-Attack": 5,
+"Gust": 9,
+"Quick Attack": 13,
+"Whirlwind": 17,
+"Twister": 22,
+"FeatherDance": 27,
+"Agility": 32,
+"Wing Attack": 37,
+"Roost": 42,
+"Tailwind": 47,
+"Mirror Move": 52,
+"Air Slash": 57,
+"list": "end"
+}

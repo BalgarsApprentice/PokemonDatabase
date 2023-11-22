@@ -1,0 +1,20 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "graveler",
+"Defense Curl": 1,
+"Mud Sport": 1,
+"Rock Polish": 1,
+"Tackle": 1,
+"Mud Sport": 4,
+"Rock Polish": 8,
+"Rock Throw": 11,
+"Magnitude": 15,
+"Selfdestruct": 18,
+"Rollout": 22,
+"Rock Blast": 27,
+"Earthquake": 33,
+"Explosion": 38,
+"Double-Edge": 44,
+"Stone Edge": 49,
+"list": "end"
+}

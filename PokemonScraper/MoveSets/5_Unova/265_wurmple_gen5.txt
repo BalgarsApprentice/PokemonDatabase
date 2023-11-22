@@ -1,5 +1,0 @@
-wurmple
-1      String Shot
-1      Tackle
-5      Poison Sting
-15      Bug Bite

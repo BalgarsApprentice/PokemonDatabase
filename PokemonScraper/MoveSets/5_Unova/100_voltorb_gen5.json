@@ -1,0 +1,20 @@
+{
+"Region": "Unova",
+"Pokemon": "voltorb",
+"Charge": 1,
+"Tackle": 5,
+"SonicBoom": 8,
+"Spark": 12,
+"Rollout": 15,
+"Screech": 19,
+"Charge Beam": 22,
+"Light Screen": 26,
+"Electro Ball": 29,
+"Selfdestruct": 33,
+"Swift": 36,
+"Magnet Rise": 40,
+"Gyro Ball": 43,
+"Explosion": 47,
+"Mirror Coat": 50,
+"list": "end"
+}

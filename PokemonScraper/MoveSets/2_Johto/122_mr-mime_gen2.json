@@ -1,0 +1,16 @@
+{
+"Region": "Johto",
+"Pokemon": "mr-mime",
+"Barrier": 1,
+"Confusion": 6,
+"Substitute": 11,
+"Meditate": 16,
+"DoubleSlap": 21,
+"Light Screen": 26,
+"Reflect": 26,
+"Encore": 31,
+"Psybeam": 36,
+"Baton Pass": 41,
+"Safeguard": 46,
+"list": "end"
+}

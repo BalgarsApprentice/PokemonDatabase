@@ -1,8 +1,0 @@
-sunflora
-1      Absorb
-1      Pound
-4      Growth
-10      Razor Leaf
-19      Sunny Day
-31      Petal Dance
-46      SolarBeam

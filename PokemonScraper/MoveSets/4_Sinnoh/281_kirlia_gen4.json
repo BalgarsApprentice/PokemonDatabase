@@ -1,0 +1,21 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "kirlia",
+"Confusion": 1,
+"Double Team": 1,
+"Growl": 1,
+"Teleport": 1,
+"Confusion": 6,
+"Double Team": 10,
+"Teleport": 12,
+"Lucky Chant": 17,
+"Magical Leaf": 22,
+"Calm Mind": 25,
+"Psychic": 31,
+"Imprison": 36,
+"Future Sight": 39,
+"Charm": 45,
+"Hypnosis": 50,
+"Dream Eater": 53,
+"list": "end"
+}

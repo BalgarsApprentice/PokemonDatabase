@@ -1,9 +1,0 @@
-pinsir
-1      ViceGrip
-7      Focus Energy
-13      Bind
-19      Seismic Toss
-25      Harden
-31      Guillotine
-37      Submission
-43      Swords Dance

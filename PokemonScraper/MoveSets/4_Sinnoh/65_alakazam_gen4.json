@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "alakazam",
+"Confusion": 1,
+"Kinesis": 1,
+"Teleport": 1,
+"Confusion": 16,
+"Disable": 18,
+"Miracle Eye": 22,
+"Psybeam": 24,
+"Reflect": 28,
+"Recover": 30,
+"Psycho Cut": 34,
+"Calm Mind": 36,
+"Psychic": 40,
+"Future Sight": 42,
+"Trick": 46,
+"list": "end"
+}

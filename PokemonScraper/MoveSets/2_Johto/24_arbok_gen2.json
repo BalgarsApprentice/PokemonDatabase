@@ -1,0 +1,15 @@
+{
+"Region": "Johto",
+"Pokemon": "arbok",
+"Bite": 1,
+"Leer": 1,
+"Poison Sting": 1,
+"Wrap": 1,
+"Poison Sting": 9,
+"Bite": 15,
+"Glare": 25,
+"Screech": 33,
+"Acid": 43,
+"Haze": 51,
+"list": "end"
+}

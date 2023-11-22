@@ -1,0 +1,21 @@
+{
+"Region": "Unova",
+"Pokemon": "magnemite",
+"Metal Sound": 1,
+"Tackle": 1,
+"ThunderShock": 6,
+"Supersonic": 11,
+"SonicBoom": 14,
+"Thunder Wave": 17,
+"Spark": 22,
+"Electro Ball": 27,
+"Lock-On": 30,
+"Magnet Bomb": 33,
+"Screech": 38,
+"Discharge": 43,
+"Mirror Shot": 46,
+"Magnet Rise": 49,
+"Gyro Ball": 54,
+"Zap Cannon": 59,
+"list": "end"
+}

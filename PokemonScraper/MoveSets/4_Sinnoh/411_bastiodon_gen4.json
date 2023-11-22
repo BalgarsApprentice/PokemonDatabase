@@ -1,0 +1,19 @@
+{
+"Region": "Sinnoh",
+"Pokemon": "bastiodon",
+"Metal Sound": 1,
+"Protect": 1,
+"Tackle": 1,
+"Taunt": 1,
+"Taunt": 6,
+"Metal Sound": 10,
+"Take Down": 15,
+"Iron Defense": 19,
+"Swagger": 24,
+"AncientPower": 28,
+"Block": 30,
+"Endure": 36,
+"Metal Burst": 43,
+"Iron Head": 52,
+"list": "end"
+}
